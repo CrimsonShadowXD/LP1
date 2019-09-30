@@ -19,10 +19,9 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    char ***p;
-    
-    
-        
+    char **esp, ****med;
+    leer(esp,med); 
+    imp(esp,med);        
     return 0;
 }
 
