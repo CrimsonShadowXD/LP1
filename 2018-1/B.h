@@ -17,6 +17,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
+#include <fstream>
 using namespace std;
 
 void leer(char ***p);

@@ -20,8 +20,9 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     char ***p;
-    leer(p);
-    impr(p);
+    
+    
+        
     return 0;
 }
 
