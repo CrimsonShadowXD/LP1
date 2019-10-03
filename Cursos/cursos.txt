@@ -1,0 +1,63 @@
+INF353              Administracion de Sistemas Operativos                       
+INF274              Administracion de Sistemas Operativos y Base de Datos       
+INF273              Administracion de la Funcion Informatica                    
+INF263              Algoritmia                                                  
+1INF03              Analisis de Datos                                           
+INF265              Aplicaciones de Ciencias de la Computacion                  
+1INF02              Aprendizaje de Maquina                                      
+1INF04              Arquitectura de Sistemas de Informacion Empresarial         
+MAT237              Calculo Numerico                                            
+1MAT09              Calculo aplicado                                            
+1MAT06              Calculo diferencial                                         
+1MAT08              Calculo en varias variables                                 
+1MAT07              Calculo integral                                            
+INF370              Calidad de Software                                         
+IND275              Control de Gestion Industrial                               
+INF226              Desarrollo de Programas 1                                   
+INF227              Desarrollo de Programas 2                                   
+INF309              Desarrollo de Videojuegos                                   
+1ING02              Dibujo en ingenieria                                        
+IEE229              Electronica Digital                                         
+EST218              Estadistica para Ingenieria                                 
+1INF06              Estructura de datos y programacion metodica                 
+INF134              Estructuras discretas                                       
+1EST14              Experimentacion Numerica                                    
+1FIS02              Fisica  1                                                   
+1FIS04              Fisica  2                                                   
+1FIS06              Fisica  3                                                   
+1INF01              Fundamentos de programacion                                 
+INF617              Gestion de Proyectos de Software                            
+INF372              Graficos en Computacion                                     
+INF245              Ingenieria de Software                                      
+INF371              Inteligencia Artificial                                     
+INF357              Inteligencia de Negocios                                    
+IND273              Investigacion Operativa 1                                   
+IND281              Investigacion Operativa 2                                   
+1FIS03              Laboratorio de fisica 1                                     
+1FIS05              Laboratorio de fisica 2                                     
+1FIS07              Laboratorio de fisica 3                                     
+1QUI02              Laboratorio de quimica 1                                    
+INF281              Lenguaje de Programacion 1                                  
+INF282              Lenguaje de Programacion 2                                  
+INF291              Metodos y Procedimientos                                    
+INF234              Modelos y Simulacion Empresarial                            
+IEE240              Organizacion y Arquitectura de Computadoras                 
+INF295              Planeamiento Estrategico en Informatica                     
+INF008              Practica Supervisada Preprofesional                         
+INF320              Programacion en Dispositivos Moviles                        
+INF391              Proyecto de Tesis 1                                         
+INF392              Proyecto de Tesis 2                                         
+INF238              Redes de Computadoras                                       
+INF355              Seguridad Computacional                                     
+INF342              Seminario de Informatica                                    
+INF378              Sistemas Expertos                                           
+INF239              Sistemas Operativos                                         
+INF248              Sistemas de Informacion 1                                   
+INF250              Sistemas de Informacion 2                                   
+INF377              Sistemas de Informacion Gerencial                           
+INF144              Tecnicas de programacion                                    
+INF389              Temas avanzados en Computacion                              
+INF388              Temas avanzados en Ing. Computadora 01                      
+TEL201              Teoria de Comunicaciones                                    
+INF310              Teoria de grafos                                            
+1LIN16              Trabajo academico                                           

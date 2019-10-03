@@ -1,0 +1,189 @@
+INF353              Administracion de Sistemas Operativos                       
+Requisitos:INF238    INF245    
+
+INF274              Administracion de Sistemas Operativos y Base de Datos       
+Requisitos:INF238    INF246    
+
+INF273              Administracion de la Funcion Informatica                    
+Requisitos:INF245    
+
+INF263              Algoritmia                                                  
+Requisitos:INF144    
+
+1INF03              Analisis de Datos                                           
+Requisitos:INF265    EST218    1EST14    
+
+INF265              Aplicaciones de Ciencias de la Computacion                  
+Requisitos:INF263    
+
+1INF02              Aprendizaje de Maquina                                      
+Requisitos:INF265    
+
+1INF04              Arquitectura de Sistemas de Informacion Empresarial         
+Requisitos:INF245    
+
+MAT237              Calculo Numerico                                            
+Requisitos:INF144    1MAT09    
+
+1MAT09              Calculo aplicado                                            
+Requisitos:1MAT08    
+
+1MAT06              Calculo diferencial                                         
+Requisitos:1MAT05    1MAT04    
+
+1MAT08              Calculo en varias variables                                 
+Requisitos:1MAT07    
+
+1MAT07              Calculo integral                                            
+Requisitos:1MAT06    1MAT04    
+
+INF370              Calidad de Software                                         
+Requisitos:INF245    
+
+IND275              Control de Gestion Industrial                               
+Requisitos:IND231    
+
+INF226              Desarrollo de Programas 1                                   
+Requisitos:INF245    INF265    1EST14    
+
+INF227              Desarrollo de Programas 2                                   
+Requisitos:INF226    
+
+INF309              Desarrollo de Videojuegos                                   
+Requisitos:INF282    
+
+1ING02              Dibujo en ingenieria                                        
+Requisitos:1MAT04    
+
+IEE229              Electronica Digital                                         
+Requisitos:INF134    1FIS06    1FIS07    
+
+EST218              Estadistica para Ingenieria                                 
+Requisitos:1MAT07    
+
+1INF06              Estructura de datos y programacion metodica                 
+Requisitos:INF144    INF263    
+
+INF134              Estructuras discretas                                       
+Requisitos:1MAT07    
+
+1EST14              Experimentacion Numerica                                    
+Requisitos:EST218    INF245    
+
+1FIS02              Fisica  1                                                   
+Requisitos:1FIS01    1MAT06    
+
+1FIS04              Fisica  2                                                   
+Requisitos:1FIS02    1FIS03    1MAT07    
+
+1FIS06              Fisica  3                                                   
+Requisitos:1FIS04    1FIS05    
+
+1INF01              Fundamentos de programacion                                 
+Requisitos:1FIS02    
+
+INF617              Gestion de Proyectos de Software                            
+Requisitos:INF245    
+
+INF372              Graficos en Computacion                                     
+Requisitos:INF282    
+
+INF245              Ingenieria de Software                                      
+Requisitos:INF250    INF282    
+
+INF371              Inteligencia Artificial                                     
+Requisitos:INF263    INF282    
+
+INF357              Inteligencia de Negocios                                    
+Requisitos:INF245    
+
+IND273              Investigacion Operativa 1                                   
+Requisitos:IND231    INF291    
+
+IND281              Investigacion Operativa 2                                   
+Requisitos:IND273    INF265    
+
+1FIS03              Laboratorio de fisica 1                                     
+Requisitos:1FIS02    
+
+1FIS05              Laboratorio de fisica 2                                     
+Requisitos:1FIS04    
+
+1FIS07              Laboratorio de fisica 3                                     
+Requisitos:1FIS06    
+
+1QUI02              Laboratorio de quimica 1                                    
+Requisitos:1QUI01    
+
+INF281              Lenguaje de Programacion 1                                  
+Requisitos:1INF06    INF263    
+
+INF282              Lenguaje de Programacion 2                                  
+Requisitos:INF281    
+
+INF291              Metodos y Procedimientos                                    
+Requisitos:IND251    
+
+INF234              Modelos y Simulacion Empresarial                            
+Requisitos:IND231    
+
+IEE240              Organizacion y Arquitectura de Computadoras                 
+Requisitos:IEE229    
+
+INF295              Planeamiento Estrategico en Informatica                     
+Requisitos:INF245    IND231    
+
+INF008              Practica Supervisada Preprofesional                         
+Requisitos:INF248    
+
+INF320              Programacion en Dispositivos Moviles                        
+Requisitos:INF282    INF245    
+
+INF391              Proyecto de Tesis 1                                         
+Requisitos:INF245    1EST14    
+
+INF392              Proyecto de Tesis 2                                         
+Requisitos:INF391    
+
+INF238              Redes de Computadoras                                       
+Requisitos:TEL201    INF239    
+
+INF355              Seguridad Computacional                                     
+Requisitos:INF238    
+
+INF342              Seminario de Informatica                                    
+Requisitos:INF245    
+
+INF378              Sistemas Expertos                                           
+Requisitos:INF282    INF282    
+
+INF239              Sistemas Operativos                                         
+Requisitos:INF281    IEE240    
+
+INF248              Sistemas de Informacion 1                                   
+Requisitos:INF246    INF291    
+
+INF250              Sistemas de Informacion 2                                   
+Requisitos:INF248    INF281    
+
+INF377              Sistemas de Informacion Gerencial                           
+Requisitos:INF245    
+
+INF144              Tecnicas de programacion                                    
+Requisitos:1INF01    
+
+INF389              Temas avanzados en Computacion                              
+Requisitos:INF245    
+
+INF388              Temas avanzados en Ing. Computadora 01                      
+Requisitos:INF245    1MAT06    INF281    INF134    
+
+TEL201              Teoria de Comunicaciones                                    
+Requisitos:IEE240    
+
+INF310              Teoria de grafos                                            
+Requisitos:INF282    
+
+1LIN16              Trabajo academico                                           
+Requisitos:1LIN15    
+
