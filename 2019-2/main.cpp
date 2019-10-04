@@ -62,12 +62,22 @@ void leearchivo(char **&cursos,char **&nombres,char ***&requisitos){
         buffReq[n]=leerReq();
         c=cin.peek();
         if(c=='\n')break;
-        
+        n++;
     }
-   
+    buffCod[n]=NULL;
+    buffNom[n]=NULL;
+    buffReq[n]=NULL;
+    cursos=new char*[n];
+    nombres=new char*[n];
+    requisitos=new char**[n];
+    for(int i=0;i<=n;i++){
+        cursos[i]=buffCod[i];
+        nombres[i]=buffNom[i];
+        requisitos[i]=buffReq[i];
+    } 
 }
 void ordenacursos(char **&cursos,char **&nombres,char ***&requisitos){
-    ;
+    asd
    
 }
 void imprimecursos(char **cursos,char **nombres){

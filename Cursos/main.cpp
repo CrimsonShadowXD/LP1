@@ -14,6 +14,16 @@
 
 using namespace std;
 
+char *leerCadena(ifstream &arch,char delim){
+    char Buff[200],*cad;
+    arch.getline(Buff,200,delim);
+    cad=new char[strlen(Buff)+1];
+    strcpy(cad,Buff);
+    if(arch.eof())
+        return NULL;
+    return cad;
+}
+
 char* leecursos(ifstream &arch)
 {   char* curso;
     curso = new char[7];
@@ -204,13 +214,66 @@ void imprimetodo(char** lcursos,char** lnombres,char ***requi)
 
 }
 
+int BuscarRep(char *valor){
+    char *auxCur,*auxNom,**auxReq;
+    int C=0,N=0;
+    ifstream arch("R.csv",ios::in);
+    if(!arch)
+    {   cerr << "No se puede abrir el archivo 2";
+        exit(1);
+    }  
+    arch.seekg(0,ios::beg);
+    while(N<62)
+    {   
+        auxCur=leerCadena(arch,',');
+        if(auxCur==NULL) break;
+        auxNom=leerCadena(arch,',');
+        //cout<<arch.eof()<<endl;
+        auxReq=leereq(arch);   //Aqui setear según se solicite exacta o incremental
+        //cout << n <<" "<<bufcur[n]<<" "<<bufnom[n] <<" "<<bufreq[n][0]<< endl;
+        int n=0;
+        while(auxReq[n]!=NULL){
+            if(strcmp(auxReq[n],valor)==0)
+                C++;
+            n++;
+        }
+        N++;
+    }
+    arch.close();
+    return C;
+}
+
+void contar(char **cursos,int *&veces){
+    char *aux;
+    int i=0,Buff[100];
+    while(cursos[i]){
+        Buff[i]=0;
+        aux=cursos[i];
+        Buff[i]=BuscarRep(aux);
+        i++;
+    }
+    veces=new int[i];
+    for(int j=0;j<i;j++)
+        veces[j]=Buff[j];
+}
+
+void imprimir(char **cursos,int *veces){
+    int n=0;
+    while(cursos[n]){
+        cout<<left<<setw(30)<<cursos[n]<<veces[n]<<endl;
+        n++;
+    }
+}
+
 int main(int argc, char** argv) {
     char **cursos,**nombres,***requisitos;
-    
+    int *veces;
     leearchivo(cursos,nombres,requisitos);
     ordenacursos(cursos,nombres,requisitos);
     imprimecursos(cursos,nombres);
     imprimetodo(cursos,nombres,requisitos);
+    contar(cursos,veces);
+    imprimir(cursos,veces);
     return 0;
 }
 
