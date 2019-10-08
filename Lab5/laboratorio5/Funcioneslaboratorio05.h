@@ -1,0 +1,34 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/* 
+ * File:   Funcioneslaboratorio05.h
+ * Author: alulab14
+ *
+ * Created on 4 de octubre de 2019, 08:06 AM
+ */
+
+#ifndef FUNCIONESLABORATORIO05_H
+#define FUNCIONESLABORATORIO05_H
+
+#include <iostream>
+#include <iomanip>
+#include <cstring>
+#include <fstream>
+
+using namespace std;
+
+void leerArchivo(char **&lAlm,char **&lProd,char **&lPalet);
+void leerPalets(char ***&almacenes);
+void imprimirPalets(char ***almacenes);
+void leerProductos(char **&codigoProd,char **&nombreProd);
+void imprimirProductos(char **codigoProd,char **nombreProd);
+void ordenarproductos(char **&codigoProd,char **&nombreProd);
+void cuentaproductos(char ***almacenes,char **codigoProd,char **nombreProd);
+
+
+#endif /* FUNCIONESLABORATORIO05_H */
+
