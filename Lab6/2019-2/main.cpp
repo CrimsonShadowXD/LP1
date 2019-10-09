@@ -11,7 +11,7 @@
  * Created on 7 de octubre de 2019, 20:41
  */
 
-#include "Funcioneslaboratorio06.h"
+#include "newfile.h"
 
 using namespace std;
 
@@ -19,11 +19,12 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    char ***almacenes,**codigoProd,**nombreProd;
-    leerPalets(almacenes);
-    imprimirPalets(almacenes);
-    leerProductos(codigoProd,nombreProd);
-    imprimirProductos(codigoProd,nombreProd);
+    void *almacenes,*codigoProd,*nombreProd;
+    int N;
+    leerPalets(almacenes,N);
+    imprimirPalets(almacenes,N);
+    //leerProductos(codigoProd,nombreProd);
+    //imprimirProductos(codigoProd,nombreProd);
     //ordenarproductos(codigoProd,nombreProd);
     //imprimirProductos(codigoProd,nombreProd);
     //cuentaproductos(almacenes,codigoProd,nombreProd);

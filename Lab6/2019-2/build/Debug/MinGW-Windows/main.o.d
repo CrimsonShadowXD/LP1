@@ -1,3 +1,3 @@
-build/Debug/MinGW-Windows/main.o: main.cpp Funcioneslaboratorio06.h
+build/Debug/MinGW-Windows/main.o: main.cpp newfile.h
 
-Funcioneslaboratorio06.h:
+newfile.h:
