@@ -10,7 +10,7 @@ using namespace std;
 void *leerCadena2(ifstream& arch,char d){
     int codint,*codigo;
     char *cad,nom[100];
-    void **linea=(void**);
+    void *linea;
     
     arch>>ws;
     arch.getline(nom,100,d);
@@ -95,7 +95,7 @@ void imprimirPalets(void *almacenes,int n){
         imprimir(arch,aux[i]);
 }
 void leerProductos(void *&codigoProd,void *&nombreProd,int &n){
-    void Buff[500],Buff2[500],*p1,**paux1,**paux2,*p2;
+    void *Buff[500],*Buff2[500],*p1,**paux1,**paux2,*p2;
     n=0;
     ifstream arch("Stock .txt",ios::in);
     if(!arch)
@@ -120,8 +120,11 @@ void leerProductos(void *&codigoProd,void *&nombreProd,int &n){
     codigoProd=paux1;
     nombreProd=paux2;
 }
-void imprimirProductos(void *codigoProd,void *nombreProd){
-
+void imprimirProductos(void *codigoProd,void *nombreProd,int n){
+    void *aux1=
+    ofstream arch("Products .txt",ios::out);
+    for(int i=0;i<n;i++)
+        imprim(arch,codigoProd[i],nombreProd[i]);
 }
 void ordenarproductos(void *&codigoProd,void *&nombreProd){
 
