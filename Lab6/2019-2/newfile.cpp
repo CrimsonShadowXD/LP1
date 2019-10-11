@@ -39,12 +39,12 @@ void *leerCadena(ifstream& arch){
     nombre = new char[strlen(nom)+1];
     strcpy(nombre,nom);
     
-    cout<<codint<<' '<<nom<<' ';
+    //cout<<codint<<' '<<nom<<' ';
     arch>>ws;
     arch.getline(nom2,5,'\n');
     codigo2 = new char[strlen(nom2)+1];
     strcpy(codigo2,nom2);
-    cout<<nom2<<endl;
+    //cout<<nom2<<endl;
     arch>>ws;
     linea = new void*[3];
     linea[0] = codigo;
@@ -59,7 +59,7 @@ void leerPalets(void *&almacenes,int &n){
     ifstream arch("Stock .txt",ios::in);
     if(!arch)
     {
-        cout << "No abre";
+        cerr << "No abre";
         exit(1);
     }
     while(1){
@@ -97,10 +97,10 @@ void imprimirPalets(void *almacenes,int n){
 void leerProductos(void *&codigoProd,void *&nombreProd,int &n){
     void *Buff[500],*Buff2[500],*p1,**paux1,**paux2,*p2;
     n=0;
-    ifstream arch("Stock .txt",ios::in);
+    ifstream arch("Productos.csv",ios::in);
     if(!arch)
     {
-        cout << "No abre";
+        cerr << "No abre";
         exit(1);
     }
     while(1){
@@ -109,6 +109,7 @@ void leerProductos(void *&codigoProd,void *&nombreProd,int &n){
         p2=leerCadena2(arch,'\n');
         Buff[n]=p1;
         Buff2[n]=p2;
+        //cout<<(char*)Buff[n]<<' '<<(char*)Buff2[n]<<endl;
         n++;
     }
     paux1 = new void*[n+1];
@@ -120,15 +121,85 @@ void leerProductos(void *&codigoProd,void *&nombreProd,int &n){
     codigoProd=paux1;
     nombreProd=paux2;
 }
+
+void imprim(ofstream& arch,void *codigoProd,void *nombreProd){
+    char *auxC;
+    auxC=(char*)codigoProd;
+    arch<<auxC<<' ';
+    auxC=(char*)nombreProd;
+    arch<<auxC<<endl;
+}
+
 void imprimirProductos(void *codigoProd,void *nombreProd,int n){
-    void *aux1=
+    void **aux1=(void**)codigoProd;
+    void **aux2=(void**)nombreProd;
     ofstream arch("Products .txt",ios::out);
     for(int i=0;i<n;i++)
-        imprim(arch,codigoProd[i],nombreProd[i]);
+        imprim(arch,aux1[i],aux2[i]);
 }
-void ordenarproductos(void *&codigoProd,void *&nombreProd){
 
+int comparar(void *peri,void *perj){   
+    //void **pi=(void**)peri, **pj=(void**)perj;
+    char *nombre1,*nombre2;
+
+    nombre1=(char*)peri;
+    nombre2=(char*)perj;
+    
+    //cout<<nombre1<<' '<<nombre2<<endl;
+    //int X;
+    //cin>>X;
+    return strcmp(nombre1,nombre2);
 }
-void cuentaproductos(void *almacenes,void *codigoProd,void *nombreProd){
 
+
+void cambio(void *&a,void *&b){
+    void *aux;
+    
+    aux=a;
+    a=b;
+    b=aux;
+    
+}
+
+
+void QuickS(void *&codigoProd,void *&nombreProd,int ini,int fin){
+    int pivot,i;
+    void **aux=(void**)nombreProd;
+    void **aux2=(void**)codigoProd;
+    
+    if(ini>=fin)
+        return;
+    pivot=ini;
+    for(i=ini+1;i<=fin;i++){
+        if(comparar(aux[i],aux[ini])<0){
+            cambio(aux[++pivot],aux[i]);
+            cambio(aux2[pivot],aux2[i]);
+            
+        }
+    }
+    
+    //cout<<ini<<' '<<fin<<' '<<pivot<<endl;
+    cambio(aux[ini],aux[pivot]);
+    cambio(aux2[ini],aux2[pivot]);
+    QuickS(codigoProd,nombreProd,ini,pivot-1);
+    QuickS(codigoProd,nombreProd,pivot+1,fin);
+    
+}
+
+void ordenarproductos(void *&codigoProd,void *&nombreProd,int n){
+    QuickS(codigoProd,nombreProd,0,n-1);
+}
+
+int contar(void *almacenes,void *codigoProd){
+    char auxCod=(char*)codigoProd;
+    void *auxAlm=(void**)almacenes;
+    
+}
+
+void cuentaproductos(void *almacenes,void *codigoProd,void *nombreProd,int n){
+    void **aux=(void**)nombreProd;
+    void **aux2=(void**)codigoProd;
+    for(int i=0;i<n;i++){
+        int c=contar(almacenes,codigoProd[0]);
+    }
 }

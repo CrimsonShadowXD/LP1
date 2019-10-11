@@ -25,9 +25,9 @@ using namespace std;
 void leerPalets(void *&almacenes,int &N);
 void imprimirPalets(void *almacenes,int N);
 void leerProductos(void *&codigoProd,void *&nombreProd,int &N);
-void imprimirProductos(void *codigoProd,void *nombreProd);
-void ordenarproductos(void *&codigoProd,void *&nombreProd);
-void cuentaproductos(void *almacenes,void *codigoProd,void *nombreProd);
+void imprimirProductos(void *codigoProd,void *nombreProd,int N);
+void ordenarproductos(void *&codigoProd,void *&nombreProd,int N);
+void cuentaproductos(void *almacenes,void *codigoProd,void *nombreProd,int N);
 
 
 #endif /* NEWFILE_H */

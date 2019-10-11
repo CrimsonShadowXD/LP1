@@ -23,10 +23,10 @@ int main(int argc, char** argv) {
     int N;
     leerPalets(almacenes,N);
     imprimirPalets(almacenes,N);
-    //leerProductos(codigoProd,nombreProd);
-    //imprimirProductos(codigoProd,nombreProd);
-    //ordenarproductos(codigoProd,nombreProd);
-    //imprimirProductos(codigoProd,nombreProd);
-    //cuentaproductos(almacenes,codigoProd,nombreProd);
+    leerProductos(codigoProd,nombreProd,N);
+    imprimirProductos(codigoProd,nombreProd,N);
+    ordenarproductos(codigoProd,nombreProd,N);
+    imprimirProductos(codigoProd,nombreProd,N);
+    cuentaproductos(almacenes,codigoProd,nombreProd,N);
     return 0;
 }
