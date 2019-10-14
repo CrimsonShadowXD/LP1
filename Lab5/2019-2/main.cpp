@@ -77,7 +77,7 @@ void leearchivo(char **&cursos,char **&nombres,char ***&requisitos){
     } 
 }
 void ordenacursos(char **&cursos,char **&nombres,char ***&requisitos){
-    asd
+    
    
 }
 void imprimecursos(char **cursos,char **nombres){

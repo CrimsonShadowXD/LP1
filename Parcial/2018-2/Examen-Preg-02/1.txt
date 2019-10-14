@@ -1,0 +1,16 @@
+Cod: M0G-547 Nombre: Lopez/Reyes/Juan Carlos
+Destinos:
+                              Ica
+                              Arequipa
+                              Moquegua
+                              Tacna
+asientos: 25
+
+Cod: mlsgm Nombre: FGKN/MNVANV/KLKFKF FKFK
+Destinos:
+                              pppp
+                              lll
+                              Huaraz
+                              Chiclayo
+asientos: 20
+

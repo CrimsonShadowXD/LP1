@@ -1,0 +1,44 @@
+                                             Lista de Pasajeros
+================================================================================================================================================================================================================================================
+Vehiculo No. 1
+Placa: M0G-547
+Chofer: Lopez/Reyes/Juan Carlos
+Ruta: Ica - Arequipa - Moquegua - Tacna
+Pasajeros: 
+Ica:
+  No hay pasajeros
+
+Arequipa:
+  No hay pasajeros
+
+Moquegua:
+  No hay pasajeros
+
+Tacna:
+  No hay pasajeros
+
+Vehiculo No. 2
+Placa: mlsgm
+Chofer: FGKN/MNVANV/KLKFKF FKFK
+Ruta: pppp - lll - Huaraz - Chiclayo
+Pasajeros: 
+pppp:
+No.      DNI                              Nombre
+  No hay pasajeros
+
+lll:
+No.      DNI                              Nombre
+  No hay pasajeros
+
+Huaraz:
+No.      DNI                              Nombre
+  1      858282                            SSS/SSS/SSS SSS
+
+Chiclayo:
+No.      DNI                              Nombre
+  No hay pasajeros
+
+================================================================================================================================================================================================================================================
+PASAJEROS SIN ASIGNAR
+No.      DNI                              Nombre                            Destino
+  1       222222                            FFFFF/FFFF/FFF                    llll

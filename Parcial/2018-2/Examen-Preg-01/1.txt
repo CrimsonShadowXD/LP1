@@ -1,0 +1,15 @@
+Cod: kasdk Nombre: ASD/SDFFASDF/ASDF ASDF ASDF
+Destinos:
+                              fffff
+                              gggggg
+                              aaaaa
+asientos: 43
+
+Cod: mlsgm Nombre: FGKN/MNVANV/KLKFKF FKFK
+Destinos:
+                              pppp
+                              lll
+                              rrr
+                              zzzz
+asientos: 60
+
