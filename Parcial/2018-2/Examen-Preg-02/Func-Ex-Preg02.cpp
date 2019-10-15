@@ -9,6 +9,7 @@
 #define INC 5
 using namespace std;
 
+//Llega hasta la segunda parte del reporte
 void saltarLineas(ifstream& arch,int &n){
     char c,*cad;
     cad=new char[500];
@@ -21,28 +22,23 @@ void saltarLineas(ifstream& arch,int &n){
         
 }
 
-void leerPasajeros(ifstream& arch,char ****&pasajeros,char ***&sinAsignar){
-    int n=0,cap=0;
-    while(1){
-        if(arch.eof())break;
-    }
-}
-
+//funcion para leer un pasajero
 char **leerPasajeros(ifstream& arch){
     char **aux,*Nomb,*Dest,*DNI;
     aux=new char*[3];
     
     DNI=new char[15];
     arch.getline(DNI,15,',');
-    //cout<<DNI<<endl;
+    //cout<<DNI<<' ';
     if(arch.eof())return NULL;
     
     Nomb=new char[100];
     arch.getline(Nomb,100,',');
-    //cout<<Nomb<<endl;
+    //cout<<Nomb<<' ';
     
     Dest=new char[75];
     arch.getline(Dest,75,'\n');
+    //cout<<Dest<<endl;
     
     aux[0]=DNI;
     aux[1]=Nomb;
@@ -50,6 +46,8 @@ char **leerPasajeros(ifstream& arch){
     return aux;
 }
 
+
+//Funciones para asignar al pasajero
 void buscarDest(char **ruta,char **aux,int &encontrado){
     int c=2;
     while(!encontrado && ruta[c]!=NULL){
@@ -72,7 +70,7 @@ void BuscarCarro(char ***rutas,int *asientos,char **aux,int &posActual){
 
 int contarPasajeros(char ***pasajeros){
     int c=0;
-    if (pasajeros==NULL)
+    if (pasajeros[0]==NULL)
         return 0;
     else
         for(int i=0;pasajeros[i]!=NULL;i++)c++;
@@ -81,7 +79,7 @@ int contarPasajeros(char ***pasajeros){
 
 void colocarPasajero(char ***&pasajeros,char **aux){
     char ***nuevoArr;
-    if(pasajeros==NULL){
+    if(pasajeros[0]==NULL){
         pasajeros=new char**[2];
         pasajeros[0]=aux;
         pasajeros[1]=NULL;
@@ -93,6 +91,7 @@ void colocarPasajero(char ***&pasajeros,char **aux){
             nuevoArr[i]=pasajeros[i];
         nuevoArr[n]=aux;
         nuevoArr[n+1]=NULL;
+        pasajeros=nuevoArr;
     }
 }
 
@@ -122,14 +121,18 @@ void colocarSinAsignar(char **aux,char ***&sinAsignar,int &n,int &cap){
 void ubicarPasajeros(char ***rutas,int *asientos,char ****&pasajeros,char ***&sinAsignar){
     char **aux;
     int n=0,asignado,posActual,SA_n=0,SA_cap=0;
-    ifstream arch("a.csv",ios::in);
+    ifstream arch("Transporte.csv",ios::in);
     if(!arch){
         cerr<<"Error"<<endl;
         exit(1);
     }
     saltarLineas(arch,n);
+    //cout<<n<<endl;
     pasajeros=new char***[n];
-    for(int i=0;i<n;i++)pasajeros[i]=NULL;
+    for(int i=0;i<n;i++){
+        pasajeros[i]=new char**[1];
+        pasajeros[i][0]=NULL;
+    }
     aux=new char*[3];
     sinAsignar=NULL;
     while(1){
@@ -137,20 +140,24 @@ void ubicarPasajeros(char ***rutas,int *asientos,char ****&pasajeros,char ***&si
         posActual=0;
         aux=leerPasajeros(arch);
         if(aux==NULL)break;
-        while(!asignado && posActual <n){
+        while(!asignado && posActual <n-1 && rutas[posActual]!=NULL){
             BuscarCarro(rutas,asientos,aux,posActual);
+            if(posActual>=n-1)break;
+            //cout<<contarPasajeros(pasajeros[posActual])<<' '<<asientos[posActual]<<' '<<posActual<<endl;
             if(contarPasajeros(pasajeros[posActual])==asientos[posActual])
                 posActual++;
             else {
                 asignado=1;
-                if(pasajeros[posActual]==NULL)colocarPasajero(pasajeros[posActual],aux);
+                colocarPasajero(pasajeros[posActual],aux);
             }
         }
-        if(posActual==n-1)colocarSinAsignar(aux,sinAsignar,SA_n,SA_cap);
+        if(posActual==n-1 && !asignado)colocarSinAsignar(aux,sinAsignar,SA_n,SA_cap);
     }
     arch.close();
 }
 
+
+//funciones para imprimir pasajero
 void imprRuta(ofstream& arch,char **ruta,int &n){
     arch<<"Placa: "<<ruta[0]<<endl;
     arch<<"Chofer: "<<ruta[1]<<endl;
@@ -166,7 +173,7 @@ void imprRuta(ofstream& arch,char **ruta,int &n){
 void impPasDestino(ofstream& arch,char *Destino,char **pasajeros,int &n){
     //cout<<pasajeros[2]<<':'<<Destino<<endl;
     if(strcmp(pasajeros[2],Destino)==0){
-        arch<<setw(3)<<n<<setw(6)<<' '<<pasajeros[0]<<setw(28)<<' '<<pasajeros[1]<<endl;
+        arch<<setw(3)<<n<<setw(6)<<' '<<pasajeros[0]<<setw(25)<<' '<<pasajeros[1]<<endl;
         n++;
     }
 }
@@ -188,7 +195,7 @@ void imprPasaj(ofstream& arch,char **ruta,char ***pasajeros,int auxPos){
 }
 
 void imprimrSA(ofstream& arch,char **sinAsignar){
-    arch<<setw(6)<<' '<<sinAsignar[0]<<setw(28)<<' '<<sinAsignar[1]<<setw(20)<<' '<<sinAsignar[2]<<endl;
+    arch<<setw(6)<<' '<<sinAsignar[0]<<setw(10)<<' '<<setw(50)<<left<<sinAsignar[1]<<sinAsignar[2]<<endl;
 }
 
 void reporteDeViajes(char ***rutas,int *asientos,char ****pasajeros,char ***sinAsignar){
@@ -208,7 +215,7 @@ void reporteDeViajes(char ***rutas,int *asientos,char ****pasajeros,char ***sinA
     for(int i=0;i<240;i++)arch<<'=';arch<<endl;
     arch<<"PASAJEROS SIN ASIGNAR"<<endl;
     if(sinAsignar!=NULL){
-        arch<<"No."<<setw(9)<<"DNI"<<setw(30)<<' '<<"Nombre"<<setw(28)<<' '<<"Destino"<<endl;
+        arch<<"No."<<setw(9)<<"DNI"<<setw(15)<<' '<<"Nombre"<<setw(48)<<' '<<"Destino"<<endl;
         for(int i=0;sinAsignar[i]!=NULL;i++){
             arch<<setw(3)<<i+1<<' ';
             imprimrSA(arch,sinAsignar[i]);

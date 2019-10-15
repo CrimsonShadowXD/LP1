@@ -82,7 +82,7 @@ void leerRutas(char ***&rutas,int *&asientos){
     int auxInt;
     int n,cap;
     
-    ifstream arch("a.csv",ios::in);
+    ifstream arch("Transporte.csv",ios::in);
     if(!arch){
         cerr<<"error"<<endl;
         exit(1);
@@ -113,7 +113,6 @@ void imprimirRuta(ofstream& arch,char **ruta){
 
 void imprimirRutas(char ***rutas,int *asientos){
     ofstream arch("1.txt",ios::out);
-    
     for (int i=0;rutas[i]!=NULL;i++){
         imprimirRuta(arch,rutas[i]);
         arch<<"asientos: "<<asientos[i]<<endl<<endl;

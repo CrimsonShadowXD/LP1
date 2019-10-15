@@ -1,16 +1,131 @@
-Cod: M0G-547 Nombre: Lopez/Reyes/Juan Carlos
+Cod: P9A-528 Nombre: CASTILLO/MEJIA/GUSTAVO ALONSO
 Destinos:
                               Ica
                               Arequipa
                               Moquegua
                               Tacna
+asientos: 10
+
+Cod: H9R-580 Nombre: SAENZ/ARANDA/WILMER
+Destinos:
+                              Junin
+                              Pasco
+                              Pucallpa
 asientos: 25
 
-Cod: mlsgm Nombre: FGKN/MNVANV/KLKFKF FKFK
+Cod: V1S-429 Nombre: CALIXTO/TORRES/MIGUEL
 Destinos:
-                              pppp
-                              lll
+                              Huanuco
+                              Pucallpa
+                              Yurimaguas
+                              Iquitos
+asientos: 15
+
+Cod: Z0V-608 Nombre: ZARATE/URBINA/DELIA
+Destinos:
                               Huaraz
+                              Trujillo
+                              Cajamarca
+                              Chachapoyas
+                              Tarapoto
+asientos: 22
+
+Cod: Q8B-464 Nombre: ZAMORA/CABRERA/CARMEN
+Destinos:
+                              Huaraz
+                              Trujillo
                               Chiclayo
+                              Piura
+                              Sullana
+                              Tumbes
+asientos: 25
+
+Cod: M3H-482 Nombre: CABRERA/MORENO/DELIA ESTEFANIA
+Destinos:
+                              Huacho
+                              Pasco
+asientos: 25
+
+Cod: G8Y-563 Nombre: FLORENCIO/POLO/FIORELLA ERIKA
+Destinos:
+                              Ayacucho
+                              Abancay
+asientos: 33
+
+Cod: W0O-821 Nombre: CHUNG/ZUNIGA/ZKENIA IRMA
+Destinos:
+                              Ayacucho
+                              Abancay
+                              Cuzco
+                              Puno
+asientos: 24
+
+Cod: Q6F-925 Nombre: JOLAY/CHUMPITAZ/WALTER
+Destinos:
+                              Arequipa
+                              Juliaca
+                              Puno
 asientos: 20
+
+Cod: G7Y-809 Nombre: TABORI/ARIAS/ROSARIO
+Destinos:
+                              Arequipa
+                              Cuzco
+                              Puerto-Maldonado
+asientos: 25
+
+Cod: F1D-694 Nombre: RODRIGUEZ/SERRANO/CESAR JAIME
+Destinos:
+                              Huancavelica
+                              Ayacucho
+asientos: 19
+
+Cod: I1X-633 Nombre: VILCARA/JUGO/JULIO
+Destinos:
+                              Huancavelica
+                              Pasco
+                              Huanuco
+                              Tingo-Maria
+asientos: 20
+
+Cod: H7K-813 Nombre: AMEZQUITA/CONTRERAS/HUMBERTO ALFONSO MIGUEL
+Destinos:
+                              Huaraz
+                              Huanuco
+                              Moyobamaba
+asientos: 25
+
+Cod: W4M-272 Nombre: SHIRAKAWA/FLORIAN/JAIME JULIAN
+Destinos:
+                              Moquegua
+                              Tacna
+asientos: 20
+
+Cod: S0M-437 Nombre: COLLADO/VILLA GARCIA/RAUL
+Destinos:
+                              Trujillo
+                              Piura
+                              Tumbes
+asientos: 27
+
+Cod: U3G-207 Nombre: PEREZ/ANTEZANO/DAVID CARLOS
+Destinos:
+                              Pisco
+                              Ica
+                              Nazca
+asientos: 20
+
+Cod: W4X-437 Nombre: ZEGARRA/CABELLO/CINTHIA MILENA
+Destinos:
+                              Chiclayo
+                              Paita
+                              Sullana
+                              Talara
+asientos: 15
+
+Cod: M9J-101 Nombre: NORABUENA/ZEGARRA/DELICIA
+Destinos:
+                              Huacho
+                              Cimbote
+asientos: 31
 
