@@ -7,17 +7,18 @@
 #include "a.h"
 
 void *leeRegistros(ifstream& arch){
-    char Buff[200],*cod,*nom;
+    char BuffCod[10],BuffNom[200],*cod,*nom;
     float *Pprecio,precio;
     void **reg;
-    arch.getline(Buff,200,',');
+    arch.getline(BuffCod,10,',');
     if(arch.eof())return NULL;
-    cod=new char[strlen(Buff)+1];
-    strcpy(cod,Buff);
-    arch.getline(Buff,200,',');
-    nom=new char[strlen(Buff)+1];
-    strcpy(nom,Buff);
+    cod=new char[strlen(BuffCod)+1];
+    strcpy(cod,BuffCod);
+    arch.getline(BuffNom,200,',');
+    nom=new char[strlen(BuffNom)+1];
+    strcpy(nom,BuffNom);
     arch>>precio;
+    arch>>ws;
     Pprecio=new float;
     *Pprecio=precio;
     reg=new void*[3];
@@ -84,3 +85,56 @@ void imprimelista(void*lista,void(*imprime)(void*,ofstream&)){
         aux=(void**)aux[1];
     }
 }
+
+void eliminaReg(void *d){ 
+    void **aux=(void**)d;
+    char *cod = (char*)aux[0];
+    char *nom = (char*)aux[1];
+    float *precio = (float*)aux[2];
+    delete[]cod;
+    delete[]nom;
+    delete[]precio;
+}
+
+void eliminalista(void *lista,void(*elimina)(void*)){   
+    void **aux=(void**)lista,**paux;
+
+    while(aux){   
+        paux = aux;
+        aux = (void**)(aux[1]);
+        elimina(paux[0]);
+        delete[]paux;
+    }    
+
+}
+
+int contarElem(void *lista){
+    int cant=0;
+    void **aux=(void**)lista;
+    while(aux){
+        cant++;
+        aux=(void**)aux[1];
+    }
+    return cant;
+}
+
+void crearPila(void *&lista,void *&dep){
+    void **aux1 = (void**)lista;
+    void **aux2=NULL,**prec,**pant;
+    
+    prec = aux1;
+    while(prec){
+        pant = prec;
+        prec = (void**)prec[1];
+        if(aux2==NULL){
+            pant[1]=NULL;
+            aux2 = pant;
+        }
+        else{
+            pant[1] = aux2;
+            aux2 = pant;
+        }
+    }
+    dep = aux2;
+}
+

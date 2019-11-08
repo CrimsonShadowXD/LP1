@@ -20,9 +20,14 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     void *lista=NULL;
+    void *pila;
     crearlista(lista,leeRegistros,compararReg);
     imprimelista(lista,imprime);
     
+   
+    crearPila(lista,pila);
+    imprimelista(pila,imprime);
+    eliminalista(lista,eliminaReg);
     return 0;
 }
 

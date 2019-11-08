@@ -33,5 +33,11 @@ void imprime(void *reg,ofstream& arch);
 
 void imprimelista(void*lista,void(*imprime)(void*,ofstream&));
 
+void eliminaReg(void *d);
+
+void eliminalista(void *lista,void(*elimina)(void*));
+
+void crearPila(void *&lista,void *&dep);
+
 #endif /* A_H */
 
