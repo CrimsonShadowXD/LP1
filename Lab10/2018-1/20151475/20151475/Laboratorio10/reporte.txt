@@ -1,0 +1,81 @@
+======================================================================================================================================================
+                                                                   LISTA DE LIBROS
+======================================================================================================================================================
+    CODIGO    TITULO                                                      AUTOR                                  PRECIO          MONTO    N° VENDIDOS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+    AI7921    Las demoliciones de Paris                                   Humberto Zarate                         70.24         421.44         6
+    AP2529    Le Chef-d'oeuvre inconnu                                    Annie Merel                             22.60          90.40         4
+    AS9501    The horoscope : a romance of the reign of Francois II       Virginia Chumpitaz                      63.62         572.58         9
+    AY9196    The Hunting of the Snark                                    Daniel Vargas                           28.08         449.28        16
+    BH3100    Cabo Trafalgar                                              Edgar Suchero                            5.32          15.96         3
+    BZ7395    Suspense!                                                   Amaru Suarez                             2.57          23.13         9
+    CI2279    Wann-Chlore                                                 Felicita Villegas                        5.74          40.18         7
+    CQ4029    Corsarios de Levante                                        Johan Coronado                          37.37         336.33         9
+    CV6657    The Page of the Duke of Savoy                               Carmela Cortez                          15.09          75.45         5
+    DC5635    The Companions of Jehu                                      Humberto Zarate                         61.58         246.32         4
+    DY8425    Musica para camaleones                                      Monica Calixto                           6.77          67.70        10
+    EF3635    Le Cousin Pons                                              Johan Coronado                         191.52        1915.20        10
+    EF7349    An Ideal Husband                                            Arturo Serrano                          25.81         180.67         7
+    EL3985    Elogio de la madre                                          Antonio Lozada                          10.74          53.70         5
+    EL6860    La vuelta del Presidiario                                   Angel Chumpitaz                         16.71          83.55         5
+    EP9684    El testamento del grano de sal                              Edgar Suchero                          141.71        1558.81        11
+    ER2937    Lord Arthur Savile's Crime and Other Stories                Alex Falcon                             34.56         138.24         4
+    EY3065    La reina de las barricadas                                  Johan Coronado                          73.15         292.60         4
+    GE8514    Serie Cancion de hielo y fuego                              Edgar Ayala                             34.99         174.95         5
+    GH5909    A Dream of Spring                                           Evert Figueroa                          54.85         383.95         7
+    GQ8306    Twenty Years After                                          Johan Coronado                         196.93         984.65         5
+    HV6319    L'ecole des menages                                         Julio Rosemberg                          4.21          46.31        11
+    IO4267    Le Corsaire                                                 Walter Diaz                             72.30         216.90         3
+    IQ3200    Las Miserias de Londres                                     Annie Montero                          124.44         871.08         7
+    IU1945    Robin Hood                                                  Daniel Vargas                           30.15         150.75         5
+    IY9659    El Manuscrito del Domino                                    Alfonso Miranda                         18.68         186.80        10
+    JD9616    La Cousine Bette                                            Julio Rosemberg                         34.19         307.71         9
+    JH5795    Lady Windermere's Fan                                       Alfonso Miranda                         91.43         731.44         8
+    JJ8861    The Women's War                                             Ofelia Zambrano                        221.28        1327.68         6
+    JP1675    La Fille aux yeux d'or                                      Edgar Ayala                             25.94         181.58         7
+    JT9902    El Presidio de Tolon                                        Evert Figueroa                         152.05        1216.40         8
+    KK3749    El pintor de batallas                                       Monica Calixto                          66.28         132.56         2
+    KP8208    Alice's Adventures in Wonderland                            Heli Urbina                            133.60         267.20         2
+    KZ6738    El Club de los explotadores                                 Madeleine Suarez                        44.14         353.12         8
+    MT2583    La tabla de Flandes                                         Daniel Vargas                           82.46         247.38         3
+    MZ5806    Una Navidad                                                 Virginia Chumpitaz                      75.06         675.54         9
+    MZ6529    La jaula de los pajaros                                     Gonzalo Vega                            21.42          85.68         4
+    NL2557    Georges                                                     Amaru Suarez                             6.15          55.35         9
+    NN8875    Muerte de la luz                                            Monica Calixto                         122.75         859.25         7
+    NR4482    House of Pomegranates                                       Annie Montero                           49.02         343.14         7
+    NZ5630    Clotilde de Lusignan                                        Milena Guevara                          18.67          93.35         5
+    OM5321    Le Colonel Chabert                                          Martin Villa                           145.26        1016.82         7
+    OM6583    Los Caballeros del Claro de Luna                            Alberto De La Haza                      39.58         356.22         9
+    OO4960    The Corsican Brothers                                       Carmela Cortez                          55.87         335.22         6
+    OQ5947    La guerra sin fin                                           Julio Rosemberg                         11.75          94.00         8
+    PA0853    The Nutcracker                                              Walter Diaz                            102.11        1225.32        12
+    PK0790    Historia de Maria                                           Edgar Suchero                          131.60         789.60         6
+    PS1579    Le Chevalier de Maison-Rouge                                Jenny Hijar                              5.57          27.85         5
+    PW5521    Les Ressources de Quinola                                   Madeleine Suarez                        24.25          72.75         3
+    PY0488    La Resurreccion de Rocambole                                Rafael Urbina                           21.61         172.88         8
+    QI9476    What the Tortoise Said to Achilles                          Humberto Zarate                         66.95         200.85         3
+    QQ0205    Unspoiled Monsters y Kate McCloud                           Ofelia Zambrano                         11.34          45.36         4
+    QY4518    Beat the Devil                                              Alfonso Miranda                        214.31        1071.55         5
+    RH6857    Carmen la gitana                                            Felicita Villegas                       66.08         462.56         7
+    RN0673    La hermosa jardinera                                        Humberto Zarate                         48.49         387.92         8
+    RP9394    El hombre gris                                              Cesar Astete                            16.43          82.15         5
+    RU3649    The Fencing Master                                          Madeleine Suarez                         8.51          76.59         9
+    RY6519    The Regent's Daughter                                       Miguel Alamo                           137.27         686.35         5
+    SC2766    La Catedral                                                 Edgar Suchero                           38.56         192.80         5
+    SX7522    Paseo por los Andes                                         Martin Villa                            81.00         567.00         7
+    TD5907    The Ballad of Reading Gaol                                  Lucero De La Cuba                       28.26          84.78         3
+    TF7016    Castle Eppstein; The Specter Mother                         Beatriz Patino                          57.46         229.84         4
+    UC1640    La Peau de chagrin                                          Evert Figueroa                         157.54         787.70         5
+    UK4282    Joseph Balsamo                                              Alfonso Miranda                        114.29         914.32         8
+    UP4621    Le Vicaire des Ardennes                                     Rafael Urbina                           65.79         394.74         6
+    UT7122    Sylvie and Bruno Concluded                                  Lucero De La Cuba                        3.42          20.52         6
+    UV2257    El Duque en su territorio                                   Antonio Lozada                         132.41        1059.28         8
+    UZ6069    El nino perdido                                             Rafael Urbina                            2.23          13.38         6
+    VV6733    El narrador                                                 Annie Merel                            224.75        1123.75         5
+    WG6535    La casa roja                                                Gonzalo Vega                            29.80         178.80         6
+    XA3792    Un breve cuento aparecido en la revista Seventeen           Virginia Chumpitaz                      40.16         321.28         8
+    XG5854    Los tesoros del Rajah                                       Daniel Vargas                           15.26          45.78         3
+    XP0085    Redencion!                                                  Amaru Suarez                            19.98         119.88         6
+    YH4590    The Queen's Necklace                                        Jenny Hijar                             44.73         178.92         4
+    ZF7975    The Countess de Charny                                      Heli Urbina                            105.11         840.88         8
+======================================================================================================================================================
