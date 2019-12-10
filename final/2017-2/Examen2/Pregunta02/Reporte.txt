@@ -1,0 +1,64 @@
+Id Author: 1
+First Name: Arturo
+Last Name: Oncevay
+Num Papers: 0
+
+1 (2017). Ship-LemmaTagger: Building an NLP Toolkit for a Peruvian Native Language. In Proceddings of the 20th International Conference on Text, Speech, and Dialogue. Czech Republic. 
+
+Id Author: 2
+First Name: Cesar
+Last Name: Beltran
+Num Papers: 0
+
+2 (2007). Biological shape characterization for automatic image recognition and diagnosis of protozoan parasites of the genus Eimeria. Pattern Recognition. 40 (7). 1899-1910. 
+
+Id Author: 3
+First Name: Pedro
+Last Name: Balage Filho
+Num Papers: 0
+
+3 (2013). An Evaluation of the Brazilian Portuguese LIWC Dictionary for Sentiment Analysis. Brazilian Symposium in Information and Human Language Technology (STIL). 5 (2). 215-219. 
+
+Id Author: 4
+First Name: Sasha
+Last Name: Blair-Goldensohn
+Num Papers: 0
+
+4 (2008). Building a Sentiment Summarizer for Local Service Reviews. In Proceddings of the 2th WWW Workshop on NLP in the Information Explosion Era. China. 
+
+Id Author: 5
+First Name: Jean
+Last Name: Carletta
+Num Papers: 0
+
+5 (1996). Assessing Agreement on Classification Tasks: The Kappa Statistic. In Proceddings of the 22th  Computational Linguistics. USA. 
+
+Id Author: 6
+First Name: Conrad
+Last Name: Jack G.
+Num Papers: 0
+
+6 (2009).  Query-based Opinion Summarization for Legal Blog Entries. In Proceddings of the 12th International Conference on Artificial Intelligence and Law. USA. 
+
+Id Author: 7
+First Name: Kavita
+Last Name: Ganesan
+Num Papers: 0
+
+7 (2010). Opinosis: A Graph-Based Approach to Abstractive Summarization of Highly Redundant Opinions. Computational Linguistics. 23 (2). 340-348. 
+
+Id Author: 8
+First Name: Chin-Yew
+Last Name: Lin
+Num Papers: 0
+
+8 (2000). The Automated Acquisition of Topic Signatures for Text Summarization. Computational Linguistics. 18 (5). 495-501. 
+8 (2004). Looking for a Few Good Metrics: Automatic Summarization Evaluation-How 70 many Samples are Enough?. NTCIR Workshop. 18 (5). 1-10. 
+
+Id Author: 9
+First Name: Ryosuke
+Last Name: Tadano
+Num Papers: 0
+
+9 (2010). Multi-aspects Review Summarization Based on Identification of Important Opinions and their Similarity. In Proceddings of the 24th Pacific Asia Conference on Language. Japan. 
+

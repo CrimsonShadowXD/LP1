@@ -1,0 +1,19 @@
+              LISTADO DE DATOS
+Primero: 7    Segundo: 8
+Primero: 7    Segundo: 1
+Primero: 4    Segundo: 5
+Primero: 3    Segundo: 4
+Primero: 3    Segundo: 0
+Primero: 3    Segundo: 5
+Primero: 1    Segundo: 2
+
+Prueba de Atencion: 
+Primero: 7    Segundo: 8
+
+LISTADO DE DATOS              
+Primero: 7    Segundo: 1
+Primero: 4    Segundo: 5
+Primero: 3    Segundo: 4
+Primero: 3    Segundo: 0
+Primero: 3    Segundo: 5
+Primero: 1    Segundo: 2

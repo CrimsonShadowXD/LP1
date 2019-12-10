@@ -1,0 +1,10 @@
+Carletta,Jean (1996). Assessing Agreement on Classification Tasks: The Kappa Statistic. In Proceddings of the 22th  Computational Linguistics. USA. 
+Lin,Chin-Yew (2000). The Automated Acquisition of Topic Signatures for Text Summarization. Computational Linguistics. 18 (5). 495-501. 
+Lin,Chin-Yew (2004). Looking for a Few Good Metrics: Automatic Summarization Evaluation-How 70 many Samples are Enough?. NTCIR Workshop. 18 (5). 1-10. 
+Beltran,Cesar (2007). Biological shape characterization for automatic image recognition and diagnosis of protozoan parasites of the genus Eimeria. Pattern Recognition. 40 (7). 1899-1910. 
+Blair-Goldensohn,Sasha (2008). Building a Sentiment Summarizer for Local Service Reviews. In Proceddings of the 2th WWW Workshop on NLP in the Information Explosion Era. China. 
+Jack G.,Conrad;Leidner,Jochen;Schilder,Frank (2009). Query-based Opinion Summarization for Legal Blog Entries. In Proceddings of the 12th International Conference on Artificial Intelligence and Law. USA. 
+Tadano,Ryosuke;Shimada,Kazutaka;Endo,Tsutomu (2010). Multi-aspects Review Summarization Based on Identification of Important Opinions and their Similarity. In Proceddings of the 24th Pacific Asia Conference on Language. Japan. 
+Ganesan,Kavita;Zhai,ChengXian;Han,Jiawei (2010). Opinosis: A Graph-Based Approach to Abstractive Summarization of Highly Redundant Opinions. Computational Linguistics. 23 (2). 340-348. 
+Balage Filho,Pedro;Pardo,Thiago;Aluisio,Sandra (2013). An Evaluation of the Brazilian Portuguese LIWC Dictionary for Sentiment Analysis. Brazilian Symposium in Information and Human Language Technology (STIL). 5 (2). 215-219. 
+Oncevay,Arturo;Sobrevilla,Marco;Pereira-Noriega,Jose;Mercado,Rodolfo (2017). Ship-LemmaTagger: Building an NLP Toolkit for a Peruvian Native Language. In Proceddings of the 20th International Conference on Text, Speech, and Dialogue. Czech Republic. 
