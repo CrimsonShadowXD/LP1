@@ -1,0 +1,174 @@
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Arca/Amezquita/Edric-Ronald
+Especialidad: Ingenieria Mecanica
+FacultadFCI
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Morales/Valverde/Ines-Martha
+Especialidad: Ingenieria Informatica
+FacultadEEGGCC
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Gavidia/Mendoza/Ronald-Johnny
+Pais: Japon
+Idiomas: 
+Permanecerá 2 semestres
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Auris/Zimic/Javier-Daniel
+Especialidad: Matematicas
+FacultadFCI
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Lozada/Yino/Martha
+Especialidad: Matematicas
+FacultadFCI
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Justino/Cruz/Williams
+Especialidad: Ingenieria Mecanica
+FacultadEEGGCC
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Alamo/Pairazaman/Miguel-Roberto
+Pais: Austria
+Idiomas: 
+Permanecerá 1 semestres
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Henriquez/Espino/Beatriz
+Especialidad: Ingenieria Informatica
+FacultadEEGGCC
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Paredes/Patino/Christian
+Especialidad: Ingenieria Informatica
+FacultadFCI
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Caro/Polo/Sandro
+Especialidad: Ingenieria Mecanica
+FacultadEEGGCC
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Cabrera/Canales/Guillermo-Edric
+Especialidad: Ingenieria Informatica
+FacultadFCI
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Vega/Munoz/Gonzalo
+Pais: Filipinas
+Idiomas: 
+Permanecerá 1 semestres
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Cortez/Segura/Carmela-Ines
+Pais: Alemania
+Idiomas: 
+Permanecerá 3 semestres
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Portugal/Benavente/Johana-Gloria
+Especialidad: Ingenieria Mecanica
+FacultadFCI
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Florian/Morales/Ydali
+Pais: Brasil
+Idiomas: 
+Permanecerá 1 semestres
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Moya/Aranda/Johnny
+Pais: Colombia
+Idiomas: 
+Permanecerá 2 semestres
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Laura/Wong/Melvin-Henrry
+Especialidad: Ingenieria Mecanica
+FacultadFCI
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Calixto/Tomasiche/Monica-Doris
+Pais: Australia
+Idiomas: 
+Permanecerá 3 semestres
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Ruiz/Gordillo/Carola-Erika
+Pais: Puerto Rico
+Idiomas: 
+Permanecerá 2 semestres
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Coronel/Chumpitaz/Heli
+Especialidad: Fisica
+FacultadFCI
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Zarate/Del_Pozo/Humberto-Antonio
+Pais: Ucrania
+Idiomas: 
+Permanecerá 3 semestres
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Palomares/Vera/Henrry-Humberto
+Especialidad: Fisica
+FacultadEEGGCC
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Coronado/Figueroa/Johan
+Pais: EEUUAA
+Idiomas: 
+Permanecerá 2 semestres
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Hijar/Pairazaman/Jenny-Delicia
+Pais: Camerun
+Idiomas: 
+Permanecerá 1 semestres
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Landeo/Sueldo/Adolfo
+Especialidad: Ingenieria Informatica
+FacultadEEGGCC
+
+Codigo de Alumno: -1
+Alumno de Intercambio
+Nombre del alumno:Antezano/Segura/Teresa-Delia
+Pais: Bolivia
+Idiomas: 
+Permanecerá 3 semestres
+
+Codigo de Alumno: -1
+Alumno Regular
+Nombre del alumno:Pasquel/Quio/Surami-Janet
+Especialidad: Fisica
+FacultadEEGGCC
+

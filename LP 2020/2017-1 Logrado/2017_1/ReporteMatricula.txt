@@ -1,0 +1,308 @@
+Reporte de Matricula 
+
+Codigo de Alumno: 20120476
+Alumno Regular
+Nombre de Alumno: Henriquez/Espino/Beatriz
+Especialidad: Ingenieria Informatica
+Facultad: EEGGCC
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+INF250   Sistemas De Informacion 2                         5     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 20110165
+Alumno Regular
+Nombre de Alumno: Landeo/Sueldo/Adolfo
+Especialidad: Ingenieria Informatica
+Facultad: EEGGCC
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+INF220   Fundamentos De Programacion                       5     Inscrito
+
+
+Codigo de Alumno: 4450
+Alumno de Intercambio
+Nombre de Alumno: Vega/Munoz/Gonzalo
+Pais: Filipinas
+Permanecerá 1 semestre
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+
+
+Codigo de Alumno: 6553
+Alumno de Intercambio
+Nombre de Alumno: Coronado/Figueroa/Johan
+Pais: EEUUAA
+Permanecerá 2 semestres
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+INF239   Sistemas Operativos                               4     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 20170596
+Alumno Regular
+Nombre de Alumno: Portugal/Benavente/Johana Gloria
+Especialidad: Ingenieria Mecanica
+Facultad: FCI
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MEC289   Turbomaquinas Y Maquinas De Desplazamiento Positivo 4.25     No procede por no cumplir requisitos
+MEC2T2   Introduccion Al Diseno De Maquinas                4.5     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 20160658
+Alumno Regular
+Nombre de Alumno: Arca/Amezquita/Edric Ronald
+Especialidad: Ingenieria Mecanica
+Facultad: FCI
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MEC286   Transferencia De Calor                            4.25     Inscrito
+
+
+Codigo de Alumno: 2075
+Alumno de Intercambio
+Nombre de Alumno: Moya/Aranda/Johnny
+Pais: Colombia
+Permanecerá 2 semestres
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+INF245   Ingenieria De Software                            4     Inscrito
+INF248   Sistemas De Informacion 1                         5     No procede por no cumplir requisitos
+INF246   Bases De Datos                                    3.75     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 6965
+Alumno de Intercambio
+Nombre de Alumno: Antezano/Segura/Teresa Delia
+Pais: Bolivia
+Permanecerá 3 semestres
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+
+
+Codigo de Alumno: 20119778
+Alumno Regular
+Nombre de Alumno: Morales/Valverde/Ines Martha
+Especialidad: Ingenieria Informatica
+Facultad: EEGGCC
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+INF238   Redes De Computadoras                             4     Inscrito
+INF281   Lenguaje De Programacion 1                        5     Inscrito
+
+
+Codigo de Alumno: 20003541
+Alumno Regular
+Nombre de Alumno: Cabrera/Canales/Guillermo Edric
+Especialidad: Ingenieria Informatica
+Facultad: FCI
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+INF263   Algoritmia                                        3.75     Inscrito
+
+
+Codigo de Alumno: 8528
+Alumno de Intercambio
+Nombre de Alumno: Zarate/Del_Pozo/Humberto Antonio
+Pais: Ucrania
+Permanecerá 3 semestres
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+
+
+Codigo de Alumno: 6702
+Alumno de Intercambio
+Nombre de Alumno: Calixto/Tomasiche/Monica Doris
+Pais: Australia
+Permanecerá 3 semestres
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+FIS230   Teoria De Campos Electromagneticos                3     Inscrito
+FIS239   Estado Solido                                     4.5     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 20150564
+Alumno Regular
+Nombre de Alumno: Auris/Zimic/Javier Daniel
+Especialidad: Matematicas
+Facultad: FCI
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MAT241   Metodos Numericos En Ingenieria                   3     Inscrito
+
+
+Codigo de Alumno: 20109738
+Alumno Regular
+Nombre de Alumno: Caro/Polo/Sandro
+Especialidad: Ingenieria Mecanica
+Facultad: EEGGCC
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MEC209   Mecanica De Fluidos                               5.25     No procede por no cumplir requisitos
+MEC269   Laboratorio De Termodinamica Y Fluidos            1     Inscrito
+MEC270   Procesos De Manufactura                           4     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 20127352
+Alumno Regular
+Nombre de Alumno: Justino/Cruz/Williams
+Especialidad: Ingenieria Mecanica
+Facultad: EEGGCC
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MEC269   Laboratorio De Termodinamica Y Fluidos            1     No procede por no cumplir requisitos
+MEC270   Procesos De Manufactura                           4     Inscrito
+MEC286   Transferencia De Calor                            4.25     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 1346
+Alumno de Intercambio
+Nombre de Alumno: Hijar/Pairazaman/Jenny Delicia
+Pais: Camerun
+Permanecerá 1 semestre
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+FIS230   Teoria De Campos Electromagneticos                3     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 20160119
+Alumno Regular
+Nombre de Alumno: Paredes/Patino/Christian
+Especialidad: Ingenieria Informatica
+Facultad: FCI
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+
+
+Codigo de Alumno: 20080667
+Alumno Regular
+Nombre de Alumno: Lozada/Yino/Martha
+Especialidad: Matematicas
+Facultad: FCI
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MAT241   Metodos Numericos En Ingenieria                   3     Inscrito
+MAT219   Herramientas Matematicas                          4.5     Inscrito
+
+
+Codigo de Alumno: 1994
+Alumno de Intercambio
+Nombre de Alumno: Ruiz/Gordillo/Carola Erika
+Pais: Puerto Rico
+Permanecerá 2 semestres
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MAT781   Matematica Computacional Para Control             3     Inscrito
+
+
+Codigo de Alumno: 5395
+Alumno de Intercambio
+Nombre de Alumno: Alamo/Pairazaman/Miguel Roberto
+Pais: Austria
+Permanecerá 1 semestre
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+INF248   Sistemas De Informacion 1                         5     Inscrito
+INF246   Bases De Datos                                    3.75     Inscrito
+
+
+Codigo de Alumno: 20097877
+Alumno Regular
+Nombre de Alumno: Coronel/Chumpitaz/Heli
+Especialidad: Fisica
+Facultad: FCI
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+FIS230   Teoria De Campos Electromagneticos                3     Inscrito
+
+
+Codigo de Alumno: 20164217
+Alumno Regular
+Nombre de Alumno: Palomares/Vera/Henrry Humberto
+Especialidad: Fisica
+Facultad: EEGGCC
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+FIS203   Fisica 4                                          4.5     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 5258
+Alumno de Intercambio
+Nombre de Alumno: Gavidia/Mendoza/Ronald Johnny
+Pais: Japon
+Permanecerá 2 semestres
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+INF250   Sistemas De Informacion 2                         5     Inscrito
+
+
+Codigo de Alumno: 9442
+Alumno de Intercambio
+Nombre de Alumno: Florian/Morales/Ydali
+Pais: Brasil
+Permanecerá 1 semestre
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MEC373   Metrologia                                        3     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 7613
+Alumno de Intercambio
+Nombre de Alumno: Cortez/Segura/Carmela Ines
+Pais: Alemania
+Permanecerá 3 semestres
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MEC206   Termodinamica 1                                   4.5     No procede por no cumplir requisitos
+MEC209   Mecanica De Fluidos                               5.25     No procede por no cumplir requisitos
+
+
+Codigo de Alumno: 20083333
+Alumno Regular
+Nombre de Alumno: Laura/Wong/Melvin Henrry
+Especialidad: Ingenieria Mecanica
+Facultad: FCI
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+MEC209   Mecanica De Fluidos                               5.25     Inscrito
+
+
+Codigo de Alumno: 20167828
+Alumno Regular
+Nombre de Alumno: Pasquel/Quio/Surami Janet
+Especialidad: Fisica
+Facultad: EEGGCC
+
+CURSOS EN LOS QUE QUIERE MATRICULARSE: 
+Codigo     Nombre                                       Creditos  Observacion
+FIS227   Particulas Elementales                            4.5     No procede por no cumplir requisitos
+FIS229   Trabajo De Investigacion                          6     Inscrito
+
+

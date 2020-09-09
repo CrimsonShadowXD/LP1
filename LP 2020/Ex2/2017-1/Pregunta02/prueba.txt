@@ -1,0 +1,440 @@
+1346 Hijar/Pairazaman/Jenny Delicia Camerun Frances 1
+FIS208 12
+
+FIS220 10
+
+FIS219 17
+
+FIS227 12
+
+MAT218 15
+
+FIS229 11
+
+FIS111 11
+
+
+1994 Ruiz/Gordillo/Carola Erika Puerto Rico Ingles 2
+FIS220 16
+
+FIS208 11
+
+MAT218 11
+
+MAT241 15
+
+FIS229 11
+
+FIS203 5
+
+FIS219 11
+
+MAT111 11
+
+MAT219 13
+
+FIS111 12
+
+
+2075 Moya/Aranda/Johnny Colombia Castellano 2
+INF238 9
+
+INF220 14
+
+MAT219 8
+
+MAT111 17
+
+MAT218 10
+
+INF281 15
+
+INF263 10
+
+INF282 11
+
+FIS111 13
+
+MAT241 12
+
+INF248 12
+
+FIS203 16
+
+
+4450 Vega/Munoz/Gonzalo Filipinas Ingles 1
+FIS111 16
+
+FIS208 10
+
+FIS203 18
+
+MEC269 12
+
+MEC206 10
+
+
+5258 Gavidia/Mendoza/Ronald Johnny Japon Japones 2
+MAT241 13
+
+INF248 15
+
+MAT218 12
+
+INF263 9
+
+MAT219 18
+
+
+5395 Alamo/Pairazaman/Miguel Roberto Austria Aleman 1
+FIS111 17
+
+FIS208 14
+
+INF281 19
+
+MAT111 11
+
+MAT241 11
+
+FIS218 11
+
+FIS203 12
+
+INF238 12
+
+INF263 14
+
+
+6553 Coronado/Figueroa/Johan EEUUAA Inges 2
+MAT218 12
+
+INF263 10
+
+FIS111 13
+
+MAT111 11
+
+MAT219 11
+
+INF220 11
+
+INF281 9
+
+
+6702 Calixto/Tomasiche/Monica Doris Australia Ingles 3
+MAT111 11
+
+FIS229 12
+
+MAT241 13
+
+MAT781 12
+
+FIS218 8
+
+FIS208 12
+
+MAT219 14
+
+FIS220 16
+
+FIS227 14
+
+MAT218 15
+
+FIS111 10
+
+FIS219 14
+
+
+6965 Antezano/Segura/Teresa Delia Bolivia Castellano 3
+MAT111 15
+
+MAT218 12
+
+MAT219 11
+
+MAT241 7
+
+
+7613 Cortez/Segura/Carmela Ines Alemania Aleman 3
+FIS218 11
+
+MAT219 12
+
+MEC206 9
+
+FIS208 17
+
+FIS203 12
+
+MAT218 10
+
+FIS111 15
+
+
+8528 Zarate/Del_Pozo/Humberto Antonio Ucrania Ruso 3
+FIS203 13
+
+FIS111 13
+
+FIS208 13
+
+FIS219 13
+
+MEC206 13
+
+FIS218 13
+
+
+9442 Florian/Morales/Ydali Brasil Portuges 1
+MAT781 17
+
+MAT218 14
+
+MEC206 16
+
+MAT219 13
+
+MEC286 18
+
+MEC209 15
+
+MAT111 12
+
+MAT241 10
+
+
+20003541 Cabrera/Canales/Guillermo Edric Ingenieria Informatica FCI
+FIS203 13
+
+FIS218 11
+
+INF263 13
+
+MAT218 11
+
+FIS111 13
+
+FIS208 12
+
+INF220 12
+
+
+20080667 Lozada/Yino/Martha Matematicas FCI
+MAT218 11
+
+FIS208 12
+
+MAT111 19
+
+FIS111 11
+
+FIS203 13
+
+MAT219 12
+
+
+20083333 Laura/Wong/Melvin Henrry Ingenieria Mecanica FCI
+MEC206 11
+
+
+20097877 Coronel/Chumpitaz/Heli Fisica FCI
+FIS229 16
+
+FIS220 14
+
+FIS219 15
+
+FIS218 11
+
+FIS208 13
+
+MAT111 18
+
+FIS227 12
+
+FIS111 17
+
+
+20109738 Caro/Polo/Sandro Ingenieria Mecanica EEGGCC
+MEC209 7
+
+FIS218 11
+
+FIS111 11
+
+FIS203 11
+
+FIS208 11
+
+INF263 12
+
+MEC206 12
+
+MAT218 9
+
+
+20110165 Landeo/Sueldo/Adolfo Ingenieria Informatica EEGGCC
+MAT111 16
+
+FIS203 11
+
+FIS208 13
+
+MAT219 12
+
+MAT218 14
+
+FIS219 17
+
+FIS111 19
+
+FIS218 15
+
+
+20119778 Morales/Valverde/Ines Martha Ingenieria Informatica EEGGCC
+FIS111 13
+
+MAT218 13
+
+FIS203 13
+
+MAT111 13
+
+INF263 12
+
+MAT219 12
+
+INF220 12
+
+FIS204 12
+
+INF282 13
+
+
+20120476 Henriquez/Espino/Beatriz Ingenieria Informatica EEGGCC
+FIS203 12
+
+INF248 15
+
+FIS111 11
+
+FIS208 11
+
+MAT219 13
+
+INF220 16
+
+INF282 14
+
+
+20127352 Justino/Cruz/Williams Ingenieria Mecanica EEGGCC
+MAT218 14
+
+MEC206 13
+
+FIS203 16
+
+FIS218 18
+
+MEC209 12
+
+FIS208 17
+
+FIS111 19
+
+MAT111 15
+
+
+20150564 Auris/Zimic/Javier Daniel Matematicas FCI
+FIS208 13
+
+MAT218 13
+
+MAT219 13
+
+FIS111 13
+
+FIS203 13
+
+MAT111 13
+
+
+20160119 Paredes/Patino/Christian Ingenieria Informatica FCI
+INF245 16
+
+INF282 16
+
+INF263 13
+
+MAT241 10
+
+INF246 15
+
+MAT111 12
+
+INF239 17
+
+INF281 15
+
+MAT219 13
+
+INF220 12
+
+INF238 14
+
+MAT218 14
+
+
+20160658 Arca/Amezquita/Edric Ronald Ingenieria Mecanica FCI
+MEC206 20
+
+MAT218 18
+
+MEC209 19
+
+MEC269 17
+
+MAT111 16
+
+
+20164217 Palomares/Vera/Henrry Humberto Fisica EEGGCC
+FIS111 10
+
+
+20167828 Pasquel/Quio/Surami Janet Fisica EEGGCC
+FIS218 10
+
+MAT111 12
+
+FIS229 12
+
+FIS219 11
+
+FIS208 13
+
+FIS111 16
+
+FIS220 15
+
+MAT218 12
+
+
+20170596 Portugal/Benavente/Johana Gloria Ingenieria Mecanica FCI
+MAT241 12
+
+MAT219 13
+
+MEC209 15
+
+MAT111 11
+
+MAT218 14
+
+MAT781 12
+
+MEC206 14
+
+

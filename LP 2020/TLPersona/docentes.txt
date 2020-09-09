@@ -1,0 +1,12 @@
+DNI:10255675                       Nombre:Miguel Garcia
+Codigo Docente:A2335    Dedicacion:1    Antiguedad:20
+
+
+DNI:12121251                       Nombre:Manuel Tapia
+Codigo Docente:X9099    Dedicacion:2    Antiguedad:10
+
+
+DNI:12193112                       Nombre:Rony Cueva
+Codigo Docente:982X1    Dedicacion:1    Antiguedad:8
+
+

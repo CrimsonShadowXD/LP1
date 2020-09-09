@@ -1,0 +1,7 @@
+Codigo Alumno: 92419
+Nombre del Alumno: LOZADA/YINO/MARTHA
+Distrito: San Isidro
+Escala de Pago: 0
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+

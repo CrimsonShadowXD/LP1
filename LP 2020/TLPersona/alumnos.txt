@@ -1,0 +1,20 @@
+DNI:12121212                       Nombre:Rosa Loza
+Codigo de Alumno:20151120             Escala:6
+
+
+DNI:19101010                       Nombre:Jose Alberti
+Codigo de Alumno:20151210             Escala:5
+
+
+DNI:22502564                       Nombre:Raul Rios
+Codigo de Alumno:20112568             Escala:2
+
+
+DNI:28512312                       Nombre:Andres Calmet
+Codigo de Alumno:20145652             Escala:3
+
+
+DNI:31233128                       Nombre:Jose Casio
+Codigo de Alumno:20141215             Escala:2
+
+

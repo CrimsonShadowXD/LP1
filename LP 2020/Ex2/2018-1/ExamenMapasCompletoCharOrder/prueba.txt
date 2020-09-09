@@ -1,0 +1,882 @@
+AI7921 Las demoliciones de Paris                                    54357577 Amezquita Evert           114.55      0      6.95319e-310
+                                                                    81658514 Benites Fiorella         
+                                                                    54393864 Cortez Carmela           
+                                                                    35190925 Florian Ydali            
+                                                                    71154019 Henriquez Paul           
+                                                                    78458649 Leyva Nancy              
+                                                                    82009586 Martinez Evert           
+                                                                    20931663 Prado Juan               
+                                                                    89590109 Rivero Wilver            
+                                                                    50212828 Suchero Edgar            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+AP2529 Le Chef-d'oeuvre inconnu                                     78779825 Asmad Annie               97.51      0      6.95319e-310
+                                                                    60453071 Fernandez Elizabeth      
+                                                                    30781922 Hernandez Guillermo      
+                                                                    40613776 Justino Virginia         
+                                                                    85480617 Leyva Diana              
+                                                                    77261935 Morales Ines             
+                                                                    21457954 Rosemberg Jair           
+                                                                    14500878 Salazar Lorena           
+                                                                    97396725 Urbina Rafael            
+                                                                    78528452 Vizcardo Maribel         
+                                                                    95088110 Zegarra Carmela          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+AS9501 The horoscope : a romance of the reign of Francois II        25463868 Alfaro Erick              68.17      0      6.95319e-310
+                                                                    49249193 Barrera Alexander        
+                                                                    52819190 Calderon Rhony           
+                                                                    91705655 Hijar Martin             
+                                                                    70112499 Lozada Delia             
+                                                                    31034559 Moscoso Fiorella         
+                                                                    83928944 Pinto Shirley            
+                                                                    11583249 Suarez Gloria            
+                                                                    34016706 Torrealba Diana          
+                                                                    89763645 Valverde Irma            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+AY9196 The Hunting of the Snark                                     99383620 Arroyo Natalia            167.28      0      6.95319e-310
+                                                                    20330920 Durand Enrique           
+                                                                    35717091 Escalante Emigdio        
+                                                                    57193586 Henriquez Alex           
+                                                                    85480617 Leyva Diana              
+                                                                    48544454 Montero Annie            
+                                                                    16520470 Norabuena Hector         
+                                                                    38155642 Raffo Rolando            
+                                                                    90048773 Wong Richard             
+                                                                    25363959 Zambrano Ofelia          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+BH3100 Cabo Trafalgar                                               16962503 Cabrera Fanny             47.88      0      6.95319e-310
+                                                                    86249491 Lee Rosario              
+                                                                    21457954 Rosemberg Jair           
+                                                                    76365088 Saavedra Wilmer          
+                                                                    91307225 Valderrama Evert         
+                                                                    55431605 Zavaleta Felicita        
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+BZ7395 ¡Suspense!                                                   38628182 Iberos Rafael             28.01      0      6.95319e-310
+                                                                    70112499 Lozada Delia             
+                                                                    16842248 Moscoso Janet            
+                                                                    51720145 Pairazaman Tatiana       
+                                                                    29816897 Raffo Adria              
+                                                                    76659067 Salamanca Virginia       
+                                                                    32502215 Vilcara Magali           
+                                                                    55431605 Zavaleta Felicita        
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+CI2279 Wann-Chlore                                                  81877103 Arca Lucero               19.14      0      6.95319e-310
+                                                                    84379700 Cerna Jose               
+                                                                    29254513 Delgado Guillermo        
+                                                                    17171028 Espinoza Shirley         
+                                                                    58409378 Hijar Jenny              
+                                                                    65829047 Retamoso Delia           
+                                                                    44444550 Zavaleta Ericka          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+CQ4029 Corsarios de Levante                                         99383620 Arroyo Natalia            170.24      0      6.95319e-310
+                                                                    72724336 Chumpitaz Virginia       
+                                                                    35717091 Escalante Emigdio        
+                                                                    22095158 Fuentes Hugo             
+                                                                    91705655 Hijar Martin             
+                                                                    18891253 Justino Ericka           
+                                                                    85793477 Mejia Christian          
+                                                                    50212828 Suchero Edgar            
+                                                                    44444550 Zavaleta Ericka          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+CV6657 The Page of the Duke of Savoy                                63250786 Baca Milagros             277.8      0      6.95319e-310
+                                                                    60094034 Cueva Cinthia            
+                                                                    11999280 Figueroa Madeleine       
+                                                                    52101278 Lozada Martha            
+                                                                    95760385 Moya Johnny              
+                                                                    43566294 Segura Rony              
+                                                                    38454880 Villa Martin             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+DC5635 The Companions of Jehu                                       15688337 Cano Milagros             143.54      0      6.95319e-310
+                                                                    62622196 Durand Waldemar          
+                                                                    60453071 Fernandez Elizabeth      
+                                                                    45413172 Gavidia Ronald           
+                                                                    78530722 Mejia Francisco          
+                                                                    56917193 Norabuena Cinthia        
+                                                                    76259375 Romero Gloria            
+                                                                    46555073 Sakaguchi Carlos         
+                                                                    90048773 Wong Richard             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+DY8425 Musica para camaleones                                       26736861 Correa Miguel             177.31      0      6.95319e-310
+                                                                    46181740 Durand Miguel            
+                                                                    47877357 Epiquen Guida            
+                                                                    76073320 Figueroa Evert           
+                                                                    78582660 Gordillo Ronald          
+                                                                    37256898 Morales Karin            
+                                                                    45532063 Prado Carlos             
+                                                                    29816897 Raffo Adria              
+                                                                    34558751 Solis Rolando            
+                                                                    34016706 Torrealba Diana          
+                                                                    71527984 Vizcarra Ivan            
+                                                                    89083026 Yep Alvaro               
+                                                                    95088110 Zegarra Carmela          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EF3635 Le Cousin Pons                                               15688337 Cano Milagros             110.94      0      6.95319e-310
+                                                                    67772258 Lau Ydali                
+                                                                    31034559 Moscoso Fiorella         
+                                                                    87549107 Pena Glenda              
+                                                                    71260238 Ruiz Walter              
+                                                                    77414342 Suarez Rafael            
+                                                                    38454880 Villa Martin             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EF7349 An Ideal Husband                                             84379700 Cerna Jose                86.85      0      6.95319e-310
+                                                                    42817045 Diaz Walter              
+                                                                    52915484 Jauregui Victor          
+                                                                    61119229 Lozada Antonio           
+                                                                    95760385 Moya Johnny              
+                                                                    64876157 Pasquel Surami           
+                                                                    42808544 Salamanca Nestor         
+                                                                    79654055 Vega Janet               
+                                                                    64942077 Zuniga Rebeca            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EL3985 Elogio de la madre                                           81438974 Bravo Janet               145.33      0      6.95319e-310
+                                                                    72724336 Chumpitaz Virginia       
+                                                                    82009586 Martinez Evert           
+                                                                    64876157 Pasquel Surami           
+                                                                    87798109 Solis Maria              
+                                                                    18300541 Trigueros Luz            
+                                                                    64942077 Zuniga Rebeca            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EL6860 La vuelta del Presidiario                                    42817045 Diaz Walter               32.47      0      6.95319e-310
+                                                                    68642548 Forzani Alonso           
+                                                                    16842248 Moscoso Janet            
+                                                                    83928944 Pinto Shirley            
+                                                                    46555073 Sakaguchi Carlos         
+                                                                    90831624 Vizcarra Jair            
+                                                                    91986885 Wong Madeleine           
+                                                                    98975227 Yep Richard              
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EP9684 El testamento del grano de sal                               56383779 Auris Javier              260.3      0      6.95319e-310
+                                                                    71969845 Cerna Fiorella           
+                                                                    42817045 Diaz Walter              
+                                                                    21373471 Egusquiza Doris          
+                                                                    86199093 Florencio Alonso         
+                                                                    36715990 Gordillo Yvonne          
+                                                                    67772258 Lau Ydali                
+                                                                    38155642 Raffo Rolando            
+                                                                    82314584 Santisteban Rosa         
+                                                                    81229659 Tang Johana              
+                                                                    71527984 Vizcarra Ivan            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+ER2937 Lord Arthur Savile's Crime and Other Stories                 11553557 Diaz Elia                 39.5      0      6.95319e-310
+                                                                    35717091 Escalante Emigdio        
+                                                                    54863733 Guevara Milena           
+                                                                    93546899 Martel Bruno             
+                                                                    64876157 Pasquel Surami           
+                                                                    32502215 Vilcara Magali           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EY3065 La reina de las barricadas                                   52986658 Barrios Carlos            46.24      0      6.95319e-310
+                                                                    99259399 Cabrera Guillermo        
+                                                                    11553557 Diaz Elia                
+                                                                    35717091 Escalante Emigdio        
+                                                                    76073320 Figueroa Evert           
+                                                                    79261086 Henriquez Beatriz        
+                                                                    38628182 Iberos Rafael            
+                                                                    17769054 Narvaez Jesus            
+                                                                    21758358 Paredes Christian        
+                                                                    26313021 Shirakawa Angel          
+                                                                    89763645 Valverde Irma            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+GE8514 Serie Cancion de hielo y fuego                               52055020 Calderon Guillermo        198.37      0      6.95319e-310
+                                                                    59041018 Diaz Enrique             
+                                                                    86199093 Florencio Alonso         
+                                                                    47037159 Gonzales Henry           
+                                                                    91705655 Hijar Martin             
+                                                                    43761853 Iparraguirre Nicolas     
+                                                                    52915484 Jauregui Victor          
+                                                                    36110054 Maldonado Silvana        
+                                                                    17769054 Narvaez Jesus            
+                                                                    73705320 Ortiz Raul               
+                                                                    50165552 Trigueros Arturo         
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+GH5909 A Dream of Spring                                            52055020 Calderon Guillermo        124.97      0      6.95319e-310
+                                                                    62622196 Durand Waldemar          
+                                                                    53339543 Epiquen Enrique          
+                                                                    56343286 Hernandez Emilio         
+                                                                    65712223 Lau Monica               
+                                                                    59535105 Minaya Heli              
+                                                                    17769054 Narvaez Jesus            
+                                                                    39261432 Perez Richard            
+                                                                    36830631 Serrano Francisco        
+                                                                    21835262 Urbina Magda             
+                                                                    13034387 Villa Ronal              
+                                                                    91986885 Wong Madeleine           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+GQ8306 Twenty Years After                                           16431208 Arroyo Maria              97.11      0      6.95319e-310
+                                                                    81658514 Benites Fiorella         
+                                                                    58930275 Camacho Ydali            
+                                                                    30317150 Farfan Margot            
+                                                                    22294136 Lozada Heli              
+                                                                    95902402 Patino Beatriz           
+                                                                    29816897 Raffo Adria              
+                                                                    37508700 Suarez Madeleine         
+                                                                    91335450 Urbina Heli              
+                                                                    91986885 Wong Madeleine           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+HV6319 L'ecole des menages                                          15688337 Cano Milagros             86.14      0      6.95319e-310
+                                                                    81418336 De_La_Haza Alberto       
+                                                                    76073320 Figueroa Evert           
+                                                                    88473577 Justino Williams         
+                                                                    57748957 Mendoza Rosario          
+                                                                    45532063 Prado Carlos             
+                                                                    53237772 Rodriguez Blanca         
+                                                                    49085506 Shirakawa Madeleine      
+                                                                    50165552 Trigueros Arturo         
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+IO4267 Le Corsaire                                                  52986658 Barrios Carlos            8.77      0      6.95319e-310
+                                                                    64652269 Chumpitaz Angel          
+                                                                    88921684 Diaz Waldemar            
+                                                                    11999280 Figueroa Madeleine       
+                                                                    87986232 Gonzales Giovana         
+                                                                    79261086 Henriquez Beatriz        
+                                                                    51219082 Luna Waldemar            
+                                                                    37508700 Suarez Madeleine         
+                                                                    23765646 Zarate Humberto          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+IQ3200 Las Miserias de Londres                                      22294136 Lozada Heli               33.98      0      6.95319e-310
+                                                                    16842248 Moscoso Janet            
+                                                                    63484495 Pomajambo Paul           
+                                                                    56113780 Reyes Edward             
+                                                                    43566294 Segura Rony              
+                                                                    38454880 Villa Martin             
+                                                                    90048773 Wong Richard             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+IU1945 Robin Hood                                                   72179933 Chumpitaz Ronal           138.39      0      6.95319e-310
+                                                                    67772258 Lau Ydali                
+                                                                    58048428 Pairazaman Moises        
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+IY9659 El Manuscrito del Domino                                     75407079 Aquino Valentina          11.24      0      6.95319e-310
+                                                                    42817045 Diaz Walter              
+                                                                    86802874 Justino Enrique          
+                                                                    70112499 Lozada Delia             
+                                                                    59535105 Minaya Heli              
+                                                                    73705320 Ortiz Raul               
+                                                                    70519608 Rios Ines                
+                                                                    20698653 Sanchez Fiorella         
+                                                                    54210699 Velasquez Edgard         
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JD9616 La Cousine Bette                                             78779825 Asmad Annie               197.81      0      6.95319e-310
+                                                                    29254513 Delgado Guillermo        
+                                                                    60453071 Fernandez Elizabeth      
+                                                                    30781922 Hernandez Guillermo      
+                                                                    32053348 Medina Milena            
+                                                                    83928944 Pinto Shirley            
+                                                                    17017864 Ramirez Karina           
+                                                                    23728998 Sinche Martha            
+                                                                    38658443 Vargas Daniel            
+                                                                    55431605 Zavaleta Felicita        
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JH5795 Lady Windermere's Fan                                        74402826 Arca Edric                60.8      0      6.95319e-310
+                                                                    54377463 Benavente Virginia       
+                                                                    40119187 Camacho Elia             
+                                                                    11553557 Diaz Elia                
+                                                                    45413172 Gavidia Ronald           
+                                                                    31034559 Moscoso Fiorella         
+                                                                    56467796 Palomares Henrry         
+                                                                    65829047 Retamoso Delia           
+                                                                    17346816 Sinche Yvonne            
+                                                                    81229659 Tang Johana              
+                                                                    98278749 Villegas Doris           
+                                                                    87879355 Zarate Alexander         
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JJ8861 The Women's War                                              81877103 Arca Lucero               168.15      0      6.95319e-310
+                                                                    52819190 Calderon Rhony           
+                                                                    58104662 Florian Jose             
+                                                                    87727460 Henriquez Silvana        
+                                                                    69205145 Inga Cesar               
+                                                                    65712223 Lau Monica               
+                                                                    57748957 Mendoza Rosario          
+                                                                    30312768 Suarez Amaru             
+                                                                    83516099 Vilca Nestor             
+                                                                    87879355 Zarate Alexander         
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JP1675 La Fille aux yeux d'or                                       46313638 Antezano Teresa           16.22      0      6.95319e-310
+                                                                    64652269 Chumpitaz Angel          
+                                                                    47877357 Epiquen Guida            
+                                                                    30317150 Farfan Margot            
+                                                                    22294136 Lozada Heli              
+                                                                    63278554 Merel Annie              
+                                                                    64876157 Pasquel Surami           
+                                                                    91248050 Ruiz Carola              
+                                                                    41749043 Soma Eloisa              
+                                                                    97396725 Urbina Rafael            
+                                                                    38454880 Villa Martin             
+                                                                    76087487 Yoshinari Paul           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JT9902 El Presidio de Tolon                                         64652269 Chumpitaz Angel           11.77      0      6.95319e-310
+                                                                    59041018 Diaz Enrique             
+                                                                    60453071 Fernandez Elizabeth      
+                                                                    30781922 Hernandez Guillermo      
+                                                                    38628182 Iberos Rafael            
+                                                                    88473577 Justino Williams         
+                                                                    52101278 Lozada Martha            
+                                                                    13198578 Prado Milagros           
+                                                                    89590109 Rivero Wilver            
+                                                                    17346816 Sinche Yvonne            
+                                                                    97396725 Urbina Rafael            
+                                                                    71527984 Vizcarra Ivan            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+KK3749 El pintor de batallas                                        16962503 Cabrera Fanny             47.01      0      6.95319e-310
+                                                                    91705655 Hijar Martin             
+                                                                    52101278 Lozada Martha            
+                                                                    36110054 Maldonado Silvana        
+                                                                    20931663 Prado Juan               
+                                                                    46555073 Sakaguchi Carlos         
+                                                                    95088110 Zegarra Carmela          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+KP8208 Alice's Adventures in Wonderland                             19447703 Astete Cesar              34.63      0      6.95319e-310
+                                                                    59041018 Diaz Enrique             
+                                                                    60453071 Fernandez Elizabeth      
+                                                                    29408628 Mejia Blanca             
+                                                                    75660629 Rosemberg Julio          
+                                                                    17346816 Sinche Yvonne            
+                                                                    97396725 Urbina Rafael            
+                                                                    32502215 Vilcara Magali           
+                                                                    91986885 Wong Madeleine           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+KZ6738 El Club de los explotadores                                  19447703 Astete Cesar              176.8      0      6.95319e-310
+                                                                    52986658 Barrios Carlos           
+                                                                    36715990 Gordillo Yvonne          
+                                                                    88473577 Justino Williams         
+                                                                    65712223 Lau Monica               
+                                                                    63484495 Pomajambo Paul           
+                                                                    81265304 Quiroga Silvana          
+                                                                    70519608 Rios Ines                
+                                                                    50212828 Suchero Edgar            
+                                                                    91307225 Valderrama Evert         
+                                                                    95088110 Zegarra Carmela          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+MZ5806 Una Navidad                                                  16431208 Arroyo Maria              101.76      0      6.95319e-310
+                                                                    77261935 Morales Ines             
+                                                                    59428921 Prado Edgar              
+                                                                    17017864 Ramirez Karina           
+                                                                    76659067 Salamanca Virginia       
+                                                                    98278749 Villegas Doris           
+                                                                    23765646 Zarate Humberto          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+MZ6529 La jaula de los pajaros                                      19447703 Astete Cesar              159.21      0      6.95319e-310
+                                                                    52055020 Calderon Guillermo       
+                                                                    13902304 De_La_Cuba Lucero        
+                                                                    35717091 Escalante Emigdio        
+                                                                    25800565 Piscoya Cesar            
+                                                                    81265304 Quiroga Silvana          
+                                                                    20698653 Sanchez Fiorella         
+                                                                    91307225 Valderrama Evert         
+                                                                    64942077 Zuniga Rebeca            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+NL2557 Georges                                                      54357577 Amezquita Evert           0.68      0      6.95319e-310
+                                                                    77295617 Carbajal Magda           
+                                                                    96143718 Diaz Magali              
+                                                                    87727460 Henriquez Silvana        
+                                                                    52915484 Jauregui Victor          
+                                                                    36110054 Maldonado Silvana        
+                                                                    56917193 Norabuena Cinthia        
+                                                                    35173856 Pairazaman Alberto       
+                                                                    44708366 Rivero Hector            
+                                                                    76365088 Saavedra Wilmer          
+                                                                    48630613 Vega Henrry              
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+NN8875 Muerte de la luz                                             60094034 Cueva Cinthia             8.39      0      6.95319e-310
+                                                                    17171028 Espinoza Shirley         
+                                                                    30317150 Farfan Margot            
+                                                                    78458649 Leyva Nancy              
+                                                                    65700320 Mercado Elia             
+                                                                    24624606 Portugal Johana          
+                                                                    41749043 Soma Eloisa              
+                                                                    21835262 Urbina Magda             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+NR4482 House of Pomegranates                                        99383620 Arroyo Natalia            182.6      0      6.95319e-310
+                                                                    52819190 Calderon Rhony           
+                                                                    58409378 Hijar Jenny              
+                                                                    38628182 Iberos Rafael            
+                                                                    59535105 Minaya Heli              
+                                                                    73705320 Ortiz Raul               
+                                                                    51720145 Pairazaman Tatiana       
+                                                                    87798109 Solis Maria              
+                                                                    71527984 Vizcarra Ivan            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+NZ5630 Clotilde de Lusignan                                         72306144 Avila Tatiana             55.37      0      6.95319e-310
+                                                                    77295617 Carbajal Magda           
+                                                                    54863733 Guevara Milena           
+                                                                    39261432 Perez Richard            
+                                                                    65829047 Retamoso Delia           
+                                                                    11583249 Suarez Gloria            
+                                                                    45742806 Villegas Felicita        
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+OM5321 Le Colonel Chabert                                           81877103 Arca Lucero               143.87      0      6.95319e-310
+                                                                    85466437 Caro Sandro              
+                                                                    65851317 Falcon Alex              
+                                                                    53204593 Hijar Williams           
+                                                                    69205145 Inga Cesar               
+                                                                    85480617 Leyva Diana              
+                                                                    63278554 Merel Annie              
+                                                                    73705320 Ortiz Raul               
+                                                                    76659067 Salamanca Virginia       
+                                                                    64942077 Zuniga Rebeca            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+OM6583 Los Caballeros del Claro de Luna                             72306144 Avila Tatiana             196.78      0      6.95319e-310
+                                                                    54377463 Benavente Virginia       
+                                                                    88283783 Castro Rolando           
+                                                                    58409378 Hijar Jenny              
+                                                                    88473577 Justino Williams         
+                                                                    51219082 Luna Waldemar            
+                                                                    56467796 Palomares Henrry         
+                                                                    53237772 Rodriguez Blanca         
+                                                                    34558751 Solis Rolando            
+                                                                    81229659 Tang Johana              
+                                                                    46910578 Wong Beatriz             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+OO4960 The Corsican Brothers                                        56383779 Auris Javier              118.04      0      6.95319e-310
+                                                                    90038440 Casanova Maritza         
+                                                                    61932998 Farfan Elizabeth         
+                                                                    47037159 Gonzales Henry           
+                                                                    78530722 Mejia Francisco          
+                                                                    83928944 Pinto Shirley            
+                                                                    91248050 Ruiz Carola              
+                                                                    55431605 Zavaleta Felicita        
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+OQ5947 La guerra sin fin                                            50174115 Asmad Adria               59.01      0      6.95319e-310
+                                                                    88283783 Castro Rolando           
+                                                                    96143718 Diaz Magali              
+                                                                    87986232 Gonzales Giovana         
+                                                                    38628182 Iberos Rafael            
+                                                                    86802874 Justino Enrique          
+                                                                    80690019 Laura Melvin             
+                                                                    58048428 Pairazaman Moises        
+                                                                    75660629 Rosemberg Julio          
+                                                                    82314584 Santisteban Rosa         
+                                                                    98278749 Villegas Doris           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PA0853 The Nutcracker                                               84379700 Cerna Jose                121.72      0      6.95319e-310
+                                                                    11553557 Diaz Elia                
+                                                                    30781922 Hernandez Guillermo      
+                                                                    88473577 Justino Williams         
+                                                                    82009586 Martinez Evert           
+                                                                    56917193 Norabuena Cinthia        
+                                                                    22006519 Pinto Juvenal            
+                                                                    26313021 Shirakawa Angel          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PK0790 Historia de Maria                                            81877103 Arca Lucero               31.06      0      6.95319e-310
+                                                                    62791457 Chung Alvaro             
+                                                                    63484495 Pomajambo Paul           
+                                                                    53237772 Rodriguez Blanca         
+                                                                    26313021 Shirakawa Angel          
+                                                                    46910578 Wong Beatriz             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PS1579 Le Chevalier de Maison-Rouge                                 77295617 Carbajal Magda            240.36      0      6.95319e-310
+                                                                    65851317 Falcon Alex              
+                                                                    90344401 Infantes Luis            
+                                                                    90684914 Miyake Madeleine         
+                                                                    32033316 Rios Carlos              
+                                                                    42808544 Salamanca Nestor         
+                                                                    62541272 Tokeshi Jaime            
+                                                                    97100234 Vilcara Victor           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PW5521 Les Ressources de Quinola                                    60094034 Cueva Cinthia             68.29      0      6.95319e-310
+                                                                    35190925 Florian Ydali            
+                                                                    91705655 Hijar Martin             
+                                                                    22294136 Lozada Heli              
+                                                                    45532063 Prado Carlos             
+                                                                    17017864 Ramirez Karina           
+                                                                    42218739 Sueldo Adria             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PY0488 La Resurrección de Rocambole                                 41284966 Calixto Monica            16.33      0      6.95319e-310
+                                                                    17171028 Espinoza Shirley         
+                                                                    65851317 Falcon Alex              
+                                                                    87727460 Henriquez Silvana        
+                                                                    52101278 Lozada Martha            
+                                                                    74943699 Miranda Alfonso          
+                                                                    63484495 Pomajambo Paul           
+                                                                    91248050 Ruiz Carola              
+                                                                    17346816 Sinche Yvonne            
+                                                                    38454880 Villa Martin             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+QI9476 What the Tortoise Said to Achilles                           15688337 Cano Milagros             26.2      0      6.95319e-310
+                                                                    35190925 Florian Ydali            
+                                                                    69205145 Inga Cesar               
+                                                                    51219082 Luna Waldemar            
+                                                                    21457954 Rosemberg Jair           
+                                                                    26313021 Shirakawa Angel          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+QQ0205 Unspoiled Monsters y Kate McCloud                            56383779 Auris Javier              33.67      0      6.95319e-310
+                                                                    77295617 Carbajal Magda           
+                                                                    87458108 Diaz Irma                
+                                                                    21373471 Egusquiza Doris          
+                                                                    99738992 Landa Christian          
+                                                                    74943699 Miranda Alfonso          
+                                                                    38155642 Raffo Rolando            
+                                                                    11583249 Suarez Gloria            
+                                                                    91307225 Valderrama Evert         
+                                                                    25363959 Zambrano Ofelia          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+QY4518 Beat the Devil                                               54393864 Cortez Carmela            97.27      0      6.95319e-310
+                                                                    30317150 Farfan Margot            
+                                                                    56343286 Hernandez Emilio         
+                                                                    52915484 Jauregui Victor          
+                                                                    42511417 Landeo Adolfo            
+                                                                    37256898 Morales Karin            
+                                                                    73705320 Ortiz Raul               
+                                                                    64876157 Pasquel Surami           
+                                                                    50477836 Salas Magda              
+                                                                    70695301 Vasquez Alex             
+                                                                    25363959 Zambrano Ofelia          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RH6857 Carmen la gitana                                             78779825 Asmad Annie               96.18      0      6.95319e-310
+                                                                    49249193 Barrera Alexander        
+                                                                    82717251 Castillo Eloisa          
+                                                                    86199093 Florencio Alonso         
+                                                                    99738992 Landa Christian          
+                                                                    95760385 Moya Johnny              
+                                                                    63484495 Pomajambo Paul           
+                                                                    11583249 Suarez Gloria            
+                                                                    48630613 Vega Henrry              
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RN0673 La hermosa jardinera                                         76570914 Alamo Miguel              49.21      0      6.95319e-310
+                                                                    64652269 Chumpitaz Angel          
+                                                                    42817045 Diaz Walter              
+                                                                    53339543 Epiquen Enrique          
+                                                                    57193586 Henriquez Alex           
+                                                                    67772258 Lau Ydali                
+                                                                    63278554 Merel Annie              
+                                                                    16520470 Norabuena Hector         
+                                                                    45532063 Prado Carlos             
+                                                                    53237772 Rodriguez Blanca         
+                                                                    36830631 Serrano Francisco        
+                                                                    45742806 Villegas Felicita        
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RP9394 El hombre gris                                               54377463 Benavente Virginia        57.44      0      6.95319e-310
+                                                                    82291915 Cerna Martin             
+                                                                    87727460 Henriquez Silvana        
+                                                                    29408628 Mejia Blanca             
+                                                                    20698653 Sanchez Fiorella         
+                                                                    21835262 Urbina Magda             
+                                                                    95088110 Zegarra Carmela          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RU3649 The Fencing Master                                           99383620 Arroyo Natalia            30.74      0      6.95319e-310
+                                                                    18907009 Cabrera Shirley          
+                                                                    26922404 Florian Christian        
+                                                                    43761853 Iparraguirre Nicolas     
+                                                                    67772258 Lau Ydali                
+                                                                    37256898 Morales Karin            
+                                                                    35173856 Pairazaman Alberto       
+                                                                    55889387 Rondon Alexander         
+                                                                    18300541 Trigueros Luz            
+                                                                    91335450 Urbina Heli              
+                                                                    91986885 Wong Madeleine           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RY6519 The Regent's Daughter                                        42766378 Acuna Rocio               64.77      0      6.95319e-310
+                                                                    71969845 Cerna Fiorella           
+                                                                    59041018 Diaz Enrique             
+                                                                    21373471 Egusquiza Doris          
+                                                                    26922404 Florian Christian        
+                                                                    18891253 Justino Ericka           
+                                                                    51720145 Pairazaman Tatiana       
+                                                                    76365088 Saavedra Wilmer          
+                                                                    13034387 Villa Ronal              
+                                                                    44444550 Zavaleta Ericka          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+SC2766 La Catedral                                                  81877103 Arca Lucero               153.81      0      6.95319e-310
+                                                                    63250786 Baca Milagros            
+                                                                    52819190 Calderon Rhony           
+                                                                    26922404 Florian Christian        
+                                                                    95760385 Moya Johnny              
+                                                                    58048428 Pairazaman Moises        
+                                                                    70519608 Rios Ines                
+                                                                    91335450 Urbina Heli              
+                                                                    87879355 Zarate Alexander         
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+SX7522 Paseo por los Andes                                          30375706 Contreras Johana          168.16      0      6.95319e-310
+                                                                    62622196 Durand Waldemar          
+                                                                    32498991 Patino Delicia           
+                                                                    61995385 Romero Jenny             
+                                                                    43566294 Segura Rony              
+                                                                    81229659 Tang Johana              
+                                                                    90048773 Wong Richard             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+TD5907 The Ballad of Reading Gaol                                   26736861 Correa Miguel             225.48      0      6.95319e-310
+                                                                    61352168 Escalante Ines           
+                                                                    30781922 Hernandez Guillermo      
+                                                                    90344401 Infantes Luis            
+                                                                    30886776 Maldonado Johana         
+                                                                    63484495 Pomajambo Paul           
+                                                                    61847557 Vega Carmela             
+                                                                    46910578 Wong Beatriz             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+TF7016 Castle Eppstein; The Specter Mother                          25463868 Alfaro Erick              129.77      0      6.95319e-310
+                                                                    52986658 Barrios Carlos           
+                                                                    40119187 Camacho Elia             
+                                                                    61352168 Escalante Ines           
+                                                                    36715990 Gordillo Yvonne          
+                                                                    32053348 Medina Milena            
+                                                                    20698653 Sanchez Fiorella         
+                                                                    89083026 Yep Alvaro               
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UC1640 La Peau de chagrin                                           76570914 Alamo Miguel              21.76      0      6.95319e-310
+                                                                    90849620 Cruz Johana              
+                                                                    65712223 Lau Monica               
+                                                                    21758358 Paredes Christian        
+                                                                    20698653 Sanchez Fiorella         
+                                                                    32502215 Vilcara Magali           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UK4282 Joseph Balsamo                                               14305735 Ayala Ericka              151.94      0      6.95319e-310
+                                                                    46181740 Durand Miguel            
+                                                                    69205145 Inga Cesar               
+                                                                    92387101 Mendoza Virginia         
+                                                                    17017864 Ramirez Karina           
+                                                                    37508700 Suarez Madeleine         
+                                                                    97100234 Vilcara Victor           
+                                                                    46910578 Wong Beatriz             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UP4621 Le Vicaire des Ardennes                                      42817045 Diaz Walter               151.53      0      6.95319e-310
+                                                                    85793477 Mejia Christian          
+                                                                    24624606 Portugal Johana          
+                                                                    55889387 Rondon Alexander         
+                                                                    77414342 Suarez Rafael            
+                                                                    18300541 Trigueros Luz            
+                                                                    97396725 Urbina Rafael            
+                                                                    78528452 Vizcardo Maribel         
+                                                                    23765646 Zarate Humberto          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UT7122 Sylvie and Bruno Concluded                                   51440253 Avila Annie               43.38      0      6.95319e-310
+                                                                    60094034 Cueva Cinthia            
+                                                                    11553557 Diaz Elia                
+                                                                    47835292 Fuentes Patricia         
+                                                                    69205145 Inga Cesar               
+                                                                    78458649 Leyva Nancy              
+                                                                    82009586 Martinez Evert           
+                                                                    34558751 Solis Rolando            
+                                                                    38454880 Villa Martin             
+                                                                    95088110 Zegarra Carmela          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UV2257 El Duque en su territorio                                    16431208 Arroyo Maria              95.08      0      6.95319e-310
+                                                                    88283783 Castro Rolando           
+                                                                    85480617 Leyva Diana              
+                                                                    23728998 Sinche Martha            
+                                                                    97396725 Urbina Rafael            
+                                                                    98278749 Villegas Doris           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UZ6069 El nino perdido                                              81696554 Ayala Edgar               6.34      0      6.95319e-310
+                                                                    86199093 Florencio Alonso         
+                                                                    32053348 Medina Milena            
+                                                                    73705320 Ortiz Raul               
+                                                                    24624606 Portugal Johana          
+                                                                    17017864 Ramirez Karina           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+VV6733 El narrador                                                  90849620 Cruz Johana               37.05      0      6.95319e-310
+                                                                    56343286 Hernandez Emilio         
+                                                                    59535105 Minaya Heli              
+                                                                    25800565 Piscoya Cesar            
+                                                                    79391070 Sam Ines                 
+                                                                    81229659 Tang Johana              
+                                                                    91335450 Urbina Heli              
+                                                                    54210699 Velasquez Edgard         
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+WG6535 La casa roja                                                 50174115 Asmad Adria               121.22      0      6.95319e-310
+                                                                    36715990 Gordillo Yvonne          
+                                                                    30781922 Hernandez Guillermo      
+                                                                    18891253 Justino Ericka           
+                                                                    95902402 Patino Beatriz           
+                                                                    36830631 Serrano Francisco        
+                                                                    91335450 Urbina Heli              
+                                                                    97100234 Vilcara Victor           
+                                                                    89083026 Yep Alvaro               
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+XA3792 Un breve cuento aparecido en la revista Seventeen            58930275 Camacho Ydali             32.81      0      6.95319e-310
+                                                                    87458108 Diaz Irma                
+                                                                    53339543 Epiquen Enrique          
+                                                                    71154019 Henriquez Paul           
+                                                                    61995385 Romero Jenny             
+                                                                    37508700 Suarez Madeleine         
+                                                                    23765646 Zarate Humberto          
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+XG5854 Los tesoros del Rajah                                        56383779 Auris Javier              173.42      0      6.95319e-310
+                                                                    54381085 Calixto Erick            
+                                                                    87458108 Diaz Irma                
+                                                                    68642548 Forzani Alonso           
+                                                                    67469124 Lozada Felicita          
+                                                                    78530722 Mejia Francisco          
+                                                                    24624606 Portugal Johana          
+                                                                    34558751 Solis Rolando            
+                                                                    21835262 Urbina Magda             
+                                                                    71527984 Vizcarra Ivan            
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+XP0085 ¡Redencion!                                                  15688337 Cano Milagros             203.04      0      6.95319e-310
+                                                                    91705655 Hijar Martin             
+                                                                    43761853 Iparraguirre Nicolas     
+                                                                    61119229 Lozada Antonio           
+                                                                    31034559 Moscoso Fiorella         
+                                                                    83928944 Pinto Shirley            
+                                                                    53237772 Rodriguez Blanca         
+                                                                    17607637 Sedano Elia              
+                                                                    45742806 Villegas Felicita        
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+YH4590 The Queen's Necklace                                         17438970 Arca Magali               98.98      0      6.95319e-310
+                                                                    54377463 Benavente Virginia       
+                                                                    29254513 Delgado Guillermo        
+                                                                    35717091 Escalante Emigdio        
+                                                                    87986232 Gonzales Giovana         
+                                                                    52101278 Lozada Martha            
+                                                                    56917193 Norabuena Cinthia        
+                                                                    81265304 Quiroga Silvana          
+                                                                    75660629 Rosemberg Julio          
+                                                                    26313021 Shirakawa Angel          
+                                                                    81229659 Tang Johana              
+                                                                    96950473 Valverde Rony            
+                                                                    64346156 Zamora Ronal             
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+ZF7975 The Countess de Charny                                       70123539 Corrales Irma             10.36      0      6.95319e-310
+                                                                    87458108 Diaz Irma                
+                                                                    17171028 Espinoza Shirley         
+                                                                    87727460 Henriquez Silvana        
+                                                                    65700320 Mercado Elia             
+                                                                    75660629 Rosemberg Julio          
+                                                                    87798109 Solis Maria              
+                                                                    21835262 Urbina Magda             
+                                                                    32502215 Vilcara Magali           
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+

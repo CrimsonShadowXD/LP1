@@ -1,0 +1,326 @@
+                                                    Reservas Asignadas
+Aula: A01
+Capacidad: 4
+Nombre: LOZADA/YINO/MARTHA
+Tipo: A
+=========
+Aula: A01
+Capacidad: 4
+Nombre: CAMACHO/AGUERO/ELIA ROSA
+Tipo: A
+=========
+Aula: A01
+Capacidad: 4
+Nombre: CORREA/VIZCARDO/MIGUEL
+Tipo: A
+=========
+Aula: A01
+Capacidad: 4
+Nombre: HENRIQUEZ/ESPINO/BEATRIZ
+Tipo: A
+=========
+Aula: A02
+Capacidad: 4
+Nombre: FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH
+Tipo: A
+=========
+Aula: A02
+Capacidad: 4
+Nombre: VASQUEZ/PAZ/ALEX MARTIN
+Tipo: A
+=========
+Aula: A02
+Capacidad: 4
+Nombre: CARO/POLO/SANDRO
+Tipo: A
+=========
+Aula: A02
+Capacidad: 4
+Nombre: SALAS/AGUERO/DANIEL
+Tipo: A
+=========
+Aula: A03
+Capacidad: 6
+Nombre: LANDEO/SUELDO/ADOLFO
+Tipo: A
+=========
+Aula: A03
+Capacidad: 6
+Nombre: MEDINA/VELASQUEZ/MILENA JENNY
+Tipo: A
+=========
+Aula: A03
+Capacidad: 6
+Nombre: MEJIA/HAZA/FRANCISCO EDGAR
+Tipo: A
+=========
+Aula: A03
+Capacidad: 6
+Nombre: CORRALES/TSUKAZAN/IRMA LOURDES
+Tipo: A
+=========
+Aula: A03
+Capacidad: 6
+Nombre: SANTISTEBAN/MEZA/ROSA
+Tipo: P
+=========
+Aula: A03
+Capacidad: 6
+Nombre: MALDONADO/RAMIREZ/SILVANA
+Tipo: P
+=========
+Aula: A04
+Capacidad: 6
+Nombre: LAURA/WONG/MELVIN HENRRY
+Tipo: A
+=========
+Aula: A04
+Capacidad: 6
+Nombre: PAREDES/PATINO/CHRISTIAN
+Tipo: A
+=========
+Aula: A04
+Capacidad: 6
+Nombre: BENAVENTE/AYALA/VIRGINIA IRMA
+Tipo: A
+=========
+Aula: A04
+Capacidad: 6
+Nombre: PAIRAZAMAN/ALAMO/MOISES MIGUEL
+Tipo: A
+=========
+Aula: A04
+Capacidad: 6
+Nombre: MEJIA/DIAZ/BLANCA MILAGROS
+Tipo: P
+=========
+Aula: A04
+Capacidad: 6
+Nombre: WONG/MARTEL/MADELEINE
+Tipo: P
+=========
+Aula: A05
+Capacidad: 6
+Nombre: VILLA/YALLICO/TATIANA NANCY
+Tipo: A
+=========
+Aula: A05
+Capacidad: 6
+Nombre: PALOMARES/VERA/HENRRY HUMBERTO
+Tipo: A
+=========
+Aula: A05
+Capacidad: 6
+Nombre: AURIS/ZIMIC/JAVIER DANIEL
+Tipo: A
+=========
+Aula: A05
+Capacidad: 6
+Nombre: AQUINO/TORO/VALENTINA ROCIO
+Tipo: A
+=========
+Aula: A05
+Capacidad: 6
+Nombre: HERNANDEZ/BARRIOS/EMILIO
+Tipo: P
+=========
+Aula: A05
+Capacidad: 6
+Nombre: PISCOYA/BRAVO/CESAR BRUNO
+Tipo: P
+=========
+Aula: A06
+Capacidad: 6
+Nombre: VELASQUEZ/HUAYANAY/EDGARD HENRY
+Tipo: A
+=========
+Aula: A06
+Capacidad: 6
+Nombre: CORONEL/CHUMPITAZ/HELI
+Tipo: A
+=========
+Aula: A06
+Capacidad: 6
+Nombre: NORABUENA/PRECIADO/CINTHIA
+Tipo: A
+=========
+Aula: A06
+Capacidad: 6
+Nombre: PORTUGAL/BENAVENTE/JOHANA GLORIA
+Tipo: A
+=========
+Aula: A06
+Capacidad: 6
+Nombre: DIAZ/ANTEZANO/MAGALI SILVANA
+Tipo: P
+=========
+Aula: A06
+Capacidad: 6
+Nombre: SHIRAKAWA/MIRANDA/MADELEINE
+Tipo: P
+=========
+Aula: A07
+Capacidad: 4
+Nombre: JUSTINO/FORZANI/ERICKA VICTORIA
+Tipo: A
+=========
+Aula: A07
+Capacidad: 4
+Nombre: JUSTINO/CRUZ/WILLIAMS
+Tipo: A
+=========
+Aula: A07
+Capacidad: 4
+Nombre: PRADO/VERGEL/CARLOS JULIAN
+Tipo: A
+=========
+Aula: A07
+Capacidad: 4
+Nombre: LANDA/PISCOYA/CHRISTIAN
+Tipo: A
+=========
+Aula: A08
+Capacidad: 4
+Nombre: MIYAKE/MEREL/MADELEINE YLIANA
+Tipo: A
+=========
+Aula: A08
+Capacidad: 4
+Nombre: MORALES/VALVERDE/INES MARTHA
+Tipo: A
+=========
+Aula: A08
+Capacidad: 4
+Nombre: INGA/FLORES/CESAR ADOLFO
+Tipo: A
+=========
+Aula: A08
+Capacidad: 4
+Nombre: CERNA/DURAND/MARTIN
+Tipo: A
+=========
+Aula: A09
+Capacidad: 4
+Nombre: ARCA/AMEZQUITA/EDRIC RONALD
+Tipo: A
+=========
+Aula: A09
+Capacidad: 4
+Nombre: CABRERA/CANALES/GUILLERMO EDRIC
+Tipo: A
+=========
+Aula: A09
+Capacidad: 4
+Nombre: PASQUEL/QUIO/SURAMI JANET
+Tipo: A
+=========
+Aula: A09
+Capacidad: 4
+Nombre: ARROYO/GORDILLO/MARIA HELI
+Tipo: P
+=========
+Aula: A10
+Capacidad: 4
+Nombre: FORZANI/CARO/ALONSO
+Tipo: P
+=========
+Aula: A10
+Capacidad: 4
+Nombre: RAFFO/ARIAS/SURAMI ANNIE
+Tipo: P
+=========
+Aula: A10
+Capacidad: 4
+Nombre: DIAZ/CORREA/IRMA VIRGINIA
+Tipo: P
+=========
+Aula: A10
+Capacidad: 4
+Nombre: PINTO/CALIXTO/SHIRLEY
+Tipo: P
+=========
+Aula: B01
+Capacidad: 5
+Nombre: CERNA/PAIRAZAMAN/FIORELLA MARGOT
+Tipo: P
+=========
+Aula: B01
+Capacidad: 5
+Nombre: REYES/TANG/EDWARD
+Tipo: P
+=========
+Aula: B01
+Capacidad: 5
+Nombre: MENDOZA/EGUSQUIZA/ROSARIO
+Tipo: P
+=========
+Aula: B01
+Capacidad: 5
+Nombre: PRADO/FALCON/EDGAR RICHARD
+Tipo: P
+=========
+Aula: B01
+Capacidad: 5
+Nombre: CHUMPITAZ/IBEROS/RONAL
+Tipo: P
+=========
+Aula: B02
+Capacidad: 5
+Nombre: RAFFO/CHUNG/ADRIA GLORIA
+Tipo: P
+=========
+Aula: B02
+Capacidad: 5
+Nombre: ROMERO/PALOMARES/GLORIA TATIANA
+Tipo: P
+=========
+Aula: B02
+Capacidad: 5
+Nombre: VEGA/GARCIA/JANET REBECA
+Tipo: P
+=========
+Aula: B02
+Capacidad: 5
+Nombre: DELGADO/GONZALES/GUILLERMO ALFONSO
+Tipo: P
+=========
+Aula: B02
+Capacidad: 5
+Nombre: SALAZAR/CORRALES/LORENA IRMA
+Tipo: P
+=========
+Aula: B03
+Capacidad: 5
+Nombre: SHIRAKAWA/ORTEGA/ANGEL
+Tipo: P
+=========
+Aula: B03
+Capacidad: 5
+Nombre: CHUNG/LEE/ALVARO
+Tipo: P
+=========
+Aula: B03
+Capacidad: 5
+Nombre: PEREZ/FARFAN/RICHARD SANDRO
+Tipo: P
+=========
+Aula: B03
+Capacidad: 5
+Nombre: CASTRO/SUAREZ/ROLANDO
+Tipo: P
+=========
+Aula: B03
+Capacidad: 5
+Nombre: CABRERA/LUNA/SHIRLEY ISABEL
+Tipo: P
+=========
+Aula: B04
+Capacidad: 5
+Nombre: VALVERDE/FLORES/IRMA YDALI
+Tipo: P
+=========
+Aula: B04
+Capacidad: 5
+Nombre: CERNA/HIJAR/JOSE ROLANDO
+Tipo: P
+=========

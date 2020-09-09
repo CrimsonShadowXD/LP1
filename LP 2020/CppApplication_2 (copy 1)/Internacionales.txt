@@ -1,0 +1,36 @@
+5258      Gavidia/Mendoza/Ronald-Johnny           
+Japon               2
+
+5395      Alamo/Pairazaman/Miguel-Roberto         
+Austria             1
+
+4450      Vega/Munoz/Gonzalo                      
+Filipinas           1
+
+7613      Cortez/Segura/Carmela-Ines              
+Alemania            3
+
+9442      Florian/Morales/Ydali                   
+Brasil              1
+
+2075      Moya/Aranda/Johnny                      
+Colombia            2
+
+6702      Calixto/Tomasiche/Monica-Doris          
+Australia           3
+
+1994      Ruiz/Gordillo/Carola-Erika              
+Puerto Rico         2
+
+8528      Zarate/Del_Pozo/Humberto-Antonio        
+Ucrania             3
+
+6553      Coronado/Figueroa/Johan                 
+EEUUAA              2
+
+1346      Hijar/Pairazaman/Jenny-Delicia          
+Camerun             1
+
+6965      Antezano/Segura/Teresa-Delia            
+Bolivia             3
+

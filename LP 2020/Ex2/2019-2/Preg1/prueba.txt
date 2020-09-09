@@ -1,0 +1,116 @@
+48175022  Alamo/Pairazaman/Miguel Roberto                   12:6:39          1.38
+
+94149989  Antezano/Segura/Teresa Delia                      12:10:48          2.43
+
+71457094  Arca/Amezquita/Edric Ronald                       11:8:5          8.21
+
+35297848  Astete/Chang/Guida                                9:38:39          0.35
+
+38004399  Auris/Zimic/Javier Daniel Luis                    11:14:34          0.49
+
+16477908  Baca/Camacho/Milagros Natalia                     11:45:48          2.94
+
+53566003  Cabrera/Canales/Guillermo Edric                   9:52:41          7
+
+62504139  Calixto/Tomasiche/Monica Doris                    11:11:35          5.98
+
+68310808  Cano/Polo/Milagros Isabel                         10:50:27          2.41
+
+62004867  Caro/Polo/Sandro                                  11:30:29          7.11
+
+38362262  Coronado/Figueroa/Johan                           10:31:43          6.96
+
+84074583  Coronel/Chumpitaz/Heli                            10:27:12          3.01
+
+29851973  Cortez/Segura/Carmela Ines                        10:37:46          7.94
+
+60335381  Diaz/Tang/Enrique                                 11:52:32          6.96
+
+54141214  Durand/Miranda/Miguel Juan                        11:2:5          0.11
+
+77763722  Farfan/Salazar/Margot                             9:32:27          2.69
+
+50449903  Florian/Morales/Ydali                             9:48:41          8.14
+
+79766395  Fuentes/Escalante/Patricia Elizabeth              11:49:6          6.55
+
+64208029  Gavidia/Mendoza/Ronald Johnny                     11:29:5          0.41
+
+23842717  Henriquez/Espino/Beatriz                          9:37:36          6.18
+
+46923852  Hijar/Pairazaman/Jenny Delicia                    10:5:29          8.17
+
+77982722  Justino/Cruz/Williams                             11:1:2          1.04
+
+68167636  Landeo/Sueldo/Adolfo                              10:41:17          7.78
+
+68369891  Laura/Wong/Melvin Henrry                          10:58:21          3.7
+
+59121560  Lozada/Yino/Martha                                10:12:56          6.05
+
+35912665  Martinez/Cruz/Evert Rony                          11:55:40          6.79
+
+75945248  Mejia/Rodriguez/Ines Valentina                    11:17:22          6.52
+
+69494747  Mendoza/Romero/Virginia Ydali                     11:51:41          6.8
+
+66849703  Mercado/Coronel/Elia                              10:55:44          1.75
+
+80310768  Minaya/Berrocal/Heli                              11:39:49          1.46
+
+31107104  Moscoso/Arias/Fiorella                            12:21:22          6.53
+
+17709280  Moya/Aranda/Johnny                                12:14:22          2
+
+58992942  Narvaez/Castillo/Jesus Rafael                     12:7:8          7.79
+
+60422425  Palomares/Vera/Henrry Humberto                    11:8:6          2.3
+
+14467310  Paredes/Patino/Christian                          12:29:41          7.8
+
+66811104  Pasquel/Quio/Surami Janet                         9:49:28          3.22
+
+88854166  Pinto/Rojas/Juvenal Francisco                     10:50:43          0.51
+
+71180497  Portugal/Benavente/Johana Gloria                  10:30:7          4.02
+
+97849227  Prado/Espinoza/Milagros                           10:58:59          7.31
+
+48878256  Raffo/Coronado/Rolando                            10:4:22          6.13
+
+48450395  Ramirez/Astete/Karina Estefania                   10:43:10          3.54
+
+89314225  Rios/Durand/Carlos Edilberto                      9:35:7          3.79
+
+84186239  Rivero/Coronado/Hector Alonso                     12:9:6          2.52
+
+13219606  Rodriguez/Moreno/Blanca Ofelia                    10:40:2          2.85
+
+88000134  Ruiz/Gordillo/Carola Erika                        10:52:7          5.97
+
+26522329  Sanchez/Del_Castillo/Fiorella Rosario             10:32:10          7.68
+
+27185429  Solis/Chung/Rolando                               11:34:44          2.62
+
+53853385  Solis/Narvaez/Maria Madeleine                     11:26:21          0.09
+
+32090869  Sueldo/Antezano/Luis Jesus                        10:50:2          3.38
+
+71832810  Sueldo/Sedano/Adria                               10:22:34          6.18
+
+73357516  Trigueros/Jugo/Luz                                9:44:33          5.19
+
+15029228  Valverde/Maeireizo/Melvin Jair                    12:30:16          0.39
+
+40237708  Vega/Munoz/Gonzalo                                11:50:1          3.45
+
+45043076  Vega/Vilcara/Carmela Teresa                       10:47:4          5.19
+
+47844324  Vilca/Lee/Nestor Hugo                             10:2:26          4.71
+
+63736112  Zamora/Zavaleta/Ronal Manuel                      11:0:29          5.67
+
+76083813  Zarate/Del_Pozo/Humberto Antonio                  12:3:36          7.84
+
+48528209  Zavaleta/Coronado/Felicita Eloisa                 12:24:8          3.32
+

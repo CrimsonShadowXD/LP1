@@ -1,0 +1,105 @@
+92419     LOZADA/YINO/MARTHA                      
+4                   Ing. Mecanica       EEGGCC             
+
+67560     CAMACHO/AGUERO/ELIA ROSA                
+2                   Ing. Civil          EEGGCC             
+
+50139     CORREA/VIZCARDO/MIGUEL                  
+4                   Ing. Mecanica       EEGGCC             
+
+74926     HENRIQUEZ/ESPINO/BEATRIZ                
+1                   Ing. Civil          FCI                
+
+98008     FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH    
+3                   Ing. Mecanica       FCI                
+
+98202     VASQUEZ/PAZ/ALEX MARTIN                 
+4                   Ing. Mecanica       EEGGCC             
+
+69791     CARO/POLO/SANDRO                        
+5                   Ing. Informatica    FCI                
+
+36466     SALAS/AGUERO/DANIEL                     
+1                   Ing. Civil          FCI                
+
+26685     LANDEO/SUELDO/ADOLFO                    
+2                   Ing. Civil          EEGGCC             
+
+55472     MEDINA/VELASQUEZ/MILENA JENNY           
+3                   Ing. Mecanica       FCI                
+
+52106     MEJIA/HAZA/FRANCISCO EDGAR              
+1                   Ing. Civil          FCI                
+
+52680     CORRALES/TSUKAZAN/IRMA LOURDES          
+4                   Ing. Mecanica       EEGGCC             
+
+40825     LAURA/WONG/MELVIN HENRRY                
+4                   Ing. Mecanica       EEGGCC             
+
+41668     PAREDES/PATINO/CHRISTIAN                
+3                   Ing. Mecanica       FCI                
+
+78376     BENAVENTE/AYALA/VIRGINIA IRMA           
+2                   Ing. Civil          EEGGCC             
+
+90775     PAIRAZAMAN/ALAMO/MOISES MIGUEL          
+1                   Ing. Civil          FCI                
+
+81789     VILLA/YALLICO/TATIANA NANCY             
+3                   Ing. Mecanica       FCI                
+
+23387     PALOMARES/VERA/HENRRY HUMBERTO          
+2                   Ing. Civil          EEGGCC             
+
+99050     AURIS/ZIMIC/JAVIER DANIEL               
+1                   Ing. Civil          FCI                
+
+79138     AQUINO/TORO/VALENTINA ROCIO             
+3                   Ing. Mecanica       FCI                
+
+23604     VELASQUEZ/HUAYANAY/EDGARD HENRY         
+3                   Ing. Mecanica       FCI                
+
+66377     CORONEL/CHUMPITAZ/HELI                  
+3                   Ing. Mecanica       FCI                
+
+98828     NORABUENA/PRECIADO/CINTHIA              
+4                   Ing. Mecanica       EEGGCC             
+
+49619     PORTUGAL/BENAVENTE/JOHANA GLORIA        
+5                   Ing. Informatica    FCI                
+
+97172     JUSTINO/FORZANI/ERICKA VICTORIA         
+4                   Ing. Mecanica       EEGGCC             
+
+32123     JUSTINO/CRUZ/WILLIAMS                   
+3                   Ing. Mecanica       FCI                
+
+17572     PRADO/VERGEL/CARLOS JULIAN              
+5                   Ing. Informatica    FCI                
+
+23822     LANDA/PISCOYA/CHRISTIAN                 
+5                   Ing. Informatica    FCI                
+
+62100     MIYAKE/MEREL/MADELEINE YLIANA           
+1                   Ing. Civil          FCI                
+
+59519     MORALES/VALVERDE/INES MARTHA            
+4                   Ing. Mecanica       EEGGCC             
+
+44573     INGA/FLORES/CESAR ADOLFO                
+1                   Ing. Civil          FCI                
+
+22048     CERNA/DURAND/MARTIN                     
+1                   Ing. Civil          FCI                
+
+89341     ARCA/AMEZQUITA/EDRIC RONALD             
+3                   Ing. Mecanica       FCI                
+
+83179     CABRERA/CANALES/GUILLERMO EDRIC         
+4                   Ing. Mecanica       EEGGCC             
+
+77257     PASQUEL/QUIO/SURAMI JANET               
+1                   Ing. Civil          FCI                
+

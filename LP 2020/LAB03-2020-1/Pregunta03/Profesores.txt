@@ -1,0 +1,90 @@
+2506      SANTISTEBAN/MEZA/ROSA                   
+CON                 TP                  Bachiller          Derecho civil       
+
+2160      MALDONADO/RAMIREZ/SILVANA               
+CON                 TP                  Licenciado         Pintura             
+
+2181      MEJIA/DIAZ/BLANCA MILAGROS              
+PRI                 TPA                 Magister           Escultura           
+
+7882      WONG/MARTEL/MADELEINE                   
+ASO                 TPA                 Bachiller          Pintura             
+
+2489      HERNANDEZ/BARRIOS/EMILIO                
+PRI                 TPA                 Doctor             Derecho civil       
+
+1354      PISCOYA/BRAVO/CESAR BRUNO               
+PRI                 TC                  Licenciado         Economia            
+
+8791      DIAZ/ANTEZANO/MAGALI SILVANA            
+PRI                 TPA                 Bachiller          Economia            
+
+6113      SHIRAKAWA/MIRANDA/MADELEINE             
+CON                 TC                  Licenciado         Derecho penal       
+
+1677      ARROYO/GORDILLO/MARIA HELI              
+PRI                 TP                  Doctor             Derecho penal       
+
+6453      FORZANI/CARO/ALONSO                     
+CON                 TPA                 Licenciado         Derecho penal       
+
+5117      RAFFO/ARIAS/SURAMI ANNIE                
+CON                 TPA                 Licenciado         Derecho civil       
+
+4399      DIAZ/CORREA/IRMA VIRGINIA               
+AUX                 TPA                 Licenciado         Civil               
+
+7539      PINTO/CALIXTO/SHIRLEY                   
+CON                 TPA                 Doctor             Derecho civil       
+
+3309      CERNA/PAIRAZAMAN/FIORELLA MARGOT        
+AUX                 TC                  Doctor             Derecho penal       
+
+4341      REYES/TANG/EDWARD                       
+ASO                 TC                  Bachiller          Informatica         
+
+6054      MENDOZA/EGUSQUIZA/ROSARIO               
+ASO                 TPA                 Licenciado         Psicologia          
+
+3415      PRADO/FALCON/EDGAR RICHARD              
+CON                 TP                  Licenciado         Informatica         
+
+9248      CHUMPITAZ/IBEROS/RONAL                  
+PRI                 TC                  Magister           Mecanica            
+
+4113      RAFFO/CHUNG/ADRIA GLORIA                
+PRI                 TC                  Magister           Derecho civil       
+
+6939      ROMERO/PALOMARES/GLORIA TATIANA         
+PRI                 TPA                 Licenciado         Derecho civil       
+
+5159      VEGA/GARCIA/JANET REBECA                
+ASO                 TPA                 Licenciado         Pintura             
+
+2519      DELGADO/GONZALES/GUILLERMO ALFONSO      
+AUX                 TPA                 Bachiller          Derecho civil       
+
+5751      SALAZAR/CORRALES/LORENA IRMA            
+ASO                 TC                  Licenciado         Mecanica            
+
+4066      SHIRAKAWA/ORTEGA/ANGEL                  
+AUX                 TC                  Bachiller          Derecho civil       
+
+5882      CHUNG/LEE/ALVARO                        
+ASO                 TC                  Licenciado         Economia            
+
+9570      PEREZ/FARFAN/RICHARD SANDRO             
+ASO                 TP                  Magister           Psicologia          
+
+1526      CASTRO/SUAREZ/ROLANDO                   
+CON                 TC                  Bachiller          Psicologia          
+
+3442      CABRERA/LUNA/SHIRLEY ISABEL             
+ASO                 TPA                 Magister           Informatica         
+
+1639      VALVERDE/FLORES/IRMA YDALI              
+PRI                 TC                  Licenciado         Civil               
+
+8246      CERNA/HIJAR/JOSE ROLANDO                
+ASO                 TP                  Bachiller          Civil               
+

@@ -1,0 +1,8 @@
+CODIGO    TITULO                                                          AUTOR                                         PRECIO    VENDIDOS   MONTO   
+UV2257    El Duque en su territorio                                       987654312   Alan Romero                        95.08         2    190.16
+                                                                          234656735   Julia Ramirez                 
+                                                                          534546764   Steven Beltran                
+Buscando a un autor en la posicion 1
+Autor encontrado: 
+DNI: 234656735
+NOMBRE: Julia Ramirez

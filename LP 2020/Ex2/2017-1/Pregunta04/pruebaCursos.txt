@@ -1,0 +1,33 @@
+FIS203    Fisica 4                                                    4.50      FIS111
+FIS208    Temas De Fisica General                                     4.50      FIS111
+FIS218    Fisica Moderna                                              4.50      FIS203/FIS208
+FIS219    Sistemas Electromagneticos Y Optoelectronicos               4.50      FIS208
+FIS220    Tecnicas Computacionales En Fisica                          4.50      FIS203/FIS218
+FIS227    Particulas Elementales                                      4.50      FIS218/FIS220
+FIS229    Trabajo De Investigacion                                    6.00      FIS220
+FIS230    Teoria De Campos Electromagneticos                          3.00      FIS208/FIS219/FIS220/FIS229
+FIS239    Estado Solido                                               4.50      FIS218/FIS227
+FIS247    Optica Y Fotonica                                           4.50      FIS227
+FIS248    Mecanica Clasica 1                                          4.50      FIS219/FIS229
+INF220    Fundamentos De Programacion                                 5.00      MAT219
+INF238    Redes De Computadoras                                       4.00      FIS204/MAT219
+INF239    Sistemas Operativos                                         4.00      INF263/INF281
+INF245    Ingenieria De Software                                      4.00      INF220/INF282
+INF246    Bases De Datos                                              3.75      INF263
+INF248    Sistemas De Informacion 1                                   5.00      INF281/INF238/MAT241
+INF250    Sistemas De Informacion 2                                   5.00      INF248
+INF263    Algoritmia                                                  3.75      MAT219/MAT218
+INF281    Lenguaje De Programacion 1                                  5.00      INF220/INF263/MAT218
+INF282    Lenguaje De Programacion 2                                  5.00      INF281
+MAT218    Ecuaciones Diferenciales Aplicadas                          4.50      MAT111
+MAT219    Herramientas Matematicas                                    4.50      MAT218
+MAT241    Metodos Numericos En Ingenieria                             3.00      MAT218/MAT219
+MAT781    Matematica Computacional Para Control                       3.00      MAT218/MAT219/MAT241
+MEC206    Termodinamica 1                                             4.50      MAT218
+MEC209    Mecanica De Fluidos                                         5.25      MAT218/MEC206
+MEC270    Procesos De Manufactura                                     4.00      MEC209
+MEC286    Transferencia De Calor                                      4.25      MEC206/MEC269
+MEC289    Turbomaquinas Y Maquinas De Desplazamiento Positivo         4.25      MEC206/MEC209
+MEC2T2    Introduccion Al Diseno De Maquinas                          4.50      MAT781/MEC206/MEC209/INF246
+MEC2T3    Laboratorio De Introduccion Al Diseno De Maquinas           1.00      MEC2T2
+MEC373    Metrologia                                                  3.00      MAT241/MEC286

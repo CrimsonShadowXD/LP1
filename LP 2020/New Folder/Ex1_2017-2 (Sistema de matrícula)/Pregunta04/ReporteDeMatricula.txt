@@ -1,0 +1,200 @@
+Reporte de Matricula
+================================================================================
+Codigo del Alumno: 20120476   Nombre: Henriquez/Espino/Beatriz
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+217250       Sistemas De Informacion 2                              Procede
+217245       Ingenieria De Software                                 Procede
+================================================================================
+Codigo del Alumno: 20110165   Nombre: Landeo/Sueldo/Adolfo
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+217220       Fundamentos De Programacion                            Procede
+217263       Algoritmia                                             Procede
+================================================================================
+Codigo del Alumno: 20114450   Nombre: Vega/Munoz/Gonzalo
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+101286       Transferencia De Calor                                 Procede
+================================================================================
+Codigo del Alumno: 20146553   Nombre: Coronado/Figueroa/Johan
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+217239       Sistemas Operativos                                    No procede por no cumplir requisitos
+217246       Bases De Datos                                         Procede
+================================================================================
+Codigo del Alumno: 20170596   Nombre: Portugal/Benavente/Johana-Gloria
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+101289       Turbomaquinas Y Maquinas De Desplazamiento Positivo    Procede
+101292       Introduccion Al Diseno De Maquinas                     No procede por no cumplir requisitos
+101293       Laboratorio De Introduccion Al Diseno De Maquinas      No procede por no cumplir requisitos
+================================================================================
+Codigo del Alumno: 20160658   Nombre: Arca/Amezquita/Edric-Ronald
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+101286       Transferencia De Calor                                 Procede
+101270       Procesos De Manufactura                                Procede
+================================================================================
+Codigo del Alumno: 20102075   Nombre: Moya/Aranda/Johnny
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+217245       Ingenieria De Software                                 Procede
+217248       Sistemas De Informacion 1                              No procede por no cumplir requisitos
+217246       Bases De Datos                                         Procede
+217250       Sistemas De Informacion 2                              Procede
+================================================================================
+Codigo del Alumno: 20166965   Nombre: Antezano/Segura/Teresa-Delia
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+303781       Matematica Computacional Para Control                  No procede por no cumplir requisitos
+================================================================================
+Codigo del Alumno: 20119778   Nombre: Morales/Valverde/Ines-Martha
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+217238       Redes De Computadoras                                  Procede
+217281       Lenguaje De Programacion 1                             Procede
+217245       Ingenieria De Software                                 Procede
+================================================================================
+Codigo del Alumno: 20003541   Nombre: Cabrera/Canales/Guillermo-Edric
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+217263       Algoritmia                                             No procede por no cumplir requisitos
+217281       Lenguaje De Programacion 1                             Procede
+================================================================================
+Codigo del Alumno: 20178528   Nombre: Zarate/Del_Pozo/Humberto-Antonio
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+101286       Transferencia De Calor                                 No procede por no cumplir requisitos
+================================================================================
+Codigo del Alumno: 20156702   Nombre: Calixto/Tomasiche/Monica-Doris
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+721230       Teoria De Campos Electromagneticos                     Procede
+721239       Estado Solido                                          No procede por no cumplir requisitos
+721247       Optica Y Fotonica                                      Procede
+================================================================================
+Codigo del Alumno: 20150564   Nombre: Auris/Zimic/Javier-Daniel
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+303241       Metodos Numericos En Ingenieria                        Procede
+303219       HerramientasMatematicas                                Procede
+================================================================================
+Codigo del Alumno: 20109738   Nombre: Caro/Polo/Sandro
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+101209       Mecanica De Fluidos                                    No procede por no cumplir requisitos
+101269       Laboratorio De Termodinamica Y Fluidos                 Procede
+101270       Procesos De Manufactura                                No procede por no cumplir requisitos
+217239       Sistemas Operativos                                    No procede por no cumplir requisitos
+================================================================================
+Codigo del Alumno: 20127352   Nombre: Justino/Cruz/Williams
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+101269       Laboratorio De Termodinamica Y Fluidos                 Procede
+101270       Procesos De Manufactura                                Procede
+101286       Transferencia De Calor                                 No procede por no cumplir requisitos
+101289       Turbomaquinas Y Maquinas De Desplazamiento Positivo    Procede
+================================================================================
+Codigo del Alumno: 20081346   Nombre: Hijar/Pairazaman/Jenny-Delicia
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+721230       Teoria De Campos Electromagneticos                     Procede
+721247       Optica Y Fotonica                                      Procede
+================================================================================
+Codigo del Alumno: 20160119   Nombre: Paredes/Patino/Christian
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+217248       Sistemas De Informacion 1                              Procede
+================================================================================
+Codigo del Alumno: 20080667   Nombre: Lozada/Yino/Martha
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+303241       Metodos Numericos En Ingenieria                        Procede
+303219       HerramientasMatematicas                                Procede
+721218       Fisica Moderna                                         Procede
+================================================================================
+Codigo del Alumno: 20091994   Nombre: Ruiz/Gordillo/Carola-Erika
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+303781       Matematica Computacional Para Control                  Procede
+721230       Teoria De Campos Electromagneticos                     Procede
+================================================================================
+Codigo del Alumno: 20135395   Nombre: Alamo/Pairazaman/Miguel-Roberto
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+217248       Sistemas De Informacion 1                              Procede
+217246       Bases De Datos                                         Procede
+217250       Sistemas De Informacion 2                              No procede por no cumplir requisitos
+================================================================================
+Codigo del Alumno: 20097877   Nombre: Coronel/Chumpitaz/Heli
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+721230       Teoria De Campos Electromagneticos                     Procede
+721239       Estado Solido                                          Procede
+================================================================================
+Codigo del Alumno: 20164217   Nombre: Palomares/Vera/Henrry-Humberto
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+721203       Fisica 4                                               Procede
+721208       Temas De Fisica General                                Procede
+================================================================================
+Codigo del Alumno: 20125258   Nombre: Gavidia/Mendoza/Ronald-Johnny
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+217250       Sistemas De Informacion 2                              Procede
+217246       Bases De Datos                                         No procede por no cumplir requisitos
+================================================================================
+Codigo del Alumno: 20179442   Nombre: Florian/Morales/Ydali
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+101373       Metrologia                                             Procede
+101292       Introduccion Al Diseno De Maquinas                     No procede por no cumplir requisitos
+================================================================================
+Codigo del Alumno: 20177613   Nombre: Cortez/Segura/Carmela-Ines
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+101206       Termodinamica 1                                        Procede
+101209       Mecanica De Fluidos                                    No procede por no cumplir requisitos
+101269       Laboratorio De Termodinamica Y Fluidos                 No procede por no cumplir requisitos
+================================================================================
+Codigo del Alumno: 20083333   Nombre: Laura/Wong/Melvin-Henrry
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+101209       Mecanica De Fluidos                                    No procede por no cumplir requisitos
+101206       Termodinamica 1                                        No procede por no cumplir requisitos
+================================================================================
+Codigo del Alumno: 20167828   Nombre: Pasquel/Quio/Surami-Janet
+--------------------------------------------------------------------------------
+CURSOS EN LOS QUE QUIERE MATRICULARSE:
+Codigo  Nombre                                                      Observacion 
+721227       Particulas Elementales                                 Procede
+721229       Trabajo De Investigacion                               Procede
+721230       Teoria De Campos Electromagneticos                     Procede
+================================================================================

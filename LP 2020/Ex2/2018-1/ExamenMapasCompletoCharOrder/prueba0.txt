@@ -1,0 +1,296 @@
+AI7921 Las demoliciones de Paris                                              vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+AP2529 Le Chef-d'oeuvre inconnu                                               vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+AS9501 The horoscope : a romance of the reign of Francois II                  vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+AY9196 The Hunting of the Snark                                               vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+BH3100 Cabo Trafalgar                                                         vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+BZ7395 ¡Suspense!                                                             vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+CI2279 Wann-Chlore                                                            vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+CQ4029 Corsarios de Levante                                                   vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+CV6657 The Page of the Duke of Savoy                                          vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+DC5635 The Companions of Jehu                                                 vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+DY8425 Musica para camaleones                                                 vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EF3635 Le Cousin Pons                                                         vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EF7349 An Ideal Husband                                                       vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EL3985 Elogio de la madre                                                     vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EL6860 La vuelta del Presidiario                                              vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EP9684 El testamento del grano de sal                                         vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+ER2937 Lord Arthur Savile's Crime and Other Stories                           vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+EY3065 La reina de las barricadas                                             vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+GE8514 Serie Cancion de hielo y fuego                                         vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+GH5909 A Dream of Spring                                                      vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+GQ8306 Twenty Years After                                                     vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+HV6319 L'ecole des menages                                                    vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+IO4267 Le Corsaire                                                            vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+IQ3200 Las Miserias de Londres                                                vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+IU1945 Robin Hood                                                             vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+IY9659 El Manuscrito del Domino                                               vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JD9616 La Cousine Bette                                                       vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JH5795 Lady Windermere's Fan                                                  vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JJ8861 The Women's War                                                        vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JP1675 La Fille aux yeux d'or                                                 vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+JT9902 El Presidio de Tolon                                                   vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+KK3749 El pintor de batallas                                                  vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+KP8208 Alice's Adventures in Wonderland                                       vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+KZ6738 El Club de los explotadores                                            vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+MZ5806 Una Navidad                                                            vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+MZ6529 La jaula de los pajaros                                                vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+NL2557 Georges                                                                vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+NN8875 Muerte de la luz                                                       vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+NR4482 House of Pomegranates                                                  vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+NZ5630 Clotilde de Lusignan                                                   vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+OM5321 Le Colonel Chabert                                                     vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+OM6583 Los Caballeros del Claro de Luna                                       vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+OO4960 The Corsican Brothers                                                  vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+OQ5947 La guerra sin fin                                                      vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PA0853 The Nutcracker                                                         vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PK0790 Historia de Maria                                                      vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PS1579 Le Chevalier de Maison-Rouge                                           vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PW5521 Les Ressources de Quinola                                              vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+PY0488 La Resurrección de Rocambole                                           vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+QI9476 What the Tortoise Said to Achilles                                     vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+QQ0205 Unspoiled Monsters y Kate McCloud                                      vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+QY4518 Beat the Devil                                                         vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RH6857 Carmen la gitana                                                       vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RN0673 La hermosa jardinera                                                   vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RP9394 El hombre gris                                                         vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RU3649 The Fencing Master                                                     vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+RY6519 The Regent's Daughter                                                  vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+SC2766 La Catedral                                                            vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+SX7522 Paseo por los Andes                                                    vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+TD5907 The Ballad of Reading Gaol                                             vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+TF7016 Castle Eppstein; The Specter Mother                                    vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UC1640 La Peau de chagrin                                                     vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UK4282 Joseph Balsamo                                                         vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UP4621 Le Vicaire des Ardennes                                                vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UT7122 Sylvie and Bruno Concluded                                             vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UV2257 El Duque en su territorio                                              vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+UZ6069 El nino perdido                                                        vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+VV6733 El narrador                                                            vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+WG6535 La casa roja                                                           vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+XA3792 Un breve cuento aparecido en la revista Seventeen                      vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+XG5854 Los tesoros del Rajah                                                  vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+XP0085 ¡Redencion!                                                            vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+YH4590 The Queen's Necklace                                                   vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+
+ZF7975 The Countess de Charny                                                 vacio
+
+Error no se puede guardar nombre que comienzan con la misma letra, nuca usar char* como indice de mapa
+

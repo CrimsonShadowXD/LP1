@@ -1,0 +1,10 @@
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 2016011
+Nombre del profesor: Castro/sdfsdfs
+Distrito: JM
+Categoria: MIerda
+Dedicacion: ladron
+Seccion: Infwfw
+Grado academico: Maldito
+Sueldo: 300.5

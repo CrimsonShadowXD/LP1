@@ -1,0 +1,6 @@
+class Multa{
+private:
+	char*nombre;
+	int codigo;
+
+}

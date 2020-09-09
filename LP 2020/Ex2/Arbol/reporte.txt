@@ -1,0 +1,205 @@
+PRADO/VERGEL/CARLOS JULIAN                                                                           17572 5 Santa Rosa Ing. Informatica FCI
+
+CERNA/DURAND/MARTIN                                                                                  22048 1 Lurigancho-Chosica Ing. Civil FCI
+
+PALOMARES/VERA/HENRRY HUMBERTO                                                                       23387 2 Santiago de Surco Ing. Civil EEGGCC
+
+VELASQUEZ/HUAYANAY/EDGARD HENRY                                                                      23604 3 Independencia Ing. Mecanica FCI
+
+LANDA/PISCOYA/CHRISTIAN                                                                              23822 5 Santa Maria del Mar Ing. Informatica FCI
+
+LANDEO/SUELDO/ADOLFO                                                                                 26685 2 Cieneguilla Ing. Civil EEGGCC
+
+JUSTINO/CRUZ/WILLIAMS                                                                                32123 3 Lince Ing. Mecanica FCI
+
+SALAS/AGUERO/DANIEL                                                                                  36466 1 Santa Rosa Ing. Civil FCI
+
+LAURA/WONG/MELVIN HENRRY                                                                             40825 4 Santa Rosa Ing. Mecanica EEGGCC
+
+PAREDES/PATINO/CHRISTIAN                                                                             41668 3 San Miguel Ing. Mecanica FCI
+
+INGA/FLORES/CESAR ADOLFO                                                                             44573 1 Chorrillos Ing. Civil FCI
+
+PORTUGAL/BENAVENTE/JOHANA GLORIA                                                                     49619 5 San Juan de Lurigancho Ing. Informatica FCI
+
+CORREA/VIZCARDO/MIGUEL                                                                               50139 4 Punta Hermosa Ing. Mecanica EEGGCC
+
+MEJIA/HAZA/FRANCISCO EDGAR                                                                           52106 1 Pueblo Libre Ing. Civil FCI
+
+CORRALES/TSUKAZAN/IRMA LOURDES                                                                       52680 4 Independencia Ing. Mecanica EEGGCC
+
+MEDINA/VELASQUEZ/MILENA JENNY                                                                        55472 3 San Juan de Miraflores Ing. Mecanica FCI
+
+MORALES/VALVERDE/INES MARTHA                                                                         59519 4 Lurigancho-Chosica Ing. Mecanica EEGGCC
+
+MIYAKE/MEREL/MADELEINE YLIANA                                                                        62100 1 Jesus Maria Ing. Civil FCI
+
+CORONEL/CHUMPITAZ/HELI                                                                               66377 3 Jesus Maria Ing. Mecanica FCI
+
+CAMACHO/AGUERO/ELIA ROSA                                                                             67560 2 El Agustino Ing. Civil EEGGCC
+
+CARO/POLO/SANDRO                                                                                     69791 5 Los Olivos Ing. Informatica FCI
+
+HENRIQUEZ/ESPINO/BEATRIZ                                                                             74926 1 Lince Ing. Civil FCI
+
+PASQUEL/QUIO/SURAMI JANET                                                                            77257 1 Cieneguilla Ing. Civil FCI
+
+BENAVENTE/AYALA/VIRGINIA IRMA                                                                        78376 2 Santa Anita Ing. Civil EEGGCC
+
+AQUINO/TORO/VALENTINA ROCIO                                                                          79138 3 Santa Maria del Mar Ing. Mecanica FCI
+
+VILLA/YALLICO/TATIANA NANCY                                                                          81789 3 San Martin de Porres Ing. Mecanica FCI
+
+CABRERA/CANALES/GUILLERMO EDRIC                                                                      83179 4 Ate Ing. Mecanica EEGGCC
+
+ARCA/AMEZQUITA/EDRIC RONALD                                                                          89341 3 Santa Rosa Ing. Mecanica FCI
+
+PAIRAZAMAN/ALAMO/MOISES MIGUEL                                                                       90775 1 Independencia Ing. Civil FCI
+
+LOZADA/YINO/MARTHA                                                                                   92419 4 San Isidro Ing. Mecanica EEGGCC
+
+JUSTINO/FORZANI/ERICKA VICTORIA                                                                      97172 4 Pueblo Libre Ing. Mecanica EEGGCC
+
+FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH                                                                 98008 3 Cieneguilla Ing. Mecanica FCI
+
+VASQUEZ/PAZ/ALEX MARTIN                                                                              98202 4 Lurin Ing. Mecanica EEGGCC
+
+NORABUENA/PRECIADO/CINTHIA                                                                           98828 4 Santa Rosa Ing. Mecanica EEGGCC
+
+AURIS/ZIMIC/JAVIER DANIEL                                                                            99050 1 Chaclacayo Ing. Civil FCI
+
+
+PISCOYA/BRAVO/CESAR BRUNO                                                                            1354 Ancon PRI TC Economia Licenciado
+
+CASTRO/SUAREZ/ROLANDO                                                                                1526 Barranco CON TC Psicologia Bachiller
+
+VALVERDE/FLORES/IRMA YDALI                                                                           1639 Chaclacayo PRI TC Civil Licenciado
+
+ARROYO/GORDILLO/MARIA HELI                                                                           1677 San Juan de Miraflores PRI TP Derecho penal Doctor
+
+MALDONADO/RAMIREZ/SILVANA                                                                            2160 Brena CON TP Pintura Licenciado
+
+MEJIA/DIAZ/BLANCA MILAGROS                                                                           2181 San Juan de Miraflores PRI TPA Escultura Magister
+
+HERNANDEZ/BARRIOS/EMILIO                                                                             2489 Comas PRI TPA Derecho civil Doctor
+
+SANTISTEBAN/MEZA/ROSA                                                                                2506 Pachacamac CON TP Derecho civil Bachiller
+
+DELGADO/GONZALES/GUILLERMO ALFONSO                                                                   2519 Surquillo AUX TPA Derecho civil Bachiller
+
+CERNA/PAIRAZAMAN/FIORELLA MARGOT                                                                     3309 Surquillo AUX TC Derecho penal Doctor
+
+PRADO/FALCON/EDGAR RICHARD                                                                           3415 Independencia CON TP Informatica Licenciado
+
+CABRERA/LUNA/SHIRLEY ISABEL                                                                          3442 San Isidro ASO TPA Informatica Magister
+
+SHIRAKAWA/ORTEGA/ANGEL                                                                               4066 Pueblo Libre AUX TC Derecho civil Bachiller
+
+RAFFO/CHUNG/ADRIA GLORIA                                                                             4113 Villa Maria del Triunfo PRI TC Derecho civil Magister
+
+REYES/TANG/EDWARD                                                                                    4341 Barranco ASO TC Informatica Bachiller
+
+DIAZ/CORREA/IRMA VIRGINIA                                                                            4399 Carabayllo AUX TPA Civil Licenciado
+
+RAFFO/ARIAS/SURAMI ANNIE                                                                             5117 Lurin CON TPA Derecho civil Licenciado
+
+VEGA/GARCIA/JANET REBECA                                                                             5159 Barranco ASO TPA Pintura Licenciado
+
+SALAZAR/CORRALES/LORENA IRMA                                                                         5751 San Juan de Lurigancho ASO TC Mecanica Licenciado
+
+CHUNG/LEE/ALVARO                                                                                     5882 Lurin ASO TC Economia Licenciado
+
+MENDOZA/EGUSQUIZA/ROSARIO                                                                            6054 Santa Rosa ASO TPA Psicologia Licenciado
+
+SHIRAKAWA/MIRANDA/MADELEINE                                                                          6113 Pueblo Libre CON TC Derecho penal Licenciado
+
+FORZANI/CARO/ALONSO                                                                                  6453 San Bartolo CON TPA Derecho penal Licenciado
+
+ROMERO/PALOMARES/GLORIA TATIANA                                                                      6939 Santiago de Surco PRI TPA Derecho civil Licenciado
+
+PINTO/CALIXTO/SHIRLEY                                                                                7539 Puente Piedra CON TPA Derecho civil Doctor
+
+WONG/MARTEL/MADELEINE                                                                                7882 Ancon ASO TPA Pintura Bachiller
+
+CERNA/HIJAR/JOSE ROLANDO                                                                             8246 San Bartolo ASO TP Civil Bachiller
+
+DIAZ/ANTEZANO/MAGALI SILVANA                                                                         8791 Ate PRI TPA Economia Bachiller
+
+CHUMPITAZ/IBEROS/RONAL                                                                               9248 Santa Rosa PRI TC Mecanica Magister
+
+PEREZ/FARFAN/RICHARD SANDRO                                                                          9570 San Miguel ASO TP Psicologia Magister
+
+
+PORTUGAL/BENAVENTE/JOHANA GLORIA                                                                     49619 5 San Juan de Lurigancho Ing. Informatica FCI
+
+
+PRADO/VERGEL/CARLOS JULIAN                                                                           17572 5 Santa Rosa Ing. Informatica FCI
+
+CERNA/DURAND/MARTIN                                                                                  22048 1 Lurigancho-Chosica Ing. Civil FCI
+
+PALOMARES/VERA/HENRRY HUMBERTO                                                                       23387 2 Santiago de Surco Ing. Civil EEGGCC
+
+VELASQUEZ/HUAYANAY/EDGARD HENRY                                                                      23604 3 Independencia Ing. Mecanica FCI
+
+LANDA/PISCOYA/CHRISTIAN                                                                              23822 5 Santa Maria del Mar Ing. Informatica FCI
+
+LANDEO/SUELDO/ADOLFO                                                                                 26685 2 Cieneguilla Ing. Civil EEGGCC
+
+JUSTINO/CRUZ/WILLIAMS                                                                                32123 3 Lince Ing. Mecanica FCI
+
+SALAS/AGUERO/DANIEL                                                                                  36466 1 Santa Rosa Ing. Civil FCI
+
+LAURA/WONG/MELVIN HENRRY                                                                             40825 4 Santa Rosa Ing. Mecanica EEGGCC
+
+PAREDES/PATINO/CHRISTIAN                                                                             41668 3 San Miguel Ing. Mecanica FCI
+
+INGA/FLORES/CESAR ADOLFO                                                                             44573 1 Chorrillos Ing. Civil FCI
+
+PORTUGAL/BENAVENTE/JOHANA GLORIA                                                                     49619 -100000 San Juan de Lurigancho Ing. Informatica FCI
+
+CORREA/VIZCARDO/MIGUEL                                                                               50139 4 Punta Hermosa Ing. Mecanica EEGGCC
+
+MEJIA/HAZA/FRANCISCO EDGAR                                                                           52106 1 Pueblo Libre Ing. Civil FCI
+
+CORRALES/TSUKAZAN/IRMA LOURDES                                                                       52680 4 Independencia Ing. Mecanica EEGGCC
+
+MEDINA/VELASQUEZ/MILENA JENNY                                                                        55472 3 San Juan de Miraflores Ing. Mecanica FCI
+
+MORALES/VALVERDE/INES MARTHA                                                                         59519 4 Lurigancho-Chosica Ing. Mecanica EEGGCC
+
+MIYAKE/MEREL/MADELEINE YLIANA                                                                        62100 1 Jesus Maria Ing. Civil FCI
+
+CORONEL/CHUMPITAZ/HELI                                                                               66377 3 Jesus Maria Ing. Mecanica FCI
+
+CAMACHO/AGUERO/ELIA ROSA                                                                             67560 2 El Agustino Ing. Civil EEGGCC
+
+CARO/POLO/SANDRO                                                                                     69791 5 Los Olivos Ing. Informatica FCI
+
+HENRIQUEZ/ESPINO/BEATRIZ                                                                             74926 1 Lince Ing. Civil FCI
+
+PASQUEL/QUIO/SURAMI JANET                                                                            77257 1 Cieneguilla Ing. Civil FCI
+
+BENAVENTE/AYALA/VIRGINIA IRMA                                                                        78376 2 Santa Anita Ing. Civil EEGGCC
+
+AQUINO/TORO/VALENTINA ROCIO                                                                          79138 3 Santa Maria del Mar Ing. Mecanica FCI
+
+VILLA/YALLICO/TATIANA NANCY                                                                          81789 3 San Martin de Porres Ing. Mecanica FCI
+
+CABRERA/CANALES/GUILLERMO EDRIC                                                                      83179 4 Ate Ing. Mecanica EEGGCC
+
+ARCA/AMEZQUITA/EDRIC RONALD                                                                          89341 3 Santa Rosa Ing. Mecanica FCI
+
+PAIRAZAMAN/ALAMO/MOISES MIGUEL                                                                       90775 1 Independencia Ing. Civil FCI
+
+LOZADA/YINO/MARTHA                                                                                   92419 4 San Isidro Ing. Mecanica EEGGCC
+
+JUSTINO/FORZANI/ERICKA VICTORIA                                                                      97172 4 Pueblo Libre Ing. Mecanica EEGGCC
+
+FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH                                                                 98008 3 Cieneguilla Ing. Mecanica FCI
+
+VASQUEZ/PAZ/ALEX MARTIN                                                                              98202 4 Lurin Ing. Mecanica EEGGCC
+
+NORABUENA/PRECIADO/CINTHIA                                                                           98828 4 Santa Rosa Ing. Mecanica EEGGCC
+
+AURIS/ZIMIC/JAVIER DANIEL                                                                            99050 1 Chaclacayo Ing. Civil FCI
+

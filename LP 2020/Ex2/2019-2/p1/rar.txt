@@ -1,0 +1,120 @@
+9 30 0
+Farfan/Salazar/Margot 93227 77763722 2.69
+
+Rios/Durand/Carlos Edilberto 93507 89314225 3.79
+
+Henriquez/Espino/Beatriz 93736 23842717 6.18
+
+Astete/Chang/Guida 93839 35297848 0.35
+
+Trigueros/Jugo/Luz 94433 73357516 5.19
+
+Florian/Morales/Ydali 94841 50449903 8.14
+
+Pasquel/Quio/Surami Janet 94928 66811104 3.22
+
+Cabrera/Canales/Guillermo Edric 95241 53566003 7
+
+Vilca/Lee/Nestor Hugo 100226 47844324 4.71
+
+Raffo/Coronado/Rolando 100422 48878256 6.13
+
+Hijar/Pairazaman/Jenny Delicia 100529 46923852 8.17
+
+Lozada/Yino/Martha 101256 59121560 6.05
+
+Sueldo/Sedano/Adria 102234 71832810 6.18
+
+Coronel/Chumpitaz/Heli 102712 84074583 3.01
+
+Portugal/Benavente/Johana Gloria 103007 71180497 4.02
+
+Coronado/Figueroa/Johan 103143 38362262 6.96
+
+Sanchez/Del_Castillo/Fiorella Rosario 103210 26522329 7.68
+
+Cortez/Segura/Carmela Ines 103746 29851973 7.94
+
+Rodriguez/Moreno/Blanca Ofelia 104002 13219606 2.85
+
+Landeo/Sueldo/Adolfo 104117 68167636 7.78
+
+Ramirez/Astete/Karina Estefania 104310 48450395 3.54
+
+Vega/Vilcara/Carmela Teresa 104704 45043076 5.19
+
+Sueldo/Antezano/Luis Jesus 105002 32090869 3.38
+
+Cano/Polo/Milagros Isabel 105027 68310808 2.41
+
+Pinto/Rojas/Juvenal Francisco 105043 88854166 0.51
+
+Ruiz/Gordillo/Carola Erika 105207 88000134 5.97
+
+Mercado/Coronel/Elia 105544 66849703 1.75
+
+Laura/Wong/Melvin Henrry 105821 68369891 3.7
+
+Prado/Espinoza/Milagros 105859 97849227 7.31
+
+Zamora/Zavaleta/Ronal Manuel 110029 63736112 5.67
+
+Justino/Cruz/Williams 110102 77982722 1.04
+
+Durand/Miranda/Miguel Juan 110205 54141214 0.11
+
+Arca/Amezquita/Edric Ronald 110805 71457094 8.21
+
+Palomares/Vera/Henrry Humberto 110806 60422425 2.3
+
+Calixto/Tomasiche/Monica Doris 111135 62504139 5.98
+
+Auris/Zimic/Javier Daniel Luis 111434 38004399 0.49
+
+Mejia/Rodriguez/Ines Valentina 111722 75945248 6.52
+
+Solis/Narvaez/Maria Madeleine 112621 53853385 0.09
+
+Gavidia/Mendoza/Ronald Johnny 112905 64208029 0.41
+
+Caro/Polo/Sandro 113029 62004867 7.11
+
+Solis/Chung/Rolando 113444 27185429 2.62
+
+Minaya/Berrocal/Heli 113949 80310768 1.46
+
+Baca/Camacho/Milagros Natalia 114548 16477908 2.94
+
+Fuentes/Escalante/Patricia Elizabeth 114906 79766395 6.55
+
+Vega/Munoz/Gonzalo 115001 40237708 3.45
+
+Mendoza/Romero/Virginia Ydali 115141 69494747 6.8
+
+Diaz/Tang/Enrique 115232 60335381 6.96
+
+Martinez/Cruz/Evert Rony 115540 35912665 6.79
+
+Zarate/Del_Pozo/Humberto Antonio 120336 76083813 7.84
+
+Alamo/Pairazaman/Miguel Roberto 120639 48175022 1.38
+
+Narvaez/Castillo/Jesus Rafael 120708 58992942 7.79
+
+Rivero/Coronado/Hector Alonso 120906 84186239 2.52
+
+Antezano/Segura/Teresa Delia 121048 94149989 2.43
+
+Moya/Aranda/Johnny 121422 17709280 2
+
+Moscoso/Arias/Fiorella 122122 31107104 6.53
+
+Zavaleta/Coronado/Felicita Eloisa 122408 48528209 3.32
+
+Paredes/Patino/Christian 122941 14467310 7.8
+
+Valverde/Maeireizo/Melvin Jair 123016 15029228 0.39
+
+Morales/Valverde/Ines Martha 123025 86577817 6.69
+
+

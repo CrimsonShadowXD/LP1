@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>BasePallet.h</itemPath>
+      <itemPath>Cliente.h</itemPath>
+      <itemPath>Faltante.h</itemPath>
+      <itemPath>ListaPallets.h</itemPath>
+      <itemPath>ListaProductos.h</itemPath>
+      <itemPath>NodoPallet.h</itemPath>
+      <itemPath>NodoProducto.h</itemPath>
+      <itemPath>Pallet.h</itemPath>
+      <itemPath>PalletEU.h</itemPath>
+      <itemPath>PalletPE.h</itemPath>
+      <itemPath>PalletUS.h</itemPath>
+      <itemPath>Pedido.h</itemPath>
+      <itemPath>PlCola.h</itemPath>
+      <itemPath>PlNodoCola.h</itemPath>
+      <itemPath>Producto.h</itemPath>
+      <itemPath>Prueba.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>BasePallet.cpp</itemPath>
+      <itemPath>Cliente.cpp</itemPath>
+      <itemPath>Faltante.cpp</itemPath>
+      <itemPath>ListaPallets.cpp</itemPath>
+      <itemPath>ListaProductos.cpp</itemPath>
+      <itemPath>NodoPallet.cpp</itemPath>
+      <itemPath>NodoProducto.cpp</itemPath>
+      <itemPath>Pallet.cpp</itemPath>
+      <itemPath>PalletEU.cpp</itemPath>
+      <itemPath>PalletPE.cpp</itemPath>
+      <itemPath>PalletUS.cpp</itemPath>
+      <itemPath>Pedido.cpp</itemPath>
+      <itemPath>Producto.cpp</itemPath>
+      <itemPath>Prueba.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="BasePallet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BasePallet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Cliente.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Cliente.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Faltante.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Faltante.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaPallets.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaPallets.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaProductos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaProductos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoPallet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoPallet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoProducto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoProducto.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Pallet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Pallet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PalletEU.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PalletEU.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PalletPE.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PalletPE.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PalletUS.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PalletUS.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Pedido.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Pedido.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PlCola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PlNodoCola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Producto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Producto.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Prueba.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prueba.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="BasePallet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="BasePallet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Cliente.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Cliente.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Faltante.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Faltante.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaPallets.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaPallets.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListaProductos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListaProductos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoPallet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoPallet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoProducto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoProducto.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Pallet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Pallet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PalletEU.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PalletEU.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PalletPE.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PalletPE.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PalletUS.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="PalletUS.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Pedido.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Pedido.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PlCola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="PlNodoCola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Producto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Producto.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Prueba.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Prueba.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

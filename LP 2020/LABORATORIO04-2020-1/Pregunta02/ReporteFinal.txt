@@ -1,0 +1,327 @@
+           Reservas Asignadas
+Cantidad de TC:      11
+Cantidad de TP:      4
+Cantidad de TPA:     10
+Cantidad de Alumnos: 28
+======================================
+Codigo: 1354
+Nombre: PISCOYA/BRAVO/CESAR BRUNO
+Dedicacion: TC
+Seccion: Economia
+======================================
+Codigo: 6113
+Nombre: SHIRAKAWA/MIRANDA/MADELEINE
+Dedicacion: TC
+Seccion: Derecho penal
+======================================
+Codigo: 3309
+Nombre: CERNA/PAIRAZAMAN/FIORELLA MARGOT
+Dedicacion: TC
+Seccion: Derecho penal
+======================================
+Codigo: 4341
+Nombre: REYES/TANG/EDWARD
+Dedicacion: TC
+Seccion: Informatica
+======================================
+Codigo: 9248
+Nombre: CHUMPITAZ/IBEROS/RONAL
+Dedicacion: TC
+Seccion: Mecanica
+======================================
+Codigo: 4113
+Nombre: RAFFO/CHUNG/ADRIA GLORIA
+Dedicacion: TC
+Seccion: Derecho civil
+======================================
+Codigo: 5751
+Nombre: SALAZAR/CORRALES/LORENA IRMA
+Dedicacion: TC
+Seccion: Mecanica
+======================================
+Codigo: 4066
+Nombre: SHIRAKAWA/ORTEGA/ANGEL
+Dedicacion: TC
+Seccion: Derecho civil
+======================================
+Codigo: 5882
+Nombre: CHUNG/LEE/ALVARO
+Dedicacion: TC
+Seccion: Economia
+======================================
+Codigo: 1526
+Nombre: CASTRO/SUAREZ/ROLANDO
+Dedicacion: TC
+Seccion: Psicologia
+======================================
+Codigo: 1639
+Nombre: VALVERDE/FLORES/IRMA YDALI
+Dedicacion: TC
+Seccion: Civil
+======================================
+Codigo: 1677
+Nombre: ARROYO/GORDILLO/MARIA HELI
+Dedicacion: TP
+Seccion: Derecho penal
+======================================
+Codigo: 3415
+Nombre: PRADO/FALCON/EDGAR RICHARD
+Dedicacion: TP
+Seccion: Informatica
+======================================
+Codigo: 9570
+Nombre: PEREZ/FARFAN/RICHARD SANDRO
+Dedicacion: TP
+Seccion: Psicologia
+======================================
+Codigo: 8246
+Nombre: CERNA/HIJAR/JOSE ROLANDO
+Dedicacion: TP
+Seccion: Civil
+======================================
+Codigo: 8791
+Nombre: DIAZ/ANTEZANO/MAGALI SILVANA
+Dedicacion: TPA
+Seccion: Economia
+======================================
+Codigo: 6453
+Nombre: FORZANI/CARO/ALONSO
+Dedicacion: TPA
+Seccion: Derecho penal
+======================================
+Codigo: 5117
+Nombre: RAFFO/ARIAS/SURAMI ANNIE
+Dedicacion: TPA
+Seccion: Derecho civil
+======================================
+Codigo: 4399
+Nombre: DIAZ/CORREA/IRMA VIRGINIA
+Dedicacion: TPA
+Seccion: Civil
+======================================
+Codigo: 7539
+Nombre: PINTO/CALIXTO/SHIRLEY
+Dedicacion: TPA
+Seccion: Derecho civil
+======================================
+Codigo: 6054
+Nombre: MENDOZA/EGUSQUIZA/ROSARIO
+Dedicacion: TPA
+Seccion: Psicologia
+======================================
+Codigo: 6939
+Nombre: ROMERO/PALOMARES/GLORIA TATIANA
+Dedicacion: TPA
+Seccion: Derecho civil
+======================================
+Codigo: 5159
+Nombre: VEGA/GARCIA/JANET REBECA
+Dedicacion: TPA
+Seccion: Pintura
+======================================
+Codigo: 2519
+Nombre: DELGADO/GONZALES/GUILLERMO ALFONSO
+Dedicacion: TPA
+Seccion: Derecho civil
+======================================
+Codigo: 3442
+Nombre: CABRERA/LUNA/SHIRLEY ISABEL
+Dedicacion: TPA
+Seccion: Informatica
+======================================
+Codigo: 36466
+Nombre: SALAS/AGUERO/DANIEL
+Distrito: Santa Rosa
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+======================================
+Codigo: 26685
+Nombre: LANDEO/SUELDO/ADOLFO
+Distrito: Cieneguilla
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Escala de pago: 2
+======================================
+Codigo: 55472
+Nombre: MEDINA/VELASQUEZ/MILENA JENNY
+Distrito: San Juan de Miraflores
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 3
+======================================
+Codigo: 52106
+Nombre: MEJIA/HAZA/FRANCISCO EDGAR
+Distrito: Pueblo Libre
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+======================================
+Codigo: 52680
+Nombre: CORRALES/TSUKAZAN/IRMA LOURDES
+Distrito: Independencia
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 4
+======================================
+Codigo: 40825
+Nombre: LAURA/WONG/MELVIN HENRRY
+Distrito: Santa Rosa
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 4
+======================================
+Codigo: 41668
+Nombre: PAREDES/PATINO/CHRISTIAN
+Distrito: San Miguel
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 3
+======================================
+Codigo: 78376
+Nombre: BENAVENTE/AYALA/VIRGINIA IRMA
+Distrito: Santa Anita
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Escala de pago: 2
+======================================
+Codigo: 90775
+Nombre: PAIRAZAMAN/ALAMO/MOISES MIGUEL
+Distrito: Independencia
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+======================================
+Codigo: 81789
+Nombre: VILLA/YALLICO/TATIANA NANCY
+Distrito: San Martin de Porres
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 3
+======================================
+Codigo: 23387
+Nombre: PALOMARES/VERA/HENRRY HUMBERTO
+Distrito: Santiago de Surco
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Escala de pago: 2
+======================================
+Codigo: 99050
+Nombre: AURIS/ZIMIC/JAVIER DANIEL
+Distrito: Chaclacayo
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+======================================
+Codigo: 79138
+Nombre: AQUINO/TORO/VALENTINA ROCIO
+Distrito: Santa Maria del Mar
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 3
+======================================
+Codigo: 23604
+Nombre: VELASQUEZ/HUAYANAY/EDGARD HENRY
+Distrito: Independencia
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 3
+======================================
+Codigo: 66377
+Nombre: CORONEL/CHUMPITAZ/HELI
+Distrito: Jesus Maria
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 3
+======================================
+Codigo: 98828
+Nombre: NORABUENA/PRECIADO/CINTHIA
+Distrito: Santa Rosa
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 4
+======================================
+Codigo: 49619
+Nombre: PORTUGAL/BENAVENTE/JOHANA GLORIA
+Distrito: San Juan de Lurigancho
+Especialidad: Ing. Informatica
+Facultad: FCI
+Escala de pago: 5
+======================================
+Codigo: 97172
+Nombre: JUSTINO/FORZANI/ERICKA VICTORIA
+Distrito: Pueblo Libre
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 4
+======================================
+Codigo: 32123
+Nombre: JUSTINO/CRUZ/WILLIAMS
+Distrito: Lince
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 3
+======================================
+Codigo: 17572
+Nombre: PRADO/VERGEL/CARLOS JULIAN
+Distrito: Santa Rosa
+Especialidad: Ing. Informatica
+Facultad: FCI
+Escala de pago: 5
+======================================
+Codigo: 23822
+Nombre: LANDA/PISCOYA/CHRISTIAN
+Distrito: Santa Maria del Mar
+Especialidad: Ing. Informatica
+Facultad: FCI
+Escala de pago: 5
+======================================
+Codigo: 62100
+Nombre: MIYAKE/MEREL/MADELEINE YLIANA
+Distrito: Jesus Maria
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+======================================
+Codigo: 59519
+Nombre: MORALES/VALVERDE/INES MARTHA
+Distrito: Lurigancho-Chosica
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 4
+======================================
+Codigo: 44573
+Nombre: INGA/FLORES/CESAR ADOLFO
+Distrito: Chorrillos
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+======================================
+Codigo: 22048
+Nombre: CERNA/DURAND/MARTIN
+Distrito: Lurigancho-Chosica
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+======================================
+Codigo: 89341
+Nombre: ARCA/AMEZQUITA/EDRIC RONALD
+Distrito: Santa Rosa
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 3
+======================================
+Codigo: 83179
+Nombre: CABRERA/CANALES/GUILLERMO EDRIC
+Distrito: Ate
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 4
+======================================
+Codigo: 77257
+Nombre: PASQUEL/QUIO/SURAMI JANET
+Distrito: Cieneguilla
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+======================================

@@ -1,0 +1,902 @@
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20174691
+Nombre del alumno: BENAVENTE/AYALA/VIRGINIA IRMA
+Distrito: Santa Anita
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Escala de pago: 4
+Valor del credito: 569.63
+Creditos aprobados: 101.3
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20184600
+Nombre del alumno: CABRERA/CANALES/GUILLERMO EDRIC
+Distrito: Ate
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 5
+Valor del credito: 655.07
+Creditos aprobados: 50
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20167249
+Nombre del alumno: AURIS/ZIMIC/JAVIER DANIEL
+Distrito: Chaclacayo
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+Valor del credito: 375.25
+Creditos aprobados: 37.7
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20176296
+Nombre del alumno: LANDEO/SUELDO/ADOLFO
+Distrito: Cieneguilla
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Escala de pago: 7
+Valor del credito: 756.61
+Creditos aprobados: 61.4
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 65219371
+Nombre del profesor: HERNANDEZ/BARRIOS/EMILIO
+Distrito: Comas
+Categoria: Principal
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Doctor
+Sueldo: 9937.1
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20157718
+Nombre del alumno: PAREDES/PATINO/CHRISTIAN
+Distrito: San Miguel
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 3
+Valor del credito: 474.69
+Creditos aprobados: 82.2
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 55601258
+Nombre del profesor: SHIRAKAWA/MIRANDA/MADELEINE
+Distrito: Pueblo Libre
+Categoria: Contratado
+Dedicacion: TC
+Seccion: Derecho penal
+Grado academico: Licenciado
+Sueldo: 11287.6
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 84760357
+Nombre del profesor: MALDONADO/RAMIREZ/SILVANA
+Distrito: Brena
+Categoria: Contratado
+Dedicacion: TP
+Seccion: Pintura
+Grado academico: Licenciado
+Sueldo: 9154.91
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20136567
+Nombre del alumno: MEDINA/VELASQUEZ/MILENA JENNY
+Distrito: San Juan de Miraflores
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 2
+Valor del credito: 412.78
+Creditos aprobados: 114.4
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 583403
+Nombre: INGA/LEYVA/RONY ALEXANDER
+Distrito: Pucusana
+Puesto: Jardinero(a)
+Grado de Instruccion: Primaria
+Años de servicio: 16
+Sueldo: 2191.98
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 545612
+Nombre: SOLIS/VILCA/JULIAN
+Distrito: Puente Piedra
+Puesto: Tecnico(a)
+Grado de Instruccion: Primaria
+Años de servicio: 14
+Sueldo: 3121.27
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20159887
+Nombre del alumno: PORTUGAL/BENAVENTE/JOHANA GLORIA
+Distrito: San Juan de Lurigancho
+Especialidad: Ing. Informatica
+Facultad: FCI
+Escala de pago: 7
+Valor del credito: 756.61
+Creditos aprobados: 116.8
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 22024756
+Nombre del profesor: MEJIA/DIAZ/BLANCA MILAGROS
+Distrito: San Juan de Miraflores
+Categoria: Principal
+Dedicacion: TPA
+Seccion: Escultura
+Grado academico: Magister
+Sueldo: 9246.67
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20166636
+Nombre del alumno: AQUINO/TORO/VALENTINA ROCIO
+Distrito: Santa Maria del Mar
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 7
+Valor del credito: 756.61
+Creditos aprobados: 107.2
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 23556171
+Nombre del profesor: PEREZ/FARFAN/RICHARD SANDRO
+Distrito: San Miguel
+Categoria: Asociado
+Dedicacion: TP
+Seccion: Psicologia
+Grado academico: Magister
+Sueldo: 10161.8
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 535264
+Nombre: MERCADO/SAAVEDRA/OSCAR FERNANDO
+Distrito: San Martin de Porres
+Puesto: Secretaria(o)
+Grado de Instruccion: Primaria
+Años de servicio: 18
+Sueldo: 2316.38
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20152853
+Nombre del alumno: JUSTINO/FORZANI/ERICKA VICTORIA
+Distrito: Pueblo Libre
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 5
+Valor del credito: 655.07
+Creditos aprobados: 64.2
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 86904334
+Nombre del profesor: CASTRO/SUAREZ/ROLANDO
+Distrito: Barranco
+Categoria: Contratado
+Dedicacion: TC
+Seccion: Psicologia
+Grado academico: Bachiller
+Sueldo: 14826.4
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 779755
+Nombre: RODRIGUEZ/ARGUEDAS/ALFONSO
+Distrito: Miraflores
+Puesto: Tecnico(a)
+Grado de Instruccion: Primaria
+Años de servicio: 7
+Sueldo: 3686.79
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20136260
+Nombre del alumno: LOZADA/YINO/MARTHA
+Distrito: San Isidro
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 2
+Valor del credito: 412.78
+Creditos aprobados: 85.6
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 83938433
+Nombre del profesor: RAFFO/CHUNG/ADRIA GLORIA
+Distrito: Villa Maria del Triunfo
+Categoria: Principal
+Dedicacion: TC
+Seccion: Derecho civil
+Grado academico: Magister
+Sueldo: 12418.3
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 999270
+Nombre: MERCADO/QUIROGA/CHRISTIAN
+Distrito: Punta Negra
+Puesto: Conserje
+Grado de Instruccion: Secundaria
+Años de servicio: 19
+Sueldo: 1401.46
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 533187
+Nombre: ARROYO/COLLADO/JESSICA DELICIA
+Distrito: Chaclacayo
+Puesto: Tecnico(a)
+Grado de Instruccion: Primaria
+Años de servicio: 14
+Sueldo: 2717.73
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 65513592
+Nombre del profesor: PISCOYA/BRAVO/CESAR BRUNO
+Distrito: Ancon
+Categoria: Principal
+Dedicacion: TC
+Seccion: Economia
+Grado academico: Licenciado
+Sueldo: 12950.8
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 396859
+Nombre: NARVAEZ/PEREZ/EVELING
+Distrito: Chaclacayo
+Puesto: Conserje
+Grado de Instruccion: Sup. Tecnica
+Años de servicio: 19
+Sueldo: 3016.21
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 412959
+Nombre: MARTINEZ/AQUINO/YVONNE
+Distrito: Ancon
+Puesto: Conserje
+Grado de Instruccion: Primaria
+Años de servicio: 10
+Sueldo: 1166.55
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 722671
+Nombre: GORDILLO/SHIRAKAWA/YDALI
+Distrito: Chaclacayo
+Puesto: Conserje
+Grado de Instruccion: Sup. Tecnica
+Años de servicio: 2
+Sueldo: 5162.81
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 24093282
+Nombre del profesor: RAFFO/ARIAS/SURAMI ANNIE
+Distrito: Lurin
+Categoria: Contratado
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Licenciado
+Sueldo: 12856
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 961960
+Nombre: EGUSQUIZA/SOMA/JESSICA
+Distrito: Puente Piedra
+Puesto: Tecnico(a)
+Grado de Instruccion: Sup. Tecnica
+Años de servicio: 12
+Sueldo: 6507.06
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 57723687
+Nombre del profesor: CERNA/PAIRAZAMAN/FIORELLA MARGOT
+Distrito: Surquillo
+Categoria: Auxiliar
+Dedicacion: TC
+Seccion: Derecho penal
+Grado academico: Doctor
+Sueldo: 12993.5
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 44071559
+Nombre del profesor: DIAZ/ANTEZANO/MAGALI SILVANA
+Distrito: Ate
+Categoria: Principal
+Dedicacion: TPA
+Seccion: Economia
+Grado academico: Bachiller
+Sueldo: 10036.4
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20144626
+Nombre del alumno: CARO/POLO/SANDRO
+Distrito: Los Olivos
+Especialidad: Ing. Informatica
+Facultad: FCI
+Escala de pago: 7
+Valor del credito: 756.61
+Creditos aprobados: 38.7
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20161923
+Nombre del alumno: MIYAKE/MEREL/MADELEINE YLIANA
+Distrito: Jesus Maria
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 4
+Valor del credito: 569.63
+Creditos aprobados: 62
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20179704
+Nombre del alumno: VILLA/YALLICO/TATIANA NANCY
+Distrito: San Martin de Porres
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 1
+Valor del credito: 375.25
+Creditos aprobados: 80.2
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20180762
+Nombre del alumno: VASQUEZ/PAZ/ALEX MARTIN
+Distrito: Lurin
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 3
+Valor del credito: 474.69
+Creditos aprobados: 95.3
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 55719949
+Nombre del profesor: CABRERA/LUNA/SHIRLEY ISABEL
+Distrito: San Isidro
+Categoria: Asociado
+Dedicacion: TPA
+Seccion: Informatica
+Grado academico: Magister
+Sueldo: 13012
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20167100
+Nombre del alumno: HENRIQUEZ/ESPINO/BEATRIZ
+Distrito: Lince
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 1
+Valor del credito: 375.25
+Creditos aprobados: 134.2
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 89867067
+Nombre del profesor: VALVERDE/FLORES/IRMA YDALI
+Distrito: Chaclacayo
+Categoria: Principal
+Dedicacion: TC
+Seccion: Civil
+Grado academico: Licenciado
+Sueldo: 17106.1
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20143338
+Nombre del alumno: LAURA/WONG/MELVIN HENRRY
+Distrito: Santa Rosa
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 5
+Valor del credito: 655.07
+Creditos aprobados: 85.6
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 281083
+Nombre: PASQUEL/AGUERO/LUIS MELVIN
+Distrito: Lince
+Puesto: Jardinero(a)
+Grado de Instruccion: Primaria
+Años de servicio: 18
+Sueldo: 5203.74
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 969852
+Nombre: LOYOLA/PEREZ/ALBERTO
+Distrito: Lurigancho-Chosica
+Puesto: Asistente
+Grado de Instruccion: Primaria
+Años de servicio: 24
+Sueldo: 5716.76
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 29881074
+Nombre del profesor: MENDOZA/EGUSQUIZA/ROSARIO
+Distrito: Santa Rosa
+Categoria: Asociado
+Dedicacion: TPA
+Seccion: Psicologia
+Grado academico: Licenciado
+Sueldo: 14230.2
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20136485
+Nombre del alumno: VELASQUEZ/HUAYANAY/EDGARD HENRY
+Distrito: Independencia
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 6
+Valor del credito: 720.58
+Creditos aprobados: 134.1
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20182437
+Nombre del alumno: CERNA/DURAND/MARTIN
+Distrito: Lurigancho-Chosica
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 4
+Valor del credito: 569.63
+Creditos aprobados: 135
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 595272
+Nombre: ESCALANTE/VIZCARRA/HELI
+Distrito: Chaclacayo
+Puesto: Secretaria(o)
+Grado de Instruccion: Primaria
+Años de servicio: 16
+Sueldo: 4469.44
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 96499984
+Nombre del profesor: CHUNG/LEE/ALVARO
+Distrito: Lurin
+Categoria: Asociado
+Dedicacion: TC
+Seccion: Economia
+Grado academico: Licenciado
+Sueldo: 9980.47
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 30326624
+Nombre del profesor: REYES/TANG/EDWARD
+Distrito: Barranco
+Categoria: Asociado
+Dedicacion: TC
+Seccion: Informatica
+Grado academico: Bachiller
+Sueldo: 11157.5
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 53526607
+Nombre del profesor: CHUMPITAZ/IBEROS/RONAL
+Distrito: Santa Rosa
+Categoria: Principal
+Dedicacion: TC
+Seccion: Mecanica
+Grado academico: Magister
+Sueldo: 15084.5
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20183699
+Nombre del alumno: CAMACHO/AGUERO/ELIA ROSA
+Distrito: El Agustino
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Escala de pago: 3
+Valor del credito: 474.69
+Creditos aprobados: 73.7
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20172513
+Nombre del alumno: JUSTINO/CRUZ/WILLIAMS
+Distrito: Lince
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 7
+Valor del credito: 756.61
+Creditos aprobados: 135.6
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20176213
+Nombre del alumno: PAIRAZAMAN/ALAMO/MOISES MIGUEL
+Distrito: Independencia
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 3
+Valor del credito: 474.69
+Creditos aprobados: 87.4
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 43630388
+Nombre del profesor: ARROYO/GORDILLO/MARIA HELI
+Distrito: San Juan de Miraflores
+Categoria: Principal
+Dedicacion: TP
+Seccion: Derecho penal
+Grado academico: Doctor
+Sueldo: 13386.9
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 49631243
+Nombre del profesor: VEGA/GARCIA/JANET REBECA
+Distrito: Barranco
+Categoria: Asociado
+Dedicacion: TPA
+Seccion: Pintura
+Grado academico: Licenciado
+Sueldo: 13835.9
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 81199293
+Nombre del profesor: PINTO/CALIXTO/SHIRLEY
+Distrito: Puente Piedra
+Categoria: Contratado
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Doctor
+Sueldo: 14444.2
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20156980
+Nombre del alumno: FERNANDEZ/ORTEGA/ELIZABETH ELIZABETH
+Distrito: Cieneguilla
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 1
+Valor del credito: 375.25
+Creditos aprobados: 26.3
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 965696
+Nombre: PRECIADO/RAMIREZ/ESTEFANIA CARMELA
+Distrito: San Luis
+Puesto: Conserje
+Grado de Instruccion: Sup. Tecnica
+Años de servicio: 21
+Sueldo: 2007.27
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20183971
+Nombre del alumno: LANDA/PISCOYA/CHRISTIAN
+Distrito: Santa Maria del Mar
+Especialidad: Ing. Informatica
+Facultad: FCI
+Escala de pago: 2
+Valor del credito: 412.78
+Creditos aprobados: 48.2
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 57553881
+Nombre del profesor: SALAZAR/CORRALES/LORENA IRMA
+Distrito: San Juan de Lurigancho
+Categoria: Asociado
+Dedicacion: TC
+Seccion: Mecanica
+Grado academico: Licenciado
+Sueldo: 12595.5
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 771494
+Nombre: CONTRERAS/EGUSQUIZA/AMARU ALONSO
+Distrito: Lurigancho-Chosica
+Puesto: Conserje
+Grado de Instruccion: Primaria
+Años de servicio: 24
+Sueldo: 2038.67
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20143409
+Nombre del alumno: CORRALES/TSUKAZAN/IRMA LOURDES
+Distrito: Independencia
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 2
+Valor del credito: 412.78
+Creditos aprobados: 37.3
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 40927560
+Nombre del profesor: CERNA/HIJAR/JOSE ROLANDO
+Distrito: San Bartolo
+Categoria: Asociado
+Dedicacion: TP
+Seccion: Civil
+Grado academico: Bachiller
+Sueldo: 8439.87
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20164049
+Nombre del alumno: CORREA/VIZCARDO/MIGUEL
+Distrito: Punta Hermosa
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 4
+Valor del credito: 569.63
+Creditos aprobados: 139.1
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 940977
+Nombre: DELGADO/JUSTINO/TERESA
+Distrito: Villa El Salvador
+Puesto: Conserje
+Grado de Instruccion: Secundaria
+Años de servicio: 6
+Sueldo: 3565.25
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20148472
+Nombre del alumno: PASQUEL/QUIO/SURAMI JANET
+Distrito: Cieneguilla
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 3
+Valor del credito: 474.69
+Creditos aprobados: 39.4
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 812617
+Nombre: MORI/TOKESHI/FELICITA GLENDA
+Distrito: San Bartolo
+Puesto: Jardinero(a)
+Grado de Instruccion: Secundaria
+Años de servicio: 7
+Sueldo: 1677.38
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 37520971
+Nombre del profesor: DELGADO/GONZALES/GUILLERMO ALFONSO
+Distrito: Surquillo
+Categoria: Auxiliar
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Bachiller
+Sueldo: 16677.6
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20181657
+Nombre del alumno: MEJIA/HAZA/FRANCISCO EDGAR
+Distrito: Pueblo Libre
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 4
+Valor del credito: 569.63
+Creditos aprobados: 121.8
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20185658
+Nombre del alumno: SALAS/AGUERO/DANIEL
+Distrito: Santa Rosa
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 7
+Valor del credito: 756.61
+Creditos aprobados: 78.3
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 220146
+Nombre: MEJIA/QUIO/JESSICA JOHANA
+Distrito: Ancon
+Puesto: Asistente
+Grado de Instruccion: Sup. Tecnica
+Años de servicio: 11
+Sueldo: 5325.05
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 71705649
+Nombre del profesor: SANTISTEBAN/MEZA/ROSA
+Distrito: Pachacamac
+Categoria: Contratado
+Dedicacion: TP
+Seccion: Derecho civil
+Grado academico: Bachiller
+Sueldo: 16984.4
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 132662
+Nombre: SALAZAR/PAIRAZAMAN/ANNIE EVELING
+Distrito: Santa Maria del Mar
+Puesto: Conserje
+Grado de Instruccion: Secundaria
+Años de servicio: 13
+Sueldo: 1946.79
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20132464
+Nombre del alumno: CORONEL/CHUMPITAZ/HELI
+Distrito: Jesus Maria
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 4
+Valor del credito: 569.63
+Creditos aprobados: 36.1
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 19992333
+Nombre del profesor: WONG/MARTEL/MADELEINE
+Distrito: Ancon
+Categoria: Asociado
+Dedicacion: TPA
+Seccion: Pintura
+Grado academico: Bachiller
+Sueldo: 17972.2
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20159566
+Nombre del alumno: ARCA/AMEZQUITA/EDRIC RONALD
+Distrito: Santa Rosa
+Especialidad: Ing. Mecanica
+Facultad: FCI
+Escala de pago: 2
+Valor del credito: 412.78
+Creditos aprobados: 135.7
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20157054
+Nombre del alumno: MORALES/VALVERDE/INES MARTHA
+Distrito: Lurigancho-Chosica
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 5
+Valor del credito: 655.07
+Creditos aprobados: 40.6
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 550631
+Nombre: ARANA/CALDERON/MILAGROS
+Distrito: Punta Hermosa
+Puesto: Tecnico(a)
+Grado de Instruccion: Secundaria
+Años de servicio: 3
+Sueldo: 2208.34
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 676418
+Nombre: MORENO/VALDERRAMA/JAVIER ALFONSO
+Distrito: Santa Anita
+Puesto: Tecnico(a)
+Grado de Instruccion: Primaria
+Años de servicio: 23
+Sueldo: 5335.15
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 615690
+Nombre: HERNANDEZ/CONTRERAS/MELVIN ALVARO
+Distrito: Santa Rosa
+Puesto: Secretaria(o)
+Grado de Instruccion: Sup. Tecnica
+Años de servicio: 23
+Sueldo: 6644.49
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20142581
+Nombre del alumno: PALOMARES/VERA/HENRRY HUMBERTO
+Distrito: Santiago de Surco
+Especialidad: Ing. Civil
+Facultad: EEGGCC
+Escala de pago: 7
+Valor del credito: 756.61
+Creditos aprobados: 129.2
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 27129690
+Nombre del profesor: DIAZ/CORREA/IRMA VIRGINIA
+Distrito: Carabayllo
+Categoria: Auxiliar
+Dedicacion: TPA
+Seccion: Civil
+Grado academico: Licenciado
+Sueldo: 8927.47
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 321745
+Nombre: MORENO/VERGEL/GUILLERMO
+Distrito: El Agustino
+Puesto: Tecnico(a)
+Grado de Instruccion: Sup. Tecnica
+Años de servicio: 8
+Sueldo: 2425.14
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20165527
+Nombre del alumno: PRADO/VERGEL/CARLOS JULIAN
+Distrito: Santa Rosa
+Especialidad: Ing. Informatica
+Facultad: FCI
+Escala de pago: 2
+Valor del credito: 412.78
+Creditos aprobados: 102.8
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20186584
+Nombre del alumno: NORABUENA/PRECIADO/CINTHIA
+Distrito: Santa Rosa
+Especialidad: Ing. Mecanica
+Facultad: EEGGCC
+Escala de pago: 1
+Valor del credito: 375.25
+Creditos aprobados: 117
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 60019480
+Nombre del profesor: SHIRAKAWA/ORTEGA/ANGEL
+Distrito: Pueblo Libre
+Categoria: Auxiliar
+Dedicacion: TC
+Seccion: Derecho civil
+Grado academico: Bachiller
+Sueldo: 10433
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 764761
+Nombre: BARRIOS/SANCHEZ/HENRRY EMILIO
+Distrito: San Martin de Porres
+Puesto: Asistente
+Grado de Instruccion: Secundaria
+Años de servicio: 11
+Sueldo: 2599.69
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 51954821
+Nombre del profesor: ROMERO/PALOMARES/GLORIA TATIANA
+Distrito: Santiago de Surco
+Categoria: Principal
+Dedicacion: TPA
+Seccion: Derecho civil
+Grado academico: Licenciado
+Sueldo: 17944.6
+                                    Miembro alumno
+======================================================================================================================================================
+Codigo: 20131002
+Nombre del alumno: INGA/FLORES/CESAR ADOLFO
+Distrito: Chorrillos
+Especialidad: Ing. Civil
+Facultad: FCI
+Escala de pago: 6
+Valor del credito: 720.58
+Creditos aprobados: 89.2
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 728914
+Nombre: LOVERA/AGUIRRE/JAVIER PAUL
+Distrito: Rimac
+Puesto: Conserje
+Grado de Instruccion: Sup. Tecnica
+Años de servicio: 5
+Sueldo: 5177.01
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 584777
+Nombre: VELASQUEZ/ORTEGA/CARMELA ELOISA
+Distrito: Lurin
+Puesto: Tecnico(a)
+Grado de Instruccion: Secundaria
+Años de servicio: 4
+Sueldo: 2690.32
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 850398
+Nombre: URBINA/MOYA/ISRAEL OSCAR
+Distrito: Rimac
+Puesto: Jardinero(a)
+Grado de Instruccion: Secundaria
+Años de servicio: 16
+Sueldo: 4189.09
+                            Miembro administrativo
+======================================================================================================================================================
+Codigo: 158487
+Nombre: BENITES/SEGURA/VICTOR
+Distrito: Rimac
+Puesto: Jardinero(a)
+Grado de Instruccion: Secundaria
+Años de servicio: 19
+Sueldo: 4188.79
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 41944138
+Nombre del profesor: PRADO/FALCON/EDGAR RICHARD
+Distrito: Independencia
+Categoria: Contratado
+Dedicacion: TP
+Seccion: Informatica
+Grado academico: Licenciado
+Sueldo: 16642.8
+                                   Miembro docente
+======================================================================================================================================================
+Codigo: 78078806
+Nombre del profesor: FORZANI/CARO/ALONSO
+Distrito: San Bartolo
+Categoria: Contratado
+Dedicacion: TPA
+Seccion: Derecho penal
+Grado academico: Licenciado
+Sueldo: 11524.7

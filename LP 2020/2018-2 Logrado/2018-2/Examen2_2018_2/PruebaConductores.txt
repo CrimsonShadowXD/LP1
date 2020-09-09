@@ -1,0 +1,849 @@
+REPORTE DE CONDUCTORES:
+======================================================================
+Nombre: CUEVA/FUENTES/CINTHIA DELIA
+DNI: 12270502 | Telefono: 977325695
+Vehiculos: 
+O1C-880  | Infracciones: 102 332 
+P7T-999  | Infracciones: 150 111 
+Y5F-449  | Infracciones: 332 
+----------------------------------------------------------------------
+
+Nombre: LEE/SERRANO/ROSARIO
+DNI: 12443643 | Telefono: 994280247
+Vehiculos: 
+R8H-409  | Infracciones: 156 321 
+----------------------------------------------------------------------
+
+Nombre: ZARATE/PEREZ/ALEXANDER
+DNI: 12858682 | Telefono: 993183712
+Vehiculos: 
+T5L-371  | Infracciones: 101 318 308 310 
+----------------------------------------------------------------------
+
+Nombre: RODRIGUEZ/MORENO/BLANCA OFELIA
+DNI: 13219606 | Telefono: 981992831
+Vehiculos: 
+M2Q-712  | Infracciones: 312 307 152 
+N1O-921  | Infracciones: 102 145 
+T3B-722  | Infracciones: 313 141 333 
+----------------------------------------------------------------------
+
+Nombre: QUIROGA/HERNANDEZ/SILVANA ZKENIA
+DNI: 13628871 | Telefono: 996073621
+Vehiculos: 
+F3E-797  | Infracciones: 131 142 302 302 108 
+----------------------------------------------------------------------
+
+Nombre: VALVERDE/MAEIREIZO/MELVIN JAIR
+DNI: 15029228 | Telefono: 982628676
+Vehiculos: 
+C0P-895  | Infracciones: 102 134 
+J0Q-121  | Infracciones: 331 328 145 154 
+N0Z-560  | Infracciones: 133 
+----------------------------------------------------------------------
+
+Nombre: HERNANDEZ/CORRALES/GUILLERMO
+DNI: 15115705 | Telefono: 999700320
+Vehiculos: 
+N9Q-814  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: BRAVO/CORTES/JANET FLOR
+DNI: 15559308 | Telefono: 982493678
+Vehiculos: 
+S3L-803  | Infracciones: 105 305 
+T8F-368  | Infracciones: 148 153 149 
+W1S-239  | Infracciones: No posee
+X6O-905  | Infracciones: 133 309 110 
+----------------------------------------------------------------------
+
+Nombre: YEP/PRECIADO/RICHARD
+DNI: 16136330 | Telefono: 996870322
+Vehiculos: 
+E3U-231  | Infracciones: 126 108 314 
+----------------------------------------------------------------------
+
+Nombre: BACA/CAMACHO/MILAGROS NATALIA
+DNI: 16477908 | Telefono: 981924881
+Vehiculos: 
+I0E-459  | Infracciones: 323 338 
+W7C-957  | Infracciones: 126 
+X9D-758  | Infracciones: 123 
+----------------------------------------------------------------------
+
+Nombre: CABRERA/TORO/FANNY
+DNI: 16925690 | Telefono: 990940118
+Vehiculos: 
+B4I-014  | Infracciones: 128 
+F3F-478  | Infracciones: 128 107 
+R7N-113  | Infracciones: 332 143 145 136 104 308 
+----------------------------------------------------------------------
+
+Nombre: VEGA/SORIA/HENRRY
+DNI: 19568447 | Telefono: 979996045
+Vehiculos: 
+D8R-235  | Infracciones: 137 
+O7W-705  | Infracciones: 138 
+----------------------------------------------------------------------
+
+Nombre: SALAMANCA/CABRERA/NESTOR EVERT
+DNI: 19963454 | Telefono: 976223321
+Vehiculos: 
+D9A-711  | Infracciones: 330 150 314 
+H8A-390  | Infracciones: 336 109 
+T9D-604  | Infracciones: No posee
+X9O-440  | Infracciones: 307 131 137 334 147 
+----------------------------------------------------------------------
+
+Nombre: AYALA/CASTILLO/ERICKA OFELIA
+DNI: 21621497 | Telefono: 989065262
+Vehiculos: 
+D6W-048  | Infracciones: 320 
+R5I-860  | Infracciones: 136 120 
+W5W-525  | Infracciones: No posee
+Z7C-785  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: FLORIAN/CUBA/CHRISTIAN
+DNI: 24859596 | Telefono: 996273880
+Vehiculos: 
+A8P-118  | Infracciones: 331 153 101 
+B8B-326  | Infracciones: 312 
+L6D-758  | Infracciones: 329 
+----------------------------------------------------------------------
+
+Nombre: RONDON/CABRERA/ALEXANDER ADOLFO
+DNI: 25518120 | Telefono: 995745487
+Vehiculos: 
+E1J-798  | Infracciones: 118 337 145 
+F2C-703  | Infracciones: 205 
+U1X-768  | Infracciones: 123 313 
+----------------------------------------------------------------------
+
+Nombre: SANCHEZ/DEL_CASTILLO/FIORELLA ROSARIO
+DNI: 26522329 | Telefono: 992374683
+Vehiculos: 
+U5W-825  | Infracciones: 146 
+U7R-252  | Infracciones: 202 
+W7R-114  | Infracciones: 339 338 123 110 
+----------------------------------------------------------------------
+
+Nombre: SOLIS/CHUNG/ROLANDO
+DNI: 27185429 | Telefono: 973027511
+Vehiculos: 
+S9I-160  | Infracciones: 165 
+U3F-754  | Infracciones: 125 337 134 
+----------------------------------------------------------------------
+
+Nombre: LOZADA/IBEROS/HELI BLANCA
+DNI: 27268323 | Telefono: 971407883
+Vehiculos: 
+L6Z-161  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: FIGUEROA/MEDINA/MADELEINE
+DNI: 27864822 | Telefono: 999829382
+Vehiculos: 
+R5C-239  | Infracciones: 141 202 203 
+S3D-133  | Infracciones: 125 145 158 
+T9U-338  | Infracciones: 204 125 
+----------------------------------------------------------------------
+
+Nombre: RIOS/ZAMORA/INES
+DNI: 28820944 | Telefono: 976280687
+Vehiculos: 
+H2K-127  | Infracciones: 104 154 138 329 
+----------------------------------------------------------------------
+
+Nombre: HIJAR/LAM/MARTIN
+DNI: 29833157 | Telefono: 997272987
+Vehiculos: 
+E9W-402  | Infracciones: No posee
+I5K-310  | Infracciones: 307 157 312 110 319 
+I9F-484  | Infracciones: 159 302 
+S2N-896  | Infracciones: 109 134 102 
+----------------------------------------------------------------------
+
+Nombre: CAMACHO/PAIRAZAMAN/YDALI LUCERO
+DNI: 29989682 | Telefono: 984528345
+Vehiculos: 
+B1J-773  | Infracciones: 310 149 322 324 206 127 
+W1V-221  | Infracciones: 162 139 
+W3T-571  | Infracciones: 335 158 326 
+----------------------------------------------------------------------
+
+Nombre: SALAMANCA/VEGA/VIRGINIA MARTHA
+DNI: 30046639 | Telefono: 975325937
+Vehiculos: 
+L8F-459  | Infracciones: 144 162 319 315 
+P6I-223  | Infracciones: 204 138 205 
+S3F-021  | Infracciones: 146 154 131 
+----------------------------------------------------------------------
+
+Nombre: RETAMOSO/SALAMANCA/DELIA MARITZA
+DNI: 30441350 | Telefono: 986193663
+Vehiculos: 
+M9Z-497  | Infracciones: 158 315 139 125 154 
+Q6Q-335  | Infracciones: 153 
+T7F-869  | Infracciones: 154 
+X0F-315  | Infracciones: 328 331 207 
+----------------------------------------------------------------------
+
+Nombre: MOSCOSO/ARIAS/FIORELLA
+DNI: 31107104 | Telefono: 981642318
+Vehiculos: 
+E0I-722  | Infracciones: 148 101 
+O3T-110  | Infracciones: 158 122 
+----------------------------------------------------------------------
+
+Nombre: VIZCARRA/MONTERO/JAIR
+DNI: 31205866 | Telefono: 979567163
+Vehiculos: 
+U6A-456  | Infracciones: 166 134 163 
+----------------------------------------------------------------------
+
+Nombre: SUELDO/ANTEZANO/LUIS JESUS
+DNI: 32090869 | Telefono: 977794034
+Vehiculos: 
+,,  | Infracciones: No posee
+L4B-291  | Infracciones: 166 162 312 
+----------------------------------------------------------------------
+
+Nombre: HENRIQUEZ/PAREDES/PAUL RAFAEL
+DNI: 32244565 | Telefono: 997922048
+Vehiculos: 
+J1E-736  | Infracciones: 315 131 160 101 330 315 149 
+K4F-319  | Infracciones: 108 315 321 
+M8W-853  | Infracciones: 111 162 
+W9L-468  | Infracciones: 125 
+----------------------------------------------------------------------
+
+Nombre: LEYVA/LANDEO/NANCY SONIA
+DNI: 34248357 | Telefono: 997520652
+Vehiculos: 
+H4R-733  | Infracciones: 313 132 328 319 151 
+R7N-062  | Infracciones: 155 314 
+S5E-231  | Infracciones: 314 158 
+U0T-459  | Infracciones: 320 149 112 
+----------------------------------------------------------------------
+
+Nombre: LOZADA/ARGUEDAS/FELICITA VALENTINA
+DNI: 34976629 | Telefono: 977041909
+Vehiculos: 
+I0Y-720  | Infracciones: 320 144 165 145 
+J8B-303  | Infracciones: 150 310 206 333 
+----------------------------------------------------------------------
+
+Nombre: ASTETE/CHANG/GUIDA
+DNI: 35297848 | Telefono: 995562110
+Vehiculos: 
+O7D-970  | Infracciones: 122 326 
+----------------------------------------------------------------------
+
+Nombre: EPIQUEN/YEP/GUIDA VICTORIA
+DNI: 35671623 | Telefono: 984767837
+Vehiculos: 
+K0T-350  | Infracciones: 307 
+P2Q-870  | Infracciones: 147 
+V4E-749  | Infracciones: 305 161 328 110 
+----------------------------------------------------------------------
+
+Nombre: DIAZ/MOYA/ELIA ANNIE
+DNI: 35683701 | Telefono: 974647510
+Vehiculos: 
+D5W-953  | Infracciones: 328 105 
+----------------------------------------------------------------------
+
+Nombre: MARTINEZ/CRUZ/EVERT RONY
+DNI: 35912665 | Telefono: 995201948
+Vehiculos: 
+A6E-125  | Infracciones: 157 162 
+D7L-648  | Infracciones: No posee
+O2Z-308  | Infracciones: 111 315 
+O4X-500  | Infracciones: 162 341 335 
+----------------------------------------------------------------------
+
+Nombre: ZAVALETA/VILCA/ERICKA ELEONOR
+DNI: 36079131 | Telefono: 976708709
+Vehiculos: 
+H5S-788  | Infracciones: No posee
+I0W-872  | Infracciones: 166 203 
+V4S-057  | Infracciones: 328 
+----------------------------------------------------------------------
+
+Nombre: FLORIAN/VALDERRAMA/JOSE
+DNI: 37080813 | Telefono: 982365577
+Vehiculos: 
+O9W-355  | Infracciones: 204 339 145 
+P7E-145  | Infracciones: 149 312 124 
+----------------------------------------------------------------------
+
+Nombre: WONG/MAEIREIZO/BEATRIZ
+DNI: 38862473 | Telefono: 997089316
+Vehiculos: 
+I4B-541  | Infracciones: 135 108 
+K3B-165  | Infracciones: 318 
+S6Y-726  | Infracciones: 129 141 325 
+----------------------------------------------------------------------
+
+Nombre: PENA/SUAREZ/GLENDA MARGOT
+DNI: 39244942 | Telefono: 999301245
+Vehiculos: 
+N5Y-450  | Infracciones: 103 136 
+----------------------------------------------------------------------
+
+Nombre: LUNA/VARGAS/WALDEMAR
+DNI: 39544560 | Telefono: 975380404
+Vehiculos: 
+N4J-043  | Infracciones: 313 316 
+Y0K-784  | Infracciones: 332 341 115 
+----------------------------------------------------------------------
+
+Nombre: POMAJAMBO/EGUSQUIZA/PAUL
+DNI: 42956681 | Telefono: 980954498
+Vehiculos: 
+A6D-661  | Infracciones: 332 
+E0L-862  | Infracciones: 143 155 
+L8Z-555  | Infracciones: 322 
+----------------------------------------------------------------------
+
+Nombre: ESPINOZA/CHANG/SHIRLEY
+DNI: 43454884 | Telefono: 980288321
+Vehiculos: 
+G0F-080  | Infracciones: 119 
+P6Z-734  | Infracciones: 150 152 324 
+----------------------------------------------------------------------
+
+Nombre: VILCARA/YALLICO/MAGALI
+DNI: 44188994 | Telefono: 986536608
+Vehiculos: 
+M0X-657  | Infracciones: 137 159 
+R2L-600  | Infracciones: 304 306 
+----------------------------------------------------------------------
+
+Nombre: ALFARO/ALFARO/ERICK BRUNO
+DNI: 44346371 | Telefono: 995378466
+Vehiculos: 
+S4J-282  | Infracciones: 137 
+----------------------------------------------------------------------
+
+Nombre: VEGA/VILCARA/CARMELA TERESA
+DNI: 45043076 | Telefono: 986528258
+Vehiculos: 
+I1D-713  | Infracciones: 154 
+R1T-735  | Infracciones: 334 318 146 328 
+S7E-946  | Infracciones: 145 149 134 134 
+----------------------------------------------------------------------
+
+Nombre: SAAVEDRA/GONZALES/WILMER
+DNI: 47528229 | Telefono: 988029799
+Vehiculos: 
+G8O-154  | Infracciones: 158 312 
+I4H-529  | Infracciones: No posee
+T8Y-354  | Infracciones: 130 
+U0N-343  | Infracciones: 161 146 
+----------------------------------------------------------------------
+
+Nombre: VILCA/LEE/NESTOR HUGO
+DNI: 47844324 | Telefono: 975072906
+Vehiculos: 
+F1H-328  | Infracciones: 208 150 
+X7J-719  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: RAMIREZ/ASTETE/KARINA ESTEFANIA
+DNI: 48450395 | Telefono: 977189363
+Vehiculos: 
+G1P-591  | Infracciones: 147 331 106 
+H6H-085  | Infracciones: 317 
+Q5S-871  | Infracciones: 339 147 
+----------------------------------------------------------------------
+
+Nombre: ZAVALETA/CORONADO/FELICITA ELOISA
+DNI: 48528209 | Telefono: 974864057
+Vehiculos: 
+T9L-709  | Infracciones: 341 338 153 148 
+----------------------------------------------------------------------
+
+Nombre: RAFFO/CORONADO/ROLANDO
+DNI: 48878256 | Telefono: 979340890
+Vehiculos: 
+F2F-895  | Infracciones: 107 115 
+G2R-979  | Infracciones: 312 101 
+W6Z-142  | Infracciones: 202 203 328 
+Z4L-514  | Infracciones: 115 
+----------------------------------------------------------------------
+
+Nombre: RIVERO/CORTEZ/WILVER ALFONSO
+DNI: 49428502 | Telefono: 987405067
+Vehiculos: 
+C0A-114  | Infracciones: 125 126 
+T0V-569  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: INGA/PALOMARES/ERIKA
+DNI: 49927087 | Telefono: 998698530
+Vehiculos: 
+G7B-252  | Infracciones: 116 136 
+M8Q-758  | Infracciones: 155 326 304 
+X3E-271  | Infracciones: 208 139 112 207 
+----------------------------------------------------------------------
+
+Nombre: LEYVA/SAM/DIANA DELIA
+DNI: 50200823 | Telefono: 988590114
+Vehiculos: 
+H1E-399  | Infracciones: 119 103 
+Q6C-943  | Infracciones: 315 
+R0P-255  | Infracciones: 306 157 
+----------------------------------------------------------------------
+
+Nombre: ZEGARRA/PENA/CARMELA
+DNI: 50201756 | Telefono: 991359438
+Vehiculos: 
+K5K-595  | Infracciones: 310 105 
+X8O-807  | Infracciones: 123 118 
+----------------------------------------------------------------------
+
+Nombre: TRIGUEROS/PORTUGAL/ARTURO FAUSTO
+DNI: 51395324 | Telefono: 994447607
+Vehiculos: 
+M4Z-108  | Infracciones: 202 
+----------------------------------------------------------------------
+
+Nombre: CHAVEZ/BERROCAL/JOHAN
+DNI: 51929951 | Telefono: 991216992
+Vehiculos: 
+O8J-848  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: CASANOVA/ZEGARRA/MARITZA
+DNI: 52002275 | Telefono: 975330266
+Vehiculos: 
+C0S-417  | Infracciones: 149 203 
+J8N-930  | Infracciones: 320 
+----------------------------------------------------------------------
+
+Nombre: CARBAJAL/SALAS/MAGDA ZKENIA
+DNI: 52003695 | Telefono: 991031827
+Vehiculos: 
+H8S-849  | Infracciones: 124 141 122 
+----------------------------------------------------------------------
+
+Nombre: SERRANO/IBEROS/FRANCISCO
+DNI: 53374153 | Telefono: 975559213
+Vehiculos: 
+G6I-762  | Infracciones: 341 328 
+R2T-476  | Infracciones: 165 
+V7L-069  | Infracciones: 104 125 
+----------------------------------------------------------------------
+
+Nombre: SOLIS/NARVAEZ/MARIA MADELEINE
+DNI: 53853385 | Telefono: 979972955
+Vehiculos: 
+O4X-603  | Infracciones: No posee
+O5L-856  | Infracciones: 103 110 307 153 306 
+R6P-267  | Infracciones: 150 121 
+T9X-217  | Infracciones: 127 110 147 302 140 
+----------------------------------------------------------------------
+
+Nombre: DURAND/MIRANDA/MIGUEL JUAN
+DNI: 54141214 | Telefono: 986933560
+Vehiculos: 
+G2I-709  | Infracciones: 114 339 122 316 
+J7Y-327  | Infracciones: 104 336 204 
+Y9G-536  | Infracciones: 330 147 
+----------------------------------------------------------------------
+
+Nombre: AVILA/DEL_CASTILLO/ANNIE
+DNI: 54447051 | Telefono: 976989134
+Vehiculos: 
+D5W-773  | Infracciones: 165 341 130 
+G3Y-654  | Infracciones: 124 146 311 
+U5L-205  | Infracciones: 132 
+----------------------------------------------------------------------
+
+Nombre: GONZALES/GAMARRA/GIOVANA KARINA
+DNI: 54665716 | Telefono: 989711739
+Vehiculos: 
+D2V-055  | Infracciones: 151 130 
+----------------------------------------------------------------------
+
+Nombre: NARVAEZ/CASTILLO/JESUS RAFAEL
+DNI: 58992942 | Telefono: 991021805
+Vehiculos: 
+H8M-598  | Infracciones: 207 329 
+Q6B-243  | Infracciones: 102 
+V7O-315  | Infracciones: 123 147 130 333 
+----------------------------------------------------------------------
+
+Nombre: DIAZ/TANG/ENRIQUE
+DNI: 60335381 | Telefono: 993697955
+Vehiculos: 
+B3U-845  | Infracciones: 149 
+E6T-667  | Infracciones: 162 166 163 105 
+----------------------------------------------------------------------
+
+Nombre: RUIZ/ZEVALLOS/WALTER RONY
+DNI: 60784914 | Telefono: 999858010
+Vehiculos: 
+A8J-929  | Infracciones: 201 
+C6G-842  | Infracciones: 309 
+C6Q-548  | Infracciones: 117 128 205 
+P4Y-758  | Infracciones: 306 165 309 112 
+----------------------------------------------------------------------
+
+Nombre: LAU/ZAVALETA/YDALI ELIA
+DNI: 63291514 | Telefono: 999294804
+Vehiculos: 
+L3W-411  | Infracciones: 206 
+Z1A-459  | Infracciones: 104 
+----------------------------------------------------------------------
+
+Nombre: ZAMORA/ZAVALETA/RONAL MANUEL
+DNI: 63736112 | Telefono: 989320773
+Vehiculos: 
+K0D-676  | Infracciones: 115 304 128 
+T9A-930  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: VIZCARRA/CARBAJAL/IVAN FAUSTO
+DNI: 64178096 | Telefono: 988194544
+Vehiculos: 
+B7V-643  | Infracciones: 204 313 
+G3B-505  | Infracciones: 157 306 310 
+I0X-469  | Infracciones: 321 132 320 
+----------------------------------------------------------------------
+
+Nombre: INFANTES/MERCADO/LUIS WALDEMAR
+DNI: 64532449 | Telefono: 972768580
+Vehiculos: 
+J0V-437  | Infracciones: 159 204 207 
+K8R-348  | Infracciones: 103 106 
+V4I-691  | Infracciones: 322 304 
+X3Z-285  | Infracciones: 143 
+----------------------------------------------------------------------
+
+Nombre: MERCADO/CORONEL/ELIA
+DNI: 66849703 | Telefono: 991784560
+Vehiculos: 
+B4N-777  | Infracciones: 139 170 115 331 124 
+J2F-853  | Infracciones: 115 114 
+----------------------------------------------------------------------
+
+Nombre: FLORENCIO/CORONADO/ALONSO
+DNI: 67185679 | Telefono: 992495414
+Vehiculos: 
+F1F-571  | Infracciones: 109 107 206 
+I2P-193  | Infracciones: 127 
+S7F-983  | Infracciones: 312 335 122 315 163 316 
+----------------------------------------------------------------------
+
+Nombre: PATINO/BOLANOS/DELICIA VIRGINIA
+DNI: 68303148 | Telefono: 982064714
+Vehiculos: 
+H1W-140  | Infracciones: 115 156 
+----------------------------------------------------------------------
+
+Nombre: CANO/POLO/MILAGROS ISABEL
+DNI: 68310808 | Telefono: 976640346
+Vehiculos: 
+I3A-223  | Infracciones: 151 338 
+K2N-341  | Infracciones: 114 
+W8F-397  | Infracciones: 315 
+X6M-077  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: GORDILLO/SANCHEZ/RONALD JUVENAL
+DNI: 69252518 | Telefono: 982106033
+Vehiculos: 
+P7I-760  | Infracciones: 306 124 132 327 
+Y0Y-415  | Infracciones: 151 
+----------------------------------------------------------------------
+
+Nombre: MENDOZA/ROMERO/VIRGINIA YDALI
+DNI: 69494747 | Telefono: 997718422
+Vehiculos: 
+J8D-125  | Infracciones: 104 146 
+----------------------------------------------------------------------
+
+Nombre: AVILA/REYES/TATIANA
+DNI: 70414420 | Telefono: 983014906
+Vehiculos: 
+A7Y-514  | Infracciones: 201 
+U5T-348  | Infracciones: 159 317 301 122 325 
+V9J-051  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: ARROYO/TOMASICHE/NATALIA
+DNI: 71578206 | Telefono: 978801883
+Vehiculos: 
+G7Z-721  | Infracciones: 155 133 120 318 332 315 324 
+L4H-670  | Infracciones: No posee
+Y9F-491  | Infracciones: 322 104 338 313 137 
+----------------------------------------------------------------------
+
+Nombre: SUELDO/SEDANO/ADRIA
+DNI: 71832810 | Telefono: 992023606
+Vehiculos: 
+Q3M-512  | Infracciones: No posee
+T1K-210  | Infracciones: 154 116 
+W1C-444  | Infracciones: 160 
+----------------------------------------------------------------------
+
+Nombre: TRIGUEROS/JUGO/LUZ
+DNI: 73357516 | Telefono: 989411713
+Vehiculos: 
+E6R-293  | Infracciones: No posee
+G0B-604  | Infracciones: 139 170 166 122 
+J2K-636  | Infracciones: 103 134 112 
+P1T-781  | Infracciones: 314 
+----------------------------------------------------------------------
+
+Nombre: ARCA/SANCHEZ/MAGALI BEATRIZ
+DNI: 73567806 | Telefono: 972808569
+Vehiculos: 
+A7Y-833  | Infracciones: 334 164 203 
+E2D-493  | Infracciones: 309 
+Q9D-870  | Infracciones: 321 105 305 118 129 207 
+W9Z-281  | Infracciones: 103 105 341 319 
+----------------------------------------------------------------------
+
+Nombre: FUENTES/GAMARRA/HUGO
+DNI: 73818744 | Telefono: 989530753
+Vehiculos: 
+U5N-536  | Infracciones: 147 332 324 207 
+----------------------------------------------------------------------
+
+Nombre: AVILA/MARTEL/JAIME MANUEL
+DNI: 73972114 | Telefono: 977290098
+Vehiculos: 
+A2F-518  | Infracciones: 102 131 107 133 
+D8H-157  | Infracciones: 105 
+J2M-606  | Infracciones: 102 156 205 326 312 
+----------------------------------------------------------------------
+
+Nombre: TANG/MOSCOSO/JOHANA
+DNI: 74325123 | Telefono: 982064668
+Vehiculos: 
+B3H-006  | Infracciones: No posee
+C2V-710  | Infracciones: No posee
+H0E-855  | Infracciones: 309 
+V9F-655  | Infracciones: 121 103 158 
+----------------------------------------------------------------------
+
+Nombre: LOZADA/FORZANI/DELIA
+DNI: 75348522 | Telefono: 980522965
+Vehiculos: 
+E1L-705  | Infracciones: 117 164 
+P5B-640  | Infracciones: 124 
+X0D-655  | Infracciones: 142 
+----------------------------------------------------------------------
+
+Nombre: MEJIA/RODRIGUEZ/INES VALENTINA
+DNI: 75945248 | Telefono: 982951481
+Vehiculos: 
+K6X-977  | Infracciones: 121 
+----------------------------------------------------------------------
+
+Nombre: JAUREGUI/DEL_CASTILLO/VICTOR RICARDO
+DNI: 77367073 | Telefono: 999644412
+Vehiculos: 
+C2S-070  | Infracciones: 334 129 143 103 327 
+H9A-097  | Infracciones: 310 
+N7K-403  | Infracciones: 153 104 329 
+W4W-684  | Infracciones: 141 140 
+----------------------------------------------------------------------
+
+Nombre: FARFAN/SALAZAR/MARGOT
+DNI: 77763722 | Telefono: 981245337
+Vehiculos: 
+A1Q-612  | Infracciones: 322 339 143 
+D1M-667  | Infracciones: 112 
+Q4P-612  | Infracciones: 309 
+W2L-827  | Infracciones: 132 309 
+----------------------------------------------------------------------
+
+Nombre: TOKESHI/GUEVARA/JAIME
+DNI: 79641328 | Telefono: 999895711
+Vehiculos: 
+B4R-105  | Infracciones: 202 315 
+L0L-653  | Infracciones: 142 204 
+X8Q-687  | Infracciones: 338 103 339 
+----------------------------------------------------------------------
+
+Nombre: CONTRERAS/CHANG/JOHANA CINTHIA
+DNI: 79672079 | Telefono: 974904348
+Vehiculos: 
+O3H-954  | Infracciones: 119 
+R7U-941  | Infracciones: 203 136 142 131 
+Y3Q-331  | Infracciones: 318 170 162 127 
+----------------------------------------------------------------------
+
+Nombre: FUENTES/ESCALANTE/PATRICIA ELIZABETH
+DNI: 79766395 | Telefono: 984879474
+Vehiculos: 
+H7P-047  | Infracciones: 317 208 
+N6D-256  | Infracciones: 322 206 130 310 302 
+T3R-184  | Infracciones: 153 146 
+----------------------------------------------------------------------
+
+Nombre: MINAYA/BERROCAL/HELI
+DNI: 80310768 | Telefono: 977759788
+Vehiculos: 
+M1E-751  | Infracciones: No posee
+N5J-515  | Infracciones: 319 
+O2F-523  | Infracciones: 326 163 
+----------------------------------------------------------------------
+
+Nombre: NORABUENA/MOYA/HECTOR
+DNI: 80457845 | Telefono: 996461775
+Vehiculos: 
+M7F-612  | Infracciones: 150 
+W0C-131  | Infracciones: 104 
+Z5G-762  | Infracciones: 335 109 101 
+----------------------------------------------------------------------
+
+Nombre: JUSTINO/MARTINEZ/ENRIQUE
+DNI: 81485316 | Telefono: 988935410
+Vehiculos: 
+E1N-544  | Infracciones: No posee
+F1O-596  | Infracciones: No posee
+J5T-691  | Infracciones: 128 319 324 138 
+----------------------------------------------------------------------
+
+Nombre: EPIQUEN/AVILA/ENRIQUE
+DNI: 81528434 | Telefono: 998807065
+Vehiculos: 
+B3U-020  | Infracciones: 309 
+D6F-465  | Infracciones: 312 204 150 150 
+----------------------------------------------------------------------
+
+Nombre: CERNA/CERNA/CINTHIA
+DNI: 81799482 | Telefono: 993655221
+Vehiculos: 
+E3U-768  | Infracciones: 118 
+V7P-711  | Infracciones: 338 
+----------------------------------------------------------------------
+
+Nombre: EGUSQUIZA/BERROCAL/DORIS NANCY
+DNI: 82031355 | Telefono: 981941916
+Vehiculos: 
+H6X-124  | Infracciones: 148 208 
+J0J-790  | Infracciones: 113 
+Z5D-724  | Infracciones: 150 305 319 166 
+----------------------------------------------------------------------
+
+Nombre: SEDANO/RETAMOSO/ELIA YOLANDA
+DNI: 82870470 | Telefono: 978258726
+Vehiculos: 
+C4O-436  | Infracciones: 118 158 
+K0H-387  | Infracciones: 143 104 103 335 
+----------------------------------------------------------------------
+
+Nombre: RIVERO/CORONADO/HECTOR ALONSO
+DNI: 84186239 | Telefono: 999866685
+Vehiculos: 
+T6W-978  | Infracciones: 336 316 131 
+W9Y-717  | Infracciones: No posee
+----------------------------------------------------------------------
+
+Nombre: VIZCARDO/SINCHE/MARIBEL
+DNI: 85501710 | Telefono: 999687803
+Vehiculos: 
+N2C-590  | Infracciones: 320 129 
+Z4K-431  | Infracciones: 105 157 331 
+----------------------------------------------------------------------
+
+Nombre: MOSCOSO/LAURA/JANET VALENTINA
+DNI: 86429854 | Telefono: 995110557
+Vehiculos: 
+K1F-766  | Infracciones: 338 103 142 333 306 207 
+M5U-987  | Infracciones: 154 104 341 125 
+----------------------------------------------------------------------
+
+Nombre: ESCALANTE/ROJAS/INES ADRIA
+DNI: 86718074 | Telefono: 991057236
+Vehiculos: 
+L4O-783  | Infracciones: 301 307 107 
+Q6I-941  | Infracciones: 102 141 
+----------------------------------------------------------------------
+
+Nombre: SUAREZ/CHANG/GLORIA
+DNI: 87282766 | Telefono: 993562241
+Vehiculos: 
+S1D-093  | Infracciones: 134 323 123 105 204 331 111 
+----------------------------------------------------------------------
+
+Nombre: MORALES/PASQUEL/KARIN MARIBEL
+DNI: 87495937 | Telefono: 974326410
+Vehiculos: 
+C5G-743  | Infracciones: No posee
+L2H-207  | Infracciones: 158 123 150 336 
+M5G-669  | Infracciones: 304 155 124 
+Z8C-558  | Infracciones: 160 129 
+----------------------------------------------------------------------
+
+Nombre: PRADO/VERA/JUAN
+DNI: 88167677 | Telefono: 986820647
+Vehiculos: 
+B4C-100  | Infracciones: 202 121 332 149 123 
+O0C-616  | Infracciones: 338 118 128 
+V7U-622  | Infracciones: 160 
+Y4Y-028  | Infracciones: 329 316 316 332 310 
+----------------------------------------------------------------------
+
+Nombre: PINTO/ROJAS/JUVENAL FRANCISCO
+DNI: 88854166 | Telefono: 972680462
+Vehiculos: 
+H3E-885  | Infracciones: 122 
+L3N-150  | Infracciones: 104 334 135 
+O0K-148  | Infracciones: 331 
+----------------------------------------------------------------------
+
+Nombre: RIOS/DURAND/CARLOS EDILBERTO
+DNI: 89314225 | Telefono: 972378938
+Vehiculos: 
+C3A-423  | Infracciones: 164 110 341 104 
+----------------------------------------------------------------------
+
+Nombre: ARCA/LARRIEGA/LUCERO YLIANA
+DNI: 89941095 | Telefono: 976591986
+Vehiculos: 
+P6N-119  | Infracciones: 314 
+P6T-244  | Infracciones: 140 314 
+R8O-904  | Infracciones: 331 320 337 164 
+----------------------------------------------------------------------
+
+Nombre: IPARRAGUIRRE/PEREZ/NICOLAS
+DNI: 90467829 | Telefono: 982671098
+Vehiculos: 
+C9H-661  | Infracciones: 128 
+H1R-953  | Infracciones: 136 335 129 
+K4H-445  | Infracciones: 118 145 313 
+X8U-894  | Infracciones: 105 118 
+----------------------------------------------------------------------
+
+Nombre: VALDERRAMA/BERROCAL/EVERT
+DNI: 96693273 | Telefono: 999110102
+Vehiculos: 
+A6K-820  | Infracciones: 141 
+B9X-420  | Infracciones: 148 
+C0G-556  | Infracciones: 135 120 165 123 312 
+F3R-138  | Infracciones: 135 302 147 
+----------------------------------------------------------------------
+
+Nombre: PRADO/ESPINOZA/MILAGROS
+DNI: 97849227 | Telefono: 996306488
+Vehiculos: 
+I0K-077  | Infracciones: 323 109 311 126 328 341 
+----------------------------------------------------------------------
+
+Nombre: CORTES/CORTEZ/RAUL ALEX
+DNI: 99950484 | Telefono: 991966677
+Vehiculos: 
+L8A-167  | Infracciones: 326 
+X0R-946  | Infracciones: 326 
+Y6I-680  | Infracciones: 162 107 145 
+Y9W-731  | Infracciones: 338 135 103 
+----------------------------------------------------------------------
+
